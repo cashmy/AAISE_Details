@@ -125,5 +125,3 @@ You defined:
 And that’s foundational.
 
 ---
-
-Say the word and we build the weekly structure.
