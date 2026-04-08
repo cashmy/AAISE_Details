@@ -1,16 +1,3 @@
-Good. Now we move into the **behavioral engine of the Python course**.
-
-This is where beginners either:
-
-* gain confidence and momentum
-* or fall into confusion and dependency
-
-So the design here must be:
-
-> **simple, repeatable, confidence-building, and progressively deeper**
-
----
-
 # 📘 Python Programming (Basics) — Lab System (LS-01)
 
 ---

@@ -50,6 +50,7 @@ Learners will be successful when they are able to:
 * Organize content logically using headings, paragraphs, lists, and links
 * Build multi-page website structures
 * Apply consistent page organization
+* Ensure structure supports styling and interactivity
 
 ---
 
@@ -58,12 +59,13 @@ Learners will be successful when they are able to:
 * Define HTML structure and purpose
 * Identify common HTML elements
 * Explain semantic markup
+* Describe how HTML structure supports styling and interaction
 
 ---
 
 ---
 
-## **2. Design and style web pages using CSS**
+## **2. Design and style web pages using CSS to create readable, usable, and responsive layouts**
 
 ### Assessment Strategies
 
@@ -77,6 +79,7 @@ Learners will be successful when they are able to:
 * Use selectors, classes, and IDs effectively
 * Create visually consistent and readable designs
 * Apply basic responsive design techniques
+* Ensure styling supports usability and interaction
 
 ---
 
@@ -85,10 +88,11 @@ Learners will be successful when they are able to:
 * Define CSS styling principles
 * Explain layout concepts (box model, positioning)
 * Identify responsive design basics
+* Explain how styling impacts usability and user experience
 
 ---
 
-## **3. Implement interactive behavior using JavaScript**
+## **3. Implement interactive behavior using JavaScript to respond to user input and manipulate web page content**
 
 ### Assessment Strategies
 
@@ -102,6 +106,7 @@ Learners will be successful when they are able to:
 * Implement interactive behaviors in web pages
 * Respond to user input and events
 * Connect program logic to visible outcomes
+* Manipulate HTML elements and styles dynamically
 
 ---
 
@@ -115,7 +120,7 @@ Learners will be successful when they are able to:
 
 ---
 
-## **4. Debug and evaluate web applications using progressive techniques**
+## **4. Debug and evaluate web applications using progressive techniques across HTML, CSS, and JavaScript**
 
 ### Assessment Strategies
 
@@ -129,6 +134,7 @@ Learners will be successful when they are able to:
 * Use console logging to trace JavaScript behavior
 * Utilize browser tools to inspect and troubleshoot web pages
 * Apply structured debugging approaches to resolve errors
+* Diagnose issues across HTML, CSS, and JavaScript interactions
 
 ---
 
@@ -137,12 +143,13 @@ Learners will be successful when they are able to:
 * Define debugging and troubleshooting
 * Identify common HTML, CSS, and JavaScript issues
 * Explain debugging strategies
+* Describe how issues can originate across multiple layers
 
 ---
 
 ---
 
-## **5. Develop web solutions using structured thinking and appropriate tools**
+## **5. Develop web solutions using structured problem-solving, appropriate tools, and iterative improvement**
 
 ### Assessment Strategies
 
@@ -156,6 +163,7 @@ Learners will be successful when they are able to:
 * Apply structured problem-solving to design and implementation
 * Use AI tools to assist in development when appropriate
 * Evaluate and refine solutions for usability and clarity
+* Iteratively improve solutions based on testing and feedback
 
 ---
 
@@ -164,6 +172,7 @@ Learners will be successful when they are able to:
 * Describe structured development approaches
 * Identify when and how to use AI tools
 * Explain iterative improvement of web solutions
+* Explain how planning, building, and refining form a development cycle
 
 ---
 

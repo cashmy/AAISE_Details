@@ -203,8 +203,6 @@
 
 ---
 
----
-
 ### 🔹 Design Quality (NEW — Important)
 
 *(Handled carefully to avoid discouragement)*
@@ -234,8 +232,6 @@
 This evaluates:
 
 > **clarity and usability—not artistic talent**
-
----
 
 ---
 
