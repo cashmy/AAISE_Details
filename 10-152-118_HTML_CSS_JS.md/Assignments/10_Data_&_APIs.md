@@ -1,30 +1,36 @@
-# 🧭 ASSIGNMENT 9 — MODULAR THINKING
+# 🧭 ASSIGNMENT 10 — DATA & APIs
 
-**Week 9 — “Breaking Systems into Parts”**
+**Week 10 — “Beyond the Page”**
 
 ---
 
 ## 🔹 Context
 
-Your programs now:
+So far, your application has used:
 
-* respond to user actions
-* handle timing and sequence
-* include multiple pieces of logic
+* data you created
+* logic you controlled
+* behavior that happens immediately
 
-As programs grow, they become harder to understand unless they are organized.
+This week introduces a new challenge:
 
-This week focuses on breaking systems into **manageable parts**.
+> **Working with data that comes from outside your application.**
+
+That data:
+
+* must be requested
+* does not arrive instantly
+* must be interpreted and used
 
 ---
 
 ## 🔹 Objective
 
-Improve your application by:
+Extend your application to:
 
-* separating logic into smaller pieces
-* organizing code by responsibility
-* reducing complexity in any one place
+* retrieve external or simulated data
+* process that data
+* display it clearly in your UI
 
 ---
 
@@ -32,53 +38,81 @@ Improve your application by:
 
 ### 🔹 Task
 
-Restructure your existing JavaScript into clearer, modular pieces.
+Fetch and display external data in your application.
 
 ---
 
 ### 🔹 Requirements
 
-* Break your code into **multiple functions**, each with a clear purpose
+You must:
 
-* Ensure that:
+### 1. Retrieve Data
 
-  * each function handles one responsibility
-  * logic is not duplicated unnecessarily
+Use one of the following:
 
-* Your code should include:
+* a public API (preferred, simple)
+* OR provided JSON data (fallback option)
 
-  * at least **3–4 distinct functions**
-  * separation between:
+---
 
-    * event handling
-    * data handling
-    * display/update logic
+### 2. Work with JSON
+
+Your data must include:
+
+* at least **one object**
+* and/or **an array of items**
+
+You must:
+
+* access specific values
+* not just display raw JSON
+
+---
+
+### 3. Display Data
+
+Your application must:
+
+* show the data in the UI
+* update content dynamically
+
+Examples:
+
+* list of items
+* user information
+* simple dataset display
 
 ---
 
 ### 🔹 Focus
 
-* reducing complexity
-* separating concerns
-* organizing behavior
+* understanding data structure (JSON)
+* retrieving data (fetch)
+* connecting data → UI
 
 ---
 
 ### 🔹 Expectation
 
-This may feel like reworking what already functions.
+You may experience:
 
-That is intentional.
+* “undefined” values
+* data not appearing immediately
+
+That is part of this week.
 
 ---
 
 # 🧠 CONCEPT FOCUS (Wednesday)
 
-* Why large blocks of code become difficult to manage
-* Functions as building blocks of systems
-* Separating concerns (input, processing, output)
-* Thinking of programs as connected parts
-* Recognizing when code needs to be reorganized
+* What JSON is and how it is structured
+* How data is retrieved from outside sources
+* The idea of asynchronous behavior (data arrives later)
+* Data flow:
+
+> request → receive → use
+
+* Why timing matters in programs
 
 ---
 
@@ -86,33 +120,41 @@ That is intentional.
 
 ### 🔹 Task
 
-Improve modular structure and clarity.
+Improve how your application handles and displays data.
 
 ---
 
 ### 🔹 Requirements
 
-* Ensure:
+You must:
 
-  * each function is clearly named
-  * responsibilities are well-defined
+### Improve Data Handling
 
-* Improve:
+* ensure data is used **after it arrives**
+* reduce errors caused by timing
 
-  * flow of logic between functions
-  * readability and organization
+---
 
-* Add at least:
+### Improve Display
 
-  * one improvement that simplifies or clarifies your system
+* format data clearly
+* avoid raw/unstructured output
+
+---
+
+### Add at least ONE improvement:
+
+* filter or select specific data
+* improve layout or readability
+* simplify your data handling logic
 
 ---
 
 ### 🔹 Focus
 
-* clarity of structure
-* maintainability
-* logical separation
+* clarity of data usage
+* reliability of behavior
+* understanding flow
 
 ---
 
@@ -128,9 +170,9 @@ Submit your updated website including:
 
 ### 🔹 Submission Requirements
 
-* code must be modular and readable
-* functions must have clear purposes
-* application must function correctly
+* data must be retrieved and displayed correctly
+* JSON must be accessed meaningfully (not dumped)
+* application must function consistently
 
 ---
 
@@ -138,7 +180,7 @@ Submit your updated website including:
 
 In 2–3 sentences, answer:
 
-> How did breaking your code into smaller parts affect your understanding of your program?
+> What challenges did you encounter when working with external data, and how did you resolve them?
 
 ---
 
@@ -148,8 +190,8 @@ In 2–3 sentences, answer:
 
 ### 🔹 Primary Focus
 
-* **Structured Development**
 * **Interactivity (JavaScript)**
+* **Structured Development**
 
 ---
 
@@ -157,13 +199,13 @@ In 2–3 sentences, answer:
 
 * Debugging & Problem Solving
 * Solve Problems
-* Work Productively
+* Value Learning
 
 ---
 
 ### 🔹 Emerging
 
-* System thinking (explicit)
+* System thinking (data flow awareness)
 
 ---
 
@@ -171,32 +213,41 @@ In 2–3 sentences, answer:
 
 To succeed on this assignment:
 
-* your code must be divided into clear, purposeful functions
-* your logic must be easier to follow than before
-* your program must still function correctly
-* your structure must reduce confusion
+* your application must retrieve and display data
+* you must correctly access values from JSON
+* your UI must update based on that data
+* your program must handle timing reliably
 
 ---
 
 # 🔥 Instructor Notes (For You)
 
-Students often:
+This is a **high-friction week**.
 
-* keep adding code without reorganizing
-* resist restructuring
-* struggle with naming functions clearly
+Students will:
 
-Your role:
+* try to use data before it arrives
+* misunderstand JSON structure
+* feel “random” behavior
 
-* emphasize clarity over cleverness
-* show before/after examples
-* reinforce that structure reduces future effort
+---
+
+## Your Role
+
+* simplify examples
+* reinforce data flow repeatedly
+* normalize confusion
+
+---
+
+## Critical Reinforcement
+
+> “The problem is not your code—the data hasn’t arrived yet.”
 
 ---
 
 # 🧠 Subtle Concept Being Installed
 
-> “Complex systems become manageable when broken into clear parts.”
+> “Applications don’t just use data—they receive and respond to it over time.”
 
 ---
-

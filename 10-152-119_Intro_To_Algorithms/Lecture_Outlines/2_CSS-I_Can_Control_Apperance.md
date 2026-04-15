@@ -33,17 +33,14 @@
 ## **3. Core Concepts**
 
 * What CSS is (styling layer)
-* Define each word in “Cascading Style Sheets”:
-  * Cascading = how styles apply and override
-  * Style = visual properties (font, color, spacing)
-  * Sheets = separate files for organization
 * Linking CSS to HTML (external file)
 * Basic selectors:
+
   * element
   * class (introduce lightly)
-  * id (mention as a concept, but discourage use)
 * The box model (margin, padding — concept level)
 * Readability principles:
+
   * spacing
   * contrast
   * hierarchy

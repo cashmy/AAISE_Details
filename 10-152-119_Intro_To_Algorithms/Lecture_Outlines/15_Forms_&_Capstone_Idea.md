@@ -14,10 +14,6 @@
 
 ---
 
-* Submit ideas for capstone project (lightweight, exploratory)
-
----
-
 ## **2. Course Positioning**
 
 > “You’ve worked with events, data, and interaction.
