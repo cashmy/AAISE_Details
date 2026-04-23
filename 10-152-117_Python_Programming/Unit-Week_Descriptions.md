@@ -61,9 +61,9 @@ By the end of the week, students should be able to refactor small programs into 
 
 Week 4 develops code literacy. Students should learn that ownership of code includes the ability to inspect it, trace it, test it, and repair it. Debugging should be presented as normal engineering behavior rather than as evidence of failure. This is also the right point to give stronger treatment to class-based methodology, not because students need deep OOP mastery, but because they increasingly need to read, modify, and judge class-based code that AI often produces.
 
-The week should compare different organizational styles in plain language: procedural, function-based, and simple class-based code. Students do not need formal OOP theory. They do need to recognize a class, understand what an object stores, understand what a method does, and modify a small example without freezing. AI support can appear here in a bounded way for debugging and explanation, but only after manual diagnosis is attempted first.
+The week should compare different organizational styles in plain language: procedural, function-based, and simple class-based code. Students do not need formal OOP theory. They do need to recognize a class, understand what an object stores, understand what a method does, and modify a small example without freezing. This is also the point where basic testing logic should become more explicit. Students should compare expected vs actual output, use simple test cases, and justify why a fix works. AI support can appear here in a bounded way for debugging and explanation, but only after manual diagnosis is attempted first.
 
-By the end of the week, students should be more comfortable reading unfamiliar code, identifying bug sources, testing expected vs actual behavior, and explaining the parts of a simple class-based example.
+By the end of the week, students should be more comfortable reading unfamiliar code, identifying bug sources, testing expected vs actual behavior, explaining the parts of a simple class-based example, and justifying a chosen fix.
 
 ---
 
@@ -73,19 +73,19 @@ By the end of the week, students should be more comfortable reading unfamiliar c
 
 Week 5 connects programming to persistence and structured data. This is where students begin to see that programs are not limited to immediate input and output; they can store, retrieve, and work with information over time. File handling, basic CSV/JSON use, and beginner-friendly error handling make the course feel more practical and more real. Students should begin to feel that they are building tools rather than isolated exercises.
 
-This week should also reinforce that real-world programming often includes messy inputs, missing files, bad data, and failure conditions. Error handling is not a side topic here. It is part of building programs that behave responsibly. AI use can be introduced in a more purposeful but still bounded way by comparing parsing strategies, revising error messages, or exploring alternate implementations after manual work has already begun.
+This week should also reinforce that real-world programming often includes messy inputs, missing files, bad data, and failure conditions. Error handling is not a side topic here. It is part of building programs that behave responsibly. By the end of the week, students should also begin to recognize that data can live in more than one form. After working with files and structured flat data, they can be introduced to the idea that larger applications may organize data through models, relational structures, or non-relational approaches. This should remain a recognition-level bridge rather than a full database unit. AI use can be introduced in a more purposeful but still bounded way by comparing parsing strategies, revising error messages, or using AI as an explainer for higher-level data concepts.
 
-By the end of the week, students should be able to build a small utility that saves and reloads information, explain how file and data handling work, and describe how their program behaves when something goes wrong.
+By the end of the week, students should be able to build a small utility that saves and reloads information, explain how file and data handling work, describe how their program behaves when something goes wrong, and recognize that application data can later be organized at a higher structural level.
 
 ---
 
-## Week 6 — APIs, External Data, and Responsible AI Use
+## Week 6 — APIs, External Data, and Python App Architecture
 
-Week 6 expands the course outward again by introducing APIs and external data. This week is less about teaching networking in depth and more about giving students a practical sense that Python can connect to information beyond the local program. Endpoints, requests, responses, and JSON should be taught in a concrete, usable way. Students should see external data as structured, inspectable, and transformable rather than mysterious.
+Week 6 expands the course outward again by introducing APIs, external data, and a bounded preview of Python application architecture. This week is less about teaching networking in depth and more about giving students a practical sense that Python can connect to information beyond the local program and can also participate in larger application structures. Students should work with endpoints, requests, responses, and JSON in a concrete, usable way while also being introduced to the idea that Python may appear in asynchronous flows or web-app architectures.
 
-This is also the point where responsible AI use becomes more explicit. Tasks are complex enough now that AI can genuinely improve productivity, but the course still needs to preserve accountability. Students should compare manual API code with AI-assisted code, inspect response structures carefully, and explain what required human decisions. Tokens and authentication can be introduced at a recognition level, especially to help students recognize ideas they may see in examples or generated code, but without turning the week into an authentication unit.
+This is also the point where responsible AI use becomes more explicit. Tasks are complex enough now that AI can genuinely improve productivity, but the course still needs to preserve accountability. Students should compare manual API code with AI-assisted code, inspect response structures carefully, and explain what required human decisions. They should also be introduced, at a recognition level, to synchronous vs asynchronous thinking and to Python web-app architecture concepts such as Django's MVT pattern, templates, and forms. These are not full build targets in this course; they are structural previews that help students see where Python can go next.
 
-By the end of the week, students should be able to retrieve and use simple external data, validate AI-assisted code rather than trusting it blindly, and explain the difference between help with implementation and responsibility for correctness.
+By the end of the week, students should be able to retrieve and use simple external data, validate AI-assisted code rather than trusting it blindly, explain the difference between help with implementation and responsibility for correctness, and recognize some of the larger architectural contexts in which Python may be used.
 
 ---
 
@@ -95,9 +95,9 @@ By the end of the week, students should be able to retrieve and use simple exter
 
 Week 7 introduces Refraction-Based Architecture as a distinct, bounded development paradigm rather than as the hidden method of the entire course. This matters because RBA is emerging, not yet a universal industry norm, and may differ from the expectations of more traditional shops. Students should understand that this week is about learning a real project-development framework used by the instructor, not about replacing Python fundamentals or claiming that all software teams work this way.
 
-The instructional emphasis should be on intent-first and structure-first development. Students should see clearly how a weakly framed project start differs from a stronger one. They should practice defining purpose, inputs, outputs, constraints, success criteria, and likely structure before using AI for assistance. This is the bridge between earlier bounded AI use and final capstone application. It should feel practical, not overly theoretical.
+The instructional emphasis should be on intent-first and structure-first development. Students should see clearly how a weakly framed project start differs from a stronger one. They should practice defining purpose, inputs, outputs, constraints, success criteria, likely structure, and AI-use boundaries before moving into significant implementation. The week should end with a capstone proposal checkpoint rather than with vague project intention. This is the bridge between earlier bounded AI use and final capstone application. It should feel practical, not overly theoretical.
 
-By the end of the week, students should be able to frame a project more deliberately, justify an initial structural choice, and explain how clearer framing can improve project quality, features, and coherence.
+By the end of the week, students should be able to frame a project more deliberately, justify an initial structural choice, compare possible project paths, define AI-use boundaries, and submit a capstone direction that is realistic, explainable, and ready for approval.
 
 ---
 
@@ -124,4 +124,3 @@ Taken together, these weeks move students through a deliberate progression:
 The most important outcome is not just that students can produce code.
 
 It is that they can understand what they build, improve it, explain it, and use AI support without surrendering judgment.
-

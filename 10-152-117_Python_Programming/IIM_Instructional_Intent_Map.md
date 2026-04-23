@@ -330,25 +330,30 @@ This preserves a consistent learner experience across the course while reducing 
 
 **Concept Frame**
 
-* debugging and explanation are part of code ownership
+* testing basics and debugging are part of code ownership
+* AI can assist debugging, but only after the student has attempted diagnosis
 
 **Demo / Guided Example**
 
-* compare multiple fixes for the same problem
+* simple test cases
+* expected vs actual output
+* compare manual and AI-assisted fix options for the same problem
 
 **Hands-On Practice**
 
-* diagnose, repair, and explain broken code
-* use tightly bounded AI support for debugging or explanation only after manual diagnosis is attempted
+* repair broken code
+* write or check sample test cases
+* use tightly bounded AI support only after manual diagnosis is attempted
 
 **Explain / Checkpoint**
 
-* justify why a fix works
+* justify why a chosen fix works
+* explain how the test case confirms correctness
 
 ### Topic Treatment
 
-* **Core Manual:** tracing, debugging workflow, testing basics, code explanation
-* **Guided AI-Supported:** bounded debugging help, code explanation, alternate-fix comparison
+* **Core Manual:** tracing, debugging workflow, testing basics, code explanation, expected-vs-actual reasoning
+* **Guided AI-Supported:** bounded debugging help, code explanation, alternate-fix comparison after manual diagnosis
 * **Recognition / Interpretation:** classes, objects, attributes, methods, `__init__`, class-based code as a common AI default
 
 ---
@@ -404,64 +409,71 @@ This preserves a consistent learner experience across the course while reducing 
 
 **Concept Frame**
 
-* practical data handling often involves revision and cleanup
+* application data can be structured in layers beyond flat files
+* students should begin to recognize where models, databases, and application data concepts fit
 
 **Demo / Guided Example**
 
-* compare alternate parsing or error-handling approaches
+* compare structured data representations
+* introduce ORM as a concept
+* compare relational and non-relational data ideas at a recognition level
 
 **Hands-On Practice**
 
-* build a small data-driven utility that saves and reloads information
-* use AI in a bounded way only after manual work is underway
+* inspect and compare data representations
+* discuss how the same information might live in files, structured data, or an application data model
 
 **Explain / Checkpoint**
 
-* identify what was improved and how correctness was checked
+* explain what changes when data moves from files toward application-level structure
+* use AI primarily as an explainer rather than a generator
 
 ### Topic Treatment
 
 * **Core Manual:** file I/O basics, text files, CSV/JSON reading and writing, simple exception handling
 * **Guided AI-Supported:** parsing helpers, error-message revision, comparison of alternate data-handling solutions
-* **Recognition / Interpretation:** config-style data, context managers, more advanced exception patterns if surfaced by AI
+* **Recognition / Interpretation:** config-style data, context managers, ORM concepts, relational vs non-relational data, and application data layers as a preview bridge
 
 ---
 
-## Week 6 Theme — APIs, External Data, and Responsible AI Use
+## Week 6 Theme — APIs, External Data, and Python App Architecture
 
 ### Monday
 
 **Concept Frame**
 
-* APIs as structured ways programs retrieve or send information
-* endpoints, requests, responses, and JSON as practical terms
+* synchronous vs asynchronous thinking in Python
+* waiting, sequential flow, and asynchronous recognition as practical ideas
 
 **Demo / Guided Example**
 
-* read a simple endpoint example
-* inspect a structured response
+* small time-based or request-based example
+* show the difference between sequential waiting and asynchronous recognition patterns
 
 **Hands-On Practice**
 
-* retrieve and inspect small pieces of external data
+* work through a small time-based or request-based example
 
 **Explain / Checkpoint**
 
-* explain how request and response fit together
+* explain what changes when work happens sequentially versus asynchronously
+* use AI primarily as an explainer here, not as a build shortcut
 
 ### Tuesday
 
 **Concept Frame**
 
-* responsible AI use in more complex programming tasks
-* tokens/authentication as recognition-level ideas tied to access and permissions
+* APIs as structured ways programs retrieve or send information
+* endpoints, requests, responses, and HTTP/REST as practical terms
 
 **Demo / Guided Example**
 
 * compare manual API code with AI-assisted code generation for the same task
+* inspect a structured response and parse useful values
 
 **Hands-On Practice**
 
+* use a third-party API or controlled endpoint
 * adapt request code, parse useful values, and revise structure
 
 **Explain / Checkpoint**
@@ -472,25 +484,28 @@ This preserves a consistent learner experience across the course while reducing 
 
 **Concept Frame**
 
-* bounded AI support requires validation, not trust
+* Python can also live inside larger application architectures
+* Django and MVT are recognition-level examples of how Python may support UI-driven systems
 
 **Demo / Guided Example**
 
-* show how a plausible AI-generated example can still need correction
+* preview Django MVT
+* inspect templates, forms, views, and the flow between them
 
 **Hands-On Practice**
 
-* build a small external-data feature into an existing mini-app
+* inspect a simple web-app flow or complete a small guided edit
 
 **Explain / Checkpoint**
 
-* justify what was accepted, changed, or rejected
+* explain where templates, forms, and views fit in the overall architecture
+* use AI as bounded support for explanation or guided inspection
 
 ### Topic Treatment
 
 * **Core Manual:** API basics, requests/responses at an introductory level, reading structured JSON responses
 * **Guided AI-Supported:** request scaffolding, endpoint adaptation, response formatting, bounded code generation
-* **Recognition / Interpretation:** tokens, auth headers, rate limits, decorators/iterators or wrappers if encountered in library examples
+* **Recognition / Interpretation:** asynchronous thinking, tokens, auth headers, rate limits, and Python web-app architecture concepts such as Django MVT, templates, and forms
 
 ---
 
@@ -512,15 +527,16 @@ This preserves a consistent learner experience across the course while reducing 
 
 **Demo / Guided Example**
 
-* compare a weakly framed project start with an intent-first, structure-first project start
+* demonstrate project definition and compare a weakly framed start with an intent-first, structure-first start
 
 **Hands-On Practice**
 
-* analyze small project starts and identify which one has stronger framing
+* draft a project framing sheet including purpose, inputs, outputs, constraints, and success criteria
 
 **Explain / Checkpoint**
 
 * describe the difference between asking for code first and defining intent first
+* identify what should be clarified before AI participation begins
 
 ### Tuesday
 
@@ -531,38 +547,42 @@ This preserves a consistent learner experience across the course while reducing 
 **Demo / Guided Example**
 
 * show a simplified RBA flow for a small Python project
+* demonstrate bounded upward revision when a project structure starts to drift
 
 **Hands-On Practice**
 
-* frame a project idea before code generation
+* revise project framing using feedback
+* define structure, likely risks, and AI-use boundaries
 
 **Explain / Checkpoint**
 
-* explain inputs, outputs, constraints, success criteria, and likely structure
+* explain inputs, outputs, constraints, success criteria, structure, and risk points
 
 ### Thursday
 
 **Concept Frame**
 
 * capstone quality improves when development starts with clearer framing
+* students must choose a project style and scope they can actually explain and complete
 
 **Demo / Guided Example**
 
+* compare console, data-driven, API-based, and light UI/web-architecture project paths
 * compare procedural, function-based, and light class-based structure choices for a project
 
 **Hands-On Practice**
 
-* begin capstone framing using simplified RBA ideas
+* submit capstone proposal for approval
 
 **Explain / Checkpoint**
 
-* justify the chosen project structure and what AI should or should not help with
+* justify the chosen project structure, scope, and what AI should or should not help with
 
 ### Topic Treatment
 
-* **Core Manual:** project framing, decomposition, intent definition, success criteria, structure choice
-* **Guided AI-Supported:** bounded project ideation and refinement after framing is complete
-* **Recognition / Interpretation:** RBA as a distinct paradigm, top-down governance, reality contact, bounded upward revision when friction appears
+* **Core Manual:** project framing, decomposition, intent definition, success criteria, structure choice, proposal justification
+* **Guided AI-Supported:** bounded project ideation and refinement after framing is complete; AI as collaborator rather than originator
+* **Recognition / Interpretation:** RBA as a distinct paradigm, top-down governance, reality contact, bounded upward revision when friction appears, and multiple project-path choices including light UI/web-architecture paths when appropriate
 
 ---
 
@@ -703,4 +723,3 @@ This artifact reinforces:
 # MOST IMPORTANT OUTCOME
 
 Students leave this course able to build and explain basic Python programs, use AI assistance with accountability rather than dependence, and apply a bounded introduction to RBA in order to frame, refine, and justify a stronger capstone project.
-

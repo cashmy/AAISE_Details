@@ -225,11 +225,11 @@ This assignment gives students practice managing program state in a more realist
 
 **Description:**
 
-Students receive intentionally broken code and must identify problems, repair them, and explain both the bug and the fix. Some examples may include function-based code, loop logic, or collection handling.
+Students receive intentionally broken code and must identify problems, repair them, and explain both the bug and the fix. They should also use simple test cases or expected-vs-actual checks to confirm that a repair actually works. Some examples may include function-based code, loop logic, or collection handling.
 
 **Instructional Purpose:**
 
-This assignment reinforces that ownership includes diagnosis, correction, and explanation. It also creates a natural place to compare manual debugging with bounded AI debugging support.
+This assignment reinforces that ownership includes diagnosis, correction, testing, and explanation. It also creates a natural place to compare manual debugging with bounded AI debugging support.
 
 **AI Allowance:**
 
@@ -332,7 +332,38 @@ This assignment helps students understand that structured data can be inspected,
 
 ---
 
-## Assignment 10 — API Data Fetcher
+## Assignment 10 — Data Representation and App-Structure Preview
+
+**Primary Focus:**
+
+* structured data representations
+* files vs models
+* relational vs non-relational recognition
+* application architecture preview
+
+**Likely Scope:**
+
+* one session
+
+**Description:**
+
+Students inspect and compare multiple ways information may be represented, such as flat files, structured JSON, and higher-level application data models. They may also preview where concepts like ORM, models, or application-layer data structures fit in larger systems.
+
+**Instructional Purpose:**
+
+This assignment creates a bridge between file-based Python work and the idea that larger applications organize data differently. It is meant as a recognition-level architectural preview, not a full database or framework build.
+
+**AI Allowance:**
+
+* bounded explanation support
+
+**Capstone Preparation Value:**
+
+* broadens students' sense of where Python programs can live and how data may be structured
+
+---
+
+## Assignment 11 — API Data Fetcher
 
 **Primary Focus:**
 
@@ -363,7 +394,38 @@ This assignment makes Python feel connected to the outside world. It also create
 
 ---
 
-## Assignment 11 — RBA Project Framing Exercise
+## Assignment 12 — Python App Architecture Preview
+
+**Primary Focus:**
+
+* Python beyond console scripts
+* web-app architecture recognition
+* MVT
+* templates and forms
+
+**Likely Scope:**
+
+* one session
+
+**Description:**
+
+Students inspect a simple Python web-app flow at a recognition level. This may include a guided look at a view, template, form, or MVT flow so students can see how Python may participate in UI-driven systems.
+
+**Instructional Purpose:**
+
+This assignment addresses the architectural gap between beginner Python programs and larger application structures. It is a bounded preview, not a full framework-development assignment.
+
+**AI Allowance:**
+
+* bounded explanation or guided-inspection support
+
+**Capstone Preparation Value:**
+
+* helps students recognize larger project-path options without requiring full framework mastery
+
+---
+
+## Assignment 13 — RBA Project Framing Exercise
 
 **Primary Focus:**
 
@@ -394,7 +456,7 @@ This assignment serves as a bridge into the capstone. It is less about implement
 
 ---
 
-## Assignment 12 — Capstone Proposal and Approval
+## Assignment 14 — Capstone Proposal and Approval
 
 **Primary Focus:**
 
@@ -409,7 +471,7 @@ This assignment serves as a bridge into the capstone. It is less about implement
 
 **Description:**
 
-Students submit a capstone proposal for approval. The proposal should describe the project goal, likely features, program structure, risks, data use if any, and expected AI involvement.
+Students submit a capstone proposal for approval. The proposal should describe the project goal, likely features, program structure, risks, data use if any, expected AI involvement, and why the chosen scope is realistic for the course.
 
 **Instructional Purpose:**
 
@@ -425,7 +487,7 @@ This assignment keeps capstone scope realistic and creates a checkpoint before s
 
 ---
 
-## Assignment 13 — Capstone Build
+## Assignment 15 — Capstone Build
 
 **Primary Focus:**
 
@@ -457,7 +519,7 @@ This is the primary integration assignment of the course. Students move from tar
 
 ---
 
-## Assignment 14 — AI Use Justification and Final Presentation
+## Assignment 16 — AI Use Justification and Final Presentation
 
 **Primary Focus:**
 
@@ -507,14 +569,16 @@ This final assignment ensures that the course evaluates understanding, judgment,
 
 * Assignment 8 — Save and Load Utility
 * Assignment 9 — Structured Data Reader
-* Assignment 10 — API Data Fetcher
+* Assignment 10 — Data Representation and App-Structure Preview
+* Assignment 11 — API Data Fetcher
+* Assignment 12 — Python App Architecture Preview
 
 ## RBA and Capstone
 
-* Assignment 11 — RBA Project Framing Exercise
-* Assignment 12 — Capstone Proposal and Approval
-* Assignment 13 — Capstone Build
-* Assignment 14 — AI Use Justification and Final Presentation
+* Assignment 13 — RBA Project Framing Exercise
+* Assignment 14 — Capstone Proposal and Approval
+* Assignment 15 — Capstone Build
+* Assignment 16 — AI Use Justification and Final Presentation
 
 ---
 
@@ -532,4 +596,3 @@ This Python course benefits more from:
 * late integration
 
 That makes the capstone more meaningful because students arrive with a wider set of practiced skills rather than a single project they have been dragging forward across every topic.
-

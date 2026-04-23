@@ -66,7 +66,7 @@ The goal this week is to help you write programs that are not only correct, but 
 
 This week, you will focus on understanding code more deeply.
 
-You will practice debugging, testing, and explaining how code works. You will also begin reading simple structured code examples, including class-based code, so you can recognize different ways programs may be organized.
+You will practice debugging, basic testing, and explaining how code works. You will also begin reading simple structured code examples, including class-based code, so you can recognize different ways programs may be organized.
 
 The goal this week is to build confidence when code becomes more complex or when something does not work as expected.
 
@@ -86,17 +86,17 @@ The goal is to help you see Python as a tool for building more practical and con
 
 This week, you will learn how programs save, load, and manage information over time.
 
-You will work with files, basic error handling, and simple structured data formats such as CSV or JSON.
+You will work with files, basic error handling, and simple structured data formats such as CSV or JSON. You will also begin to see that larger applications organize data in more structured ways than simple files alone.
 
 The goal this week is to help you build programs that can store information, recover it later, and respond more responsibly when problems occur.
 
 ---
 
-## Week 6 — APIs, External Data, and Responsible AI Use
+## Week 6 — APIs, External Data, and Python App Architecture
 
 This week, you will learn how Python programs can connect to information outside the program itself.
 
-You will work with APIs, requests, responses, and JSON data in a practical, beginner-friendly way. You will also continue learning how to use AI responsibly as a support tool rather than as a replacement for understanding.
+You will work with APIs, requests, responses, and JSON data in a practical, beginner-friendly way. You will also be introduced to the idea that Python can appear in larger application structures, including web-based systems. At the same time, you will continue learning how to use AI responsibly as a support tool rather than as a replacement for understanding.
 
 The goal this week is to help you use outside data while still making thoughtful decisions about structure, correctness, and explanation.
 
@@ -116,7 +116,7 @@ The goal is to help you move from completing guided tasks to building and explai
 
 This week, you will learn how to frame a project more deliberately before building it.
 
-You will focus on defining purpose, inputs, outputs, constraints, and likely structure before moving into implementation. This will help you prepare for a stronger capstone project.
+You will focus on defining purpose, inputs, outputs, constraints, and likely structure before moving into implementation. You will also make key decisions about project scope and direction so your capstone is realistic and well planned.
 
 The goal this week is to help you think more clearly about what you are building and why.
 
@@ -143,4 +143,3 @@ By the end of this course, you should be able to:
 * build and present a small project that demonstrates what you have learned
 
 This course is designed to help you grow step by step. Each phase builds on the one before it, and each week moves you closer to creating, understanding, and explaining your own programs.
-
