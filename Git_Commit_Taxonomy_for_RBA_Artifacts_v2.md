@@ -170,6 +170,28 @@ meaning in the history.
 
 ---
 
+## Recommended Scope Set
+
+To keep scopes just as usable as the commit types, the default shared scope set
+should also remain small.
+
+Recommended scopes:
+
+- `program`
+- `course`
+- `whitepaper`
+- `case-study`
+- `workflow`
+- `repo`
+
+These scopes are intentionally broad enough to stay memorable while still being
+specific enough to make commit history easy to scan.
+
+If a more specialized scope is occasionally needed, it can still be used, but
+the default shared convention should stay small.
+
+---
+
 ## Internal Meanings
 
 To keep history interpretable, the types can be read this way:
@@ -195,13 +217,13 @@ To keep history interpretable, the types can be read this way:
 
 ```text
 frame(program): redefine current problem state around mixed workforce realities
-build(capability): add graduate capability model and workforce definitions
-build(bridge): create course direction matrix and semester progression
+build(program): add graduate capability model and workforce definitions
+build(program): create course direction matrix and semester progression
 refactor(program): revise course-slot logic after deeper bridge analysis
 synth(whitepaper): combine summary, core sections, appendices, and contents
-review(supervisor): adjust framing and readability for management audience
-meta(repo): add RBA artifact commit taxonomy guidance
-chore(artifacts): rename and reorganize white paper support files
+review(whitepaper): adjust framing and readability for management audience
+meta(workflow): add RBA artifact commit taxonomy guidance
+chore(repo): rename and reorganize white paper support files
 ```
 
 ---
@@ -232,3 +254,7 @@ That makes the taxonomy:
 - easier to apply consistently
 - more useful for mixed commits
 - better aligned with how RBA work actually unfolds
+
+The same design principle applies to scopes:
+
+keep them broad enough to remember and stable enough to share.
