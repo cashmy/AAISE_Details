@@ -218,6 +218,19 @@ Code requirements, if code is created:
 - keep the file small enough to demo live
 - use clear variable names
 - include only helpful comments
+- instructor demo code should use light ANSI color when color reinforces an
+  observable distinction in the demo, especially for headings, pass/fail
+  results, warnings, edge cases, timing signals, trace movement, comparison
+  winners, and summary statements
+- ANSI color should remain a presentation layer, not part of the assessed
+  student requirement
+- include a `NO_COLOR` environment-variable fallback when practical
+- if color would be purely decorative and would not clarify the evidence, state
+  that decision in the demo notes
+- do not introduce third-party console formatting packages such as `rich`
+  until a later lab explicitly benefits from that added dependency; if used,
+  document the dependency in `Assignments/requirements.txt` and the lab's
+  instructor notes
 
 Before editing, briefly summarize how the demo will differ from the lab.
 After editing, list changed files and how the demo supports near transfer.
@@ -297,6 +310,9 @@ tells you otherwise. Create:
 Produce:
 - success_solution.py, if code is appropriate
 - success_notes.md
+- optional_colorized_success_solution.py, when colorized console output helps
+  make evidence easier to inspect
+- optional_colorized_notes.md, when an optional colorized solution is created
 
 Successful version requirements:
 - show one complete acceptable solution, not the only possible solution
@@ -306,6 +322,26 @@ Successful version requirements:
 - make the solution readable for post-assignment study
 - do not weaken the original assignment by making the successful version too
   generic
+- keep `success_solution.py` plain and focused on the required solution
+- if a colorized success version is created, it must preserve the same logic and
+  evidence while changing only the presentation layer
+- colorized success versions demonstrate refinement after correctness,
+  observability, and explanation; they are not grading requirements
+- use ANSI color first; do not use third-party presentation packages unless the
+  lab explicitly benefits from the added dependency
+- include a `NO_COLOR` environment-variable fallback when practical
+- for fixed-width console tables, pad the visible text before applying ANSI
+  color so color codes do not break column alignment
+- document any optional colorized version as a usability/readability refinement
+- Lab 07 may include a second optional Rich formatted success version when
+  ranking tables, similarity scores, recommendation summaries, or AI/data
+  evidence benefit from richer table/panel formatting
+- Lab 07 may also include an optional Rich formatted demo version when the
+  instructor wants to demonstrate how richer console UI can clarify structured
+  ranking evidence before showing the success-version progression
+- if a Rich version is created, keep it separate from the plain and ANSI
+  versions, document the `rich` dependency in `Assignments/requirements.txt`,
+  and explain the UI/UX comparison value in the corresponding Rich notes file
 
 After editing, list changed files and identify which rubric categories the
 successful version illustrates.
@@ -346,6 +382,10 @@ Create:
 - Assignments/Lab_[NN]/starter/lab_[NN]_starter.py, if useful
 - Assignments/Lab_[NN]/success/success_solution.py, if useful
 - Assignments/Lab_[NN]/success/success_notes.md
+- Assignments/Lab_[NN]/success/optional_colorized_success_solution.py, if
+  color helps make the evidence easier to inspect
+- Assignments/Lab_[NN]/success/optional_colorized_notes.md, if an optional
+  colorized version is created
 
 Package requirements:
 - assume the target package folder does not exist unless told otherwise
@@ -362,6 +402,15 @@ Package requirements:
   placeholders, TODO comments, and optional brief pseudocode instead of a
   completed harness when the harness would do the evidence-construction work
   for students
+- keep the primary success version plain; optional colorized success versions
+  may be included as a refinement layer only after the plain solution is
+  correct, observable, and explainable
+- colorization should reinforce meaningful distinctions such as pass/fail,
+  edge cases, growth warnings, traversal order, comparison winners, or summary
+  recommendations
+- fixed-width table output should stay readable with and without color enabled
+- optional colorized success versions should support the MVP development
+  progression: Correct -> Observable -> Explainable -> Usable -> Refined
 
 After editing, provide a short file inventory and note any human review points.
 ```
@@ -570,6 +619,9 @@ Use this checklist after Codex creates final lab or demo materials.
 - The demo and lab are related but not identical.
 - The student-facing lab does not include the answer.
 - The successful version is separated from student starter materials.
+- The primary successful version is plain and focused on required behavior.
+- Any optional colorized success version preserves the same logic and changes
+  only readability/presentation.
 - The AI boundary is preserved.
 - The visible evidence requirement is concrete.
 - The Python is beginner-readable.

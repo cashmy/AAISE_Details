@@ -1,0 +1,9 @@
+# Course-level instructor testing dependencies.
+#
+# Most lab demo and success files should use only the Python standard library.
+# Add third-party packages here only when a lab explicitly requires them.
+#
+# If a specific lab needs a package such as numpy, scipy, pandas, matplotlib,
+# or networkx, also document that dependency in the lab's instructor notes.
+
+rich

@@ -1,3 +1,24 @@
+import os
+
+
+USE_COLOR = os.environ.get("NO_COLOR") is None
+
+
+class Style:
+    RESET = "\033[0m" if USE_COLOR else ""
+    BOLD = "\033[1m" if USE_COLOR else ""
+    CYAN = "\033[36m" if USE_COLOR else ""
+    GREEN = "\033[32m" if USE_COLOR else ""
+    RED = "\033[31m" if USE_COLOR else ""
+    YELLOW = "\033[33m" if USE_COLOR else ""
+
+
+def colorize(text, *styles):
+    if not USE_COLOR:
+        return text
+    return "".join(styles) + text + Style.RESET
+
+
 INITIAL_RULES = [
     "If the laptop battery is low, bring the charger.",
     "If the student will be on campus for a long time and does not have reliable outlet access, bring the charger.",
@@ -93,21 +114,21 @@ def format_input_summary(test_case):
 
 
 def print_rule_list(title, rules):
-    print(title)
+    print(colorize(title, Style.BOLD, Style.CYAN))
     for rule in rules:
         print(f"- {rule}")
     print()
 
 
 def print_representation_bridge():
-    print("REPRESENTATION BRIDGE")
+    print(colorize("REPRESENTATION BRIDGE", Style.BOLD, Style.CYAN))
     print_rule_list("Precise Plain English", REVISED_RULES)
     print_rule_list("Pseudocode", PSEUDOCODE)
     print_rule_list("Python-Style Logic", PYTHON_STYLE)
 
 
 def print_test_table(title, decision_function):
-    print(title)
+    print(colorize(title, Style.BOLD, Style.CYAN))
     header = (
         f"{'Test':<4} | {'Input Summary':<58} | {'Expected':<16} | "
         f"{'Actual':<16} | Pass?"
@@ -122,19 +143,24 @@ def print_test_table(title, decision_function):
             test_case["outlet_access"],
         )
         passed = "Yes" if actual == test_case["expected"] else "No"
+        pass_text = (
+            colorize("Yes", Style.GREEN)
+            if passed == "Yes"
+            else colorize("No", Style.RED, Style.BOLD)
+        )
         print(
             f"{test_case['name']:<4} | "
             f"{format_input_summary(test_case):<58} | "
             f"{test_case['expected']:<16} | "
             f"{actual:<16} | "
-            f"{passed}"
+            f"{pass_text}"
         )
 
     print()
 
 
 def main():
-    print("LAB 01 DEMO - PRECISION AND CORRECTNESS")
+    print(colorize("LAB 01 DEMO - PRECISION AND CORRECTNESS", Style.BOLD, Style.CYAN))
     print()
     print_rule_list("Before Revision", INITIAL_RULES)
     print_rule_list("After Revision", REVISED_RULES)

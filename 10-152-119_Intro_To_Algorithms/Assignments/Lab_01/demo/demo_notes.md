@@ -126,6 +126,12 @@ The visible evidence should include:
 - an input/output test table
 - one edge case that fails before revision and passes after revision
 
+Console presentation note:
+
+The demo uses light ANSI color to make section headings and pass/fail results
+easier to read. This is instructor-demo presentation polish, not a student lab
+requirement.
+
 ---
 
 # Likely Misconceptions
