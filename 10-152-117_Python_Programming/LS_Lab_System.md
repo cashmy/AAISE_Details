@@ -1,437 +1,410 @@
-# 📘 Python Programming (Basics) — Lab System (LS-01)
+# PYTHON PROGRAMMING LAB SYSTEM - LS-Py v2
+
+**Course:** `10-152-117 Python Programming`
 
 ---
 
-# 🔹 Core Lab Structure (Same Every Week)
+# Purpose
 
-We **simplify slightly** from Algorithms (because beginners):
+This artifact defines the current lab and assignment system for `10-152-117
+Python Programming`.
 
----
+It replaces the earlier weekly lab concept map with a structure aligned to the
+current course plan, assignment progression ladder, assignment week/day matrix,
+lecture outlines, demos, and master rubric system.
 
-## 🔹 Standard Lab Format
+Primary source artifacts:
 
-### **Part 1 — Understand the Problem (Human First)**
-
-* What is the program supposed to do?
-* What are the inputs and outputs?
-
----
-
-### **Part 2 — Manual Build (Required)**
-
-* Write a working version (even if simple)
-
----
-
-### **Part 3 — AI-Assisted Build**
-
-* Use AI to:
-
-  * improve
-  * extend
-  * or fix the program
+- `Python_Programming_High_Level_Course_Plan_v1.md`
+- `APL_Assignment_Progression_Ladder.md`
+- `Assignment_Week_Day_Matrix.md`
+- `Unit-Week_Descriptions.md`
+- `MRS-Py_Master_Rubric_System.md`
+- `Assignments/`
+- `Demos/`
 
 ---
 
-### **Part 4 — Explain & Evaluate**
+# Course Lab Philosophy
 
-* What does your code do?
-* What did AI help with?
-* What changed?
+This course is a compressed 8-week Python foundation course.
 
----
+The lab system is designed to help beginners become capable novice programmers
+who can:
 
-### **Part 5 — Adaptation (Light but Required)**
+- make small Python programs work
+- trace and explain what the code is doing
+- debug and revise with evidence
+- use files, structured data, and introductory API-style data
+- use AI support only when it fits the assignment stage
+- complete and explain a small capstone project
 
-* “How would you solve this without AI?”
-* OR
-* “What would you do if this didn’t work?”
-
----
-
-👉 This keeps:
-
-* thinking
-* AI usage
-* understanding
-  without overwhelming beginners
+Unlike the HTML/CSS/JavaScript course, this course does not rely on one evolving
+semester project. It uses short, targeted assignments with late integration in
+the capstone.
 
 ---
 
-# 🔹 WEEKLY LABS
+# Standard Learning Pattern
+
+Each lab sequence should preserve this instructional rhythm:
+
+```text
+concept frame -> instructor demo -> guided practice -> student lab ->
+explanation / checkpoint
+```
+
+Individual sessions may contain more than one part of this rhythm. The rhythm
+should not be interpreted as one full lecture day followed by isolated lab days.
+
+The instructor demo should be similar enough to the assignment that students can
+transfer the concept, but different enough that students must think rather than
+copy.
 
 ---
 
-## 🟦 Week 1 Lab — “First Program + AI Reality Check”
+# Standard Assignment Pattern
 
-### Task:
+Most student-facing assignments use the same structure:
 
-* Ask for name → print greeting
-* Add simple math operation
+- Context
+- Objective
+- Task
+- Requirements
+- AI Use
+- Submission Requirements
+- Reflection / Explanation
+- Evaluation Focus
+- Success Criteria
+- Instructor Notes
 
----
-
-### AI Component:
-
-* Generate same program with AI
-
----
-
-### Key Learning:
-
-* AI is helpful
-* but not necessary
+This consistency is intentional. Beginners benefit from predictable assignment
+shape while the technical content changes.
 
 ---
 
-### Win:
+# AI Involvement Progression
 
-> “I wrote code AND AI wrote code—I understand both”
+The course AI pattern is:
+
+```text
+Manual First -> Bounded AI Comparison / Debugging -> Accountable AI-Assisted
+Project Work
+```
+
+## Phase 1 - Manual First
+
+Weeks 1-2 keep normal student work manual-first.
+
+Students should build confidence with:
+
+- values
+- variables
+- input/output
+- conditionals
+- loops
+- tracing behavior
+
+AI may be demonstrated by the instructor, but it should not become the normal
+student path for completing early assignments.
+
+## Phase 2 - Bounded Comparison and Explanation
+
+Weeks 3-4 allow limited AI comparison, explanation, or debugging support after a
+manual baseline or manual diagnosis exists.
+
+Students should learn that AI can help, but that ownership requires reading,
+testing, modifying, and explaining the result.
+
+## Phase 3 - Bounded Implementation Support
+
+Weeks 5-6 allow more purposeful AI support around files, structured data, APIs,
+and app-architecture recognition.
+
+AI may help students compare parsing approaches, understand unfamiliar terms,
+inspect examples, or generate a candidate implementation. Students must still
+validate the result and explain how the program handles data.
+
+## Phase 4 - Accountable AI-Assisted Capstone Work
+
+Weeks 7-8 introduce RBA-informed framing and accountable capstone development.
+
+Students may use AI strategically, but they must:
+
+- define intent and scope before relying on AI
+- identify AI-use boundaries
+- inspect, test, and adapt AI output
+- explain what decisions remained human decisions
+- justify AI use in the final presentation
 
 ---
 
+# Phase and Assignment Structure
+
+## Phase 1 - Foundations + Manual Habits
+
+**Weeks 1-2**
+
+Primary goal:
+
+Students learn that they can write, run, fix, and explain small Python programs.
+
+Assignments:
+
+- `A1 - First Programs`
+- `A2 - Decisions in Code`
+- `A3 - Loops and Repetition`
+
+Lab emphasis:
+
+- tiny working programs
+- visible output
+- input/output flow
+- branch tracing
+- loop stopping conditions
+- explanation in plain language
+
+AI stance:
+
+- no AI for normal student work unless explicitly allowed by the instructor
+
+## Phase 2 - Structure + Code Literacy
+
+**Weeks 3-4**
+
+Primary goal:
+
+Students move from isolated code fragments toward organized, readable, testable
+programs.
+
+Assignments:
+
+- `A4 - Function Builder`
+- `A5 - List or Dictionary Mini-App`
+- `A6 - Debug and Explain`
+- `A7 - Reading Structured Code`
+
+Lab emphasis:
+
+- functions as named responsibilities
+- parameters and return values
+- lists and dictionaries
+- basic state management
+- debugging as normal practice
+- expected-vs-actual reasoning
+- reading simple class-based code at a recognition level
+
+AI stance:
+
+- bounded comparison, refactoring, debugging, or explanation after manual work
+  begins
+
+## Phase 3 - Data, Files, and Bounded AI Support
+
+**Weeks 5-6**
+
+Primary goal:
+
+Students connect Python to persistent data, structured data, external data, and
+larger application contexts.
+
+Assignments:
+
+- `A8 - Save and Load Utility`
+- `A9 - Structured Data Reader`
+- `A10 - Data Representation and App-Structure Preview`
+- `A11 - API Data Fetcher`
+- `A12 - Python App Architecture Preview`
+
+Lab emphasis:
+
+- saving and loading data
+- text, CSV, and JSON exposure
+- basic error handling
+- data representation choices
+- API request/response thinking
+- JSON response inspection
+- recognition-level Python application architecture
+- Django MVT, templates, forms, and views as preview concepts
+
+AI stance:
+
+- bounded support for explanation, comparison, implementation help, and
+  validation
+
+Design note:
+
+Weeks 5-6 are intentionally dense. This density is acceptable because students
+also receive CSV/JSON exposure in `10-152-118 HTML/CSS/JavaScript`. In this
+course, CSV/JSON work becomes reinforcement plus a deeper Python-side view of
+reading, parsing, transforming, and explaining structured data.
+
+## Phase 4 - RBA Mini-Unit + Capstone Application
+
+**Weeks 7-8**
+
+Primary goal:
+
+Students use Python fundamentals, debugging, structured development, bounded AI
+use, and RBA-informed framing to complete and explain a small capstone project.
+
+Assignments:
+
+- `A13 - RBA Project Framing Exercise`
+- `A14 - Capstone Proposal and Approval`
+- `A15 - Capstone Build`
+- `A16 - AI Use Justification and Final Presentation`
+
+Lab emphasis:
+
+- intent-first project framing
+- inputs, outputs, constraints, risks, and success criteria
+- realistic scope control
+- approved capstone implementation
+- testing and revision
+- final explanation and AI-use accountability
+
+AI stance:
+
+- strategic use allowed with accountability
+
 ---
 
-## 🟦 Week 2 Lab — “Decision Maker”
+# Demo-to-Lab Transfer Rule
 
-### Task:
+For every major assignment, the instructor demo should follow this rule:
 
-* Create a program that:
+```text
+same concept family, different scenario
+```
 
-  * takes input
-  * makes a decision (if/else)
+The demo may show the pattern, but it should not give students the assignment
+answer.
 
 Examples:
 
-* grade calculator
-* recommendation system
+- Demo a tip calculator; assignment uses a unit converter or total-cost
+  estimator.
+- Demo a shipping eligibility decision; assignment uses a grade or discount
+  checker.
+- Demo a grocery list manager; assignment uses a score tracker or task list.
+- Demo a book JSON reader; assignment uses course progress or inventory data.
+- Demo a simulated weather API response; assignment uses a different approved
+  endpoint or provided JSON response.
+
+This preserves adult-learning transfer while preventing mindless copying.
 
 ---
 
-### AI Component:
+# Recommended Folder Relationship
 
-* generate alternative logic
+Current folders:
 
----
+```text
+10-152-117_Python_Programming/
+  Assignments/
+  Assignment_Success_Examples/
+  Demos/
+  Lecture_Outlines/
+  Slide_Decks/
+```
 
-### Evaluation:
+The existing structure is appropriate.
 
-* which version is clearer?
+Recommended future refinement:
 
----
-
-### Win:
-
-> “My program can make decisions”
-
----
-
----
-
-## 🟩 Week 3 Lab — “Loop Builder”
-
-### Task:
-
-* repetition-based program:
-
-Examples:
-
-* countdown
-* repeated input until exit
-* simple menu system
+- Keep student-facing assignment instructions in `Assignments/`.
+- Keep instructor demo code and walkthroughs in `Demos/`.
+- Keep withheld successful versions in `Assignment_Success_Examples/`.
+- Add starter files only where setup friction would distract from the learning
+  goal.
 
 ---
 
-### AI Component:
+# Assignment Support Expectations
 
-* fix loop issues
-* suggest improvements
+Each assignment should eventually have enough support for the instructor to run
+it cleanly:
 
----
+- student-facing assignment
+- instructor demo or walkthrough
+- optional starter file
+- successful version or success example
+- rubric alignment
+- reflection or explanation prompt
 
-### Evaluation:
-
-* infinite loop debugging
-
----
-
-### Win:
-
-> “I can control repetition (and fix mistakes)”
-
----
+Not every assignment needs a starter file. Early assignments may benefit from a
+blank-file start, while later assignments may benefit from provided data files,
+broken code, guided examples, or scaffolded folders.
 
 ---
 
-## 🟩 Week 4 Lab — “List Manager App”
+# Evaluation Alignment
 
-### Task:
+Evaluation should align to `MRS-Py_Master_Rubric_System.md`.
 
-* create a list-based program:
+The six technical categories are:
 
-Examples:
+- `T1 - Python Fundamentals`
+- `T2 - Program Logic and Control Flow`
+- `T3 - Code Organization and Structure`
+- `T4 - Data Handling and Integration`
+- `T5 - Debugging, Testing, and Validation`
+- `T6 - AI/RBA-Assisted Development and Accountability`
 
-* to-do list
-* score tracker
+Core abilities should be included where observable, especially:
 
----
+- problem solving
+- communication
+- productivity
+- value learning
+- professionalism
 
-### Requirements:
-
-* add items
-* display items
-
----
-
-### AI Component:
-
-* add features (delete, sort, etc.)
-
----
-
-### Win:
-
-> “I built something useful”
+Small assignments should use a limited number of rubric rows. The capstone and
+final presentation should use broader rubric coverage.
 
 ---
 
----
+# Failure Prevention
 
-## 🟨 Week 5 Lab — “Function Refactor”
+## If a student struggles early
 
-### Task:
+Do:
 
-* take previous program and:
+- shrink the task
+- return to a tiny working example
+- focus on one working behavior
+- ask the student to explain one line at a time
+- use instructor support before AI becomes a replacement path
 
-* break into functions
+## If a student over-relies on AI
 
-* improve structure
+Do:
 
----
+- ask what the code does
+- ask what input produces what output
+- ask which line controls the behavior
+- ask what they changed or rejected
+- require a manual explanation before accepting the work
 
-### AI Component:
+## If a student is advanced
 
-* suggest function organization
+Do:
 
----
-
-### Evaluation:
-
-* before vs after
-
----
-
-### Win:
-
-> “I can organize code—not just write it”
-
----
-
----
-
-## 🟨 Week 6 Lab — “Simple Chatbot”
-
-### Task:
-
-> Build a basic ELIZA-style chatbot
+- add a small extension
+- ask for cleaner structure
+- ask for better validation
+- ask for another test case
+- ask for a comparison of two approaches
 
 ---
 
-### Requirements:
+# Final System Statement
 
-* keyword detection
-* response mapping
+The Python lab system is designed to build confidence first, then structure,
+then data handling, then accountable AI-assisted capstone work.
 
-Example:
+Students should not leave merely having produced Python code.
 
-* “hello” → greeting
-* “bye” → exit
-
----
-
-### AI Component:
-
-* expand responses
-* improve structure
-
----
-
-### Evaluation:
-
-* does it behave correctly?
-* does it feel interactive?
-
----
-
-### Win:
-
-> “I built something that feels like AI”
-
----
-
----
-
-## 🟥 Week 7 Lab — “Save & Load (Persistence)”
-
-### Task:
-
-* enhance previous program to:
-
-* save data to file
-
-* load data back
-
----
-
-### Examples:
-
-* to-do list with memory
-* chatbot memory
-
----
-
-### AI Component:
-
-* assist with file handling
-
----
-
-### Win:
-
-> “My program remembers things”
-
----
-
----
-
-## 🟥 Week 8 — Final Project
-
----
-
-## 🔹 Student Chooses Project:
-
-* chatbot (enhanced)
-* to-do app
-* simple game
-* tracker
-
----
-
-## 🔹 Required Structure:
-
-### Part 1 — Manual Core
-
-* must function without AI
-
----
-
-### Part 2 — AI Enhancement
-
-* new features
-
----
-
-### Part 3 — Explanation
-
-* explain program
-
----
-
-### Part 4 — Adaptation
-
-* “What if AI wasn’t allowed?”
-
----
-
-## 🔹 Final Outcome:
-
-> “I can build, understand, and explain a real program”
-
----
-
-# 🔹 GRADING (Simplified for Beginners)
-
----
-
-## 🔹 Categories
-
-* Problem understanding
-* Working code
-* AI usage
-* Explanation
-* Effort / improvement
-
----
-
-👉 Less rigid than Algorithms
-👉 More encouragement-focused
-
----
-
-# 🔹 CRITICAL DESIGN DIFFERENCE (From Algorithms)
-
-| Python Labs       | Algorithm Labs         |
-| ----------------- | ---------------------- |
-| Simpler structure | More analytical depth  |
-| Confidence focus  | Reasoning focus        |
-| Build-first       | Compare-first          |
-| Guided AI use     | Critical AI evaluation |
-
----
-
-# 🔹 FAILURE PREVENTION (Very Important)
-
----
-
-## 🚩 If a student struggles early:
-
-DO:
-
-* simplify task
-* allow AI assist sooner
-* reinforce small wins
-
----
-
-## 🚩 If a student over-relies on AI:
-
-DO:
-
-* require explanation
-* ask “what does this do?”
-
----
-
-## 🚩 If a student is bored (advanced):
-
-DO:
-
-* extend project
-* add features
-
----
-
-# 🔹 WHAT STUDENTS EXPERIENCE
-
-By Week 6:
-
-* they are building things
-* they are using AI
-* they are understanding code
-
-By Week 8:
-
-> They feel capable
-
----
-
-# 🔹 Final Reflection
-
-This lab system ensures:
-
-* beginners are not overwhelmed
-* AI is helpful but not dominant
-* thinking is preserved
-* confidence is built
-
----
+They should leave able to understand, debug, explain, revise, and take ownership
+of small Python programs.

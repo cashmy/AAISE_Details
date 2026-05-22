@@ -1,0 +1,177 @@
+# LAB 6 - GRAPH TRAVERSAL AND REAL-SYSTEM MODELING
+
+**Week 6 - Graphs, Paths, and Models of Real Systems**
+
+---
+
+# Lab Identity
+
+- **Unit:** Unit 3 - Strategy Patterns and Observable Behavior
+- **Primary Competency:** T2. Data Structures and Representation
+- **Secondary Competencies:** T3, T5, C1, C2
+- **AI Involvement Level:** AI-Assisted
+
+---
+
+# Context
+
+Graphs model relationships: places connected by routes, tasks connected by
+dependencies, people connected by communication, or steps connected in a
+workflow.
+
+In this lab, you will model a small system as a graph and compare traversal
+behavior.
+
+---
+
+# Objective
+
+Represent a real or realistic system as a graph and produce visible traversal
+evidence.
+
+Your work should demonstrate:
+
+- nodes and edges
+- adjacency-list representation
+- BFS or DFS behavior
+- explanation of what the traversal means
+
+---
+
+# Instructor Demo Plan
+
+## Demo Problem
+
+Model a small campus route map with buildings as nodes and sidewalks as edges.
+
+Demonstrate:
+
+- adjacency list creation
+- BFS traversal from one building
+- DFS traversal from the same building
+
+## What Students Should Notice
+
+- graph representation is a model, not the real system
+- BFS and DFS can visit nodes in different orders
+- traversal order depends on representation choices
+- a diagram helps reveal whether the model is reasonable
+
+## Transfer Bridge
+
+> In the demo, we modeled campus routes. In the lab, you will model a different
+> relationship or movement system and explain what traversal reveals.
+
+## Demo Evidence
+
+- graph diagram
+- adjacency list
+- BFS/DFS traversal order
+
+## Stop Point
+
+Stop after one traversal comparison. Students should create and test their own
+graph model.
+
+---
+
+# Student Lab Task
+
+Choose or use an instructor-assigned system:
+
+- workflow steps
+- help desk escalation paths
+- transit stops
+- game map rooms
+- course prerequisite relationships
+- social or communication network
+- grid movement map
+
+Represent the system as a graph and perform traversal.
+
+---
+
+# Requirements
+
+Your submission must include:
+
+1. A short description of the system being modeled.
+2. At least `6` nodes.
+3. At least `7` edges.
+4. An adjacency-list representation.
+5. A diagram or clearly formatted text representation.
+6. BFS or DFS traversal from a selected start node.
+7. A comparison or explanation of what changes if the start node or traversal
+   method changes.
+8. A short statement about what your graph model leaves out.
+
+---
+
+# Evidence Requirements
+
+Include traversal evidence.
+
+Example structure:
+
+| Step | Current Node | Queue or Stack State | Visited Nodes |
+| --- | --- | --- | --- |
+|  |  |  |  |
+
+You may also submit a simple hand-built diagram, Markdown diagram, or Python
+printed output.
+
+---
+
+# AI Boundary
+
+You may use AI for explanation or critique after you have drafted your graph.
+
+Allowed AI uses:
+
+- ask AI to check whether your adjacency list matches your diagram
+- ask AI to explain BFS or DFS vocabulary
+- ask AI to suggest what your model leaves out
+
+AI should not replace your graph design.
+
+---
+
+# Submission Checklist
+
+- system description included
+- nodes and edges included
+- adjacency list included
+- diagram or text representation included
+- traversal evidence included
+- model limitation included
+- AI-use note included, if applicable
+
+---
+
+# Reflection
+
+Answer briefly:
+
+> What did the graph representation make easier to see about your system?
+
+If you used AI:
+
+> What did AI critique or clarify about your model?
+
+---
+
+# Success Criteria
+
+Successful work:
+
+- represents relationships clearly
+- uses graph vocabulary correctly
+- produces visible traversal evidence
+- explains what the model can and cannot claim
+
+---
+
+# Successful Version Release Note
+
+A successful version may be released after submission. It should include a
+small graph model, traversal output, and explanation of model limits.
