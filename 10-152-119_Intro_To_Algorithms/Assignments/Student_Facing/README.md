@@ -23,6 +23,11 @@ Each student-facing assignment includes:
 - rubric grading emphasis
 - success criteria
 
+Several labs also have full-English walkthrough artifacts. These are optional
+support documents that can be posted, hidden, or assigned selectively when
+students need additional scaffolding. They are not answer keys; they model how
+to reason through the task before writing code.
+
 Rubric emphasis is based on:
 
 - `../v2/MRS-AL_Master_Rubric_System.md`
