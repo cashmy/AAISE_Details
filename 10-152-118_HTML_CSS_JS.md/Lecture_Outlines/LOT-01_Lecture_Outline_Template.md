@@ -206,7 +206,7 @@ Examples:
 * write full scripts initially
 * overfill sections
 * add everything you know
-
+ 
 ---
 
 ## 🔹 DO:
