@@ -1504,29 +1504,35 @@ Prepare students for the next reading once Week 5 reading details are assigned.
 
 ---
 
-## Slide 49 - Next Reading Preparation
+## Slide 49 - How To Use The Textbook For Next Week's Reading
 
-**Delivery Category:** Placeholder / To Be Finalized
+**Delivery Category:** Core
 
 **Slide Text:**
 
-Next reading guidance will be added after the Week 5 reading assignment is
-curated.
+For next week, read for strategy choice.
 
-For now, carry forward:
+Focus on:
 
-- trace the steps
-- name the assumptions
-- explain the tradeoff
-- test the boundary cases
+- correctness, performance, and scalability
+- functional and non-functional requirements
+- divide and conquer
+- dynamic programming
+- greedy strategies
+- PageRank and linear programming as examples
+
+Skim the P, NP-Hard, and NP-Complete section for recognition only.
 
 **Instructor Notes:**
 
-Replace this slide with the standard "How To Use The Textbook For Next Week's
-Reading" slide after the Week 5 assigned reading topics are finalized.
+This slide prepares students for the Week 5 reading. Emphasize that Chapter 4
+contains some theory-heavy language. Students should not panic over formal
+definitions. They should read for the main idea: some problems are harder than
+others, and strategy choice depends on correctness, performance, and
+scalability.
 
-Do not present this placeholder slide to students unless Week 5 reading details
-are still unavailable at delivery time.
+Tell students to treat PageRank and linear programming as examples of strategy
+applied in larger contexts, not as implementation requirements for Week 5.
 
 ---
 

@@ -20,6 +20,7 @@ starter files, README template, and standardized Part 2 question bank.
 | File | Purpose |
 | --- | --- |
 | `Student_Final_Assignment.md` | Student-facing final instructions |
+| `Part_1_Applied_Solution_Set.md` | Cleaner Schoology-facing instructions for Final Part 1 only |
 | `README_Final_Template.md` | Student README template for GitHub submission |
 | `Part_2_Standard_Question_Bank.md` | Instructor-facing standardized explanation-defense questions |
 | `starter/task_1_equipment_checkout.py` | Starter for decision/correctness task |

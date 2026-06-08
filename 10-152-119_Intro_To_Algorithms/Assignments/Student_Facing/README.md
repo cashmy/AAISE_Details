@@ -28,6 +28,14 @@ support documents that can be posted, hidden, or assigned selectively when
 students need additional scaffolding. They are not answer keys; they model how
 to reason through the task before writing code.
 
+This folder also includes a filled README example based on the Week 1
+instructor demo:
+
+- `README_Example_Lab_01_Demo.md`
+
+This example shows how a README can document reasoning, evidence, assumptions,
+revision, and limitations. It is not a student submission scenario.
+
 Rubric emphasis is based on:
 
 - `../v2/MRS-AL_Master_Rubric_System.md`

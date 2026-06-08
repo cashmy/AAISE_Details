@@ -57,7 +57,7 @@ Recommended slides:
 - 31-37: abstract data types
 - 38-41: demo
 - 42-44: lab bridge
-- 45-47: wrap-up
+- 45-48: wrap-up and Week 4 reading preparation
 
 Session B target:
 
@@ -180,7 +180,7 @@ By the end of this lesson, students should be able to:
 | Abstract Data Types | 31-37 | Core / Optional | Recognize vectors, stacks, queues, and trees |
 | Demo Bridge | 38-41 | Core | Compare list and dictionary attendance tracking |
 | Lab Bridge | 42-44 | Core | Connect demo to Lab 03 |
-| Wrap-Up | 45-47 | Core | Consolidate and assign next action |
+| Wrap-Up | 45-48 | Core | Consolidate, assign next action, and prepare Week 4 reading |
 
 ---
 
@@ -431,14 +431,7 @@ Now start with the built-in type students will reach for most often: the list.
 
 **Slide Text:**
 
-A list is an ordered, changeable collection.
-
-Useful when:
-
-- order matters
-- you need to iterate
-- you need to append items
-- duplicates are allowed
+the built-in type students will reach for most often: the list.
 
 **Instructor Notes:**
 
@@ -1459,6 +1452,49 @@ comparison they cannot explain.
 
 ---
 
+## Slide 48 - How To Use The Textbook For Next Week's Reading
+
+**Delivery Category:** Core
+
+**Slide Text:**
+
+Next week focuses on search and sort behavior.
+
+As you read, focus on:
+
+- sorting as a way to arrange data
+- searching as a way to find a target
+- variable swapping as a small mechanical step
+- linear search, binary search, and interpolation search
+- why binary search requires sorted data
+- performance differences among search and sort strategies
+- practical lookup ideas such as primary and foreign keys
+
+Treat Natural Language Processing as context, not as a new coding target.
+
+**Instructor Notes:**
+
+Use this slide to prepare students for the breadth of the Week 4 reading. The
+reading introduces several sorting algorithms and several searching algorithms,
+but students should not treat the week as a memorization test.
+
+Tell students to read for behavior and assumptions:
+
+- What does the algorithm do?
+- What must be true before it works?
+- What evidence would show that it works?
+- What tradeoff does it make?
+
+Emphasize that the Week 4 lab will focus especially on linear search, binary
+search, trace evidence, and the sorted-data precondition.
+
+**Transition Cue:**
+
+Next week, the question becomes: when is a faster algorithm not actually
+better?
+
+---
+
 # Image Prompt Notes
 
 | Slide | Visual Need | Prompt / Direction | Cautions |
@@ -1470,6 +1506,7 @@ comparison they cannot explain.
 | 27 | Matrices without panic | Simple row-column grid connected to data science and graphics icons | Avoid dense equations |
 | 36 | Abstract types access pattern | Stack, queue, tree, vector shown as simple access patterns | Keep abstract types visually distinct |
 | 40 | Demo evidence | Before/after attendance list and dictionary side by side | Use as support only; demo output remains primary |
+| 48 | Week 4 reading preparation | Simple visual showing a sorted list, search target, and precondition checklist | Avoid dense algorithm animations |
 
 ---
 
