@@ -64,12 +64,12 @@ Use the assignment action labels as planning guidance:
 | 6 | Monday | 2026-09-21 | APIs, External Data, and Python App Architecture | synchronous vs asynchronous recognition | A10 and A11 | Continue / Launch | close any preview bridge from Week 5, then begin API-style data flow |
 | 6 | Tuesday | 2026-09-22 | APIs, External Data, and Python App Architecture | endpoints, requests, responses, JSON parsing | A11 - API Data Fetcher | Build | use approved API or simulated JSON fallback |
 | 6 | Thursday | 2026-09-24 | APIs, External Data, and Python App Architecture | MVT, templates, forms, larger app recognition | A11 and A12 | Submit / Launch | close API fetcher and use architecture preview as a recognition-level bridge |
-| 7 | Monday | 2026-09-28 | RBA and Project Framing | RBA introduction, prompt-first vs intent-first | A13 - RBA Project Framing Exercise | Launch / Build | framing artifact should stay concrete and bounded |
-| 7 | Tuesday | 2026-09-29 | RBA and Project Framing | constraints, structure, risks, AI boundaries | A13 and A14 | Continue / Launch | revise framing into capstone proposal quality |
-| 7 | Thursday | 2026-10-01 | RBA and Project Framing | project-path comparison, scope realism, approval checkpoint | A14 - Capstone Proposal and Approval | Submit / Review | approval or targeted revision day |
-| 8 | Monday | 2026-10-05 | Capstone Build, Justification, and Presentation | project expectations, AI-use accountability | A15 - Capstone Build | Launch / Build | begin or continue approved capstone implementation |
-| 8 | Tuesday | 2026-10-06 | Capstone Build, Justification, and Presentation | revision, refactoring, validation evidence | A15 - Capstone Build | Continue / Submit | main integration workday with testing and coherence checks |
-| 8 | Thursday | 2026-10-08 | Capstone Build, Justification, and Presentation | demonstration, explanation, accountability | A16 - AI Use Justification and Final Presentation | Submit / Present | presentation, AI-use justification, and instructor questioning |
+| 7 | Monday | 2026-09-28 | RBA and Project Framing | RBA introduction, prompt-first vs intent-first | A13 - RBA Project Framing Exercise | Launch / Build | framing artifact should stay concrete and should feed the capstone proposal |
+| 7 | Tuesday | 2026-09-29 | RBA and Project Framing | constraints, structure, risks, AI boundaries | A13 and A14 | Continue / Launch | A14 begins here to provide lead time before build work |
+| 7 | Thursday | 2026-10-01 | RBA and Project Framing | project-path comparison, scope realism, approval checkpoint, first build target | A14 and A15 | Submit / Review / Launch | approval or targeted revision day; A15 begins for approved or provisionally approved scopes |
+| 8 | Monday | 2026-10-05 | Capstone Build, Justification, and Presentation | project expectations, AI-use accountability | A15 - Capstone Build | Continue / Build | continue approved capstone implementation from Week 7 launch |
+| 8 | Tuesday | 2026-10-06 | Capstone Build, Justification, and Presentation | revision, refactoring, validation evidence, staged presentations if needed | A15 and A16 | Continue / Submit / Present | main integration workday; A16 presentations may begin depending on class size |
+| 8 | Thursday | 2026-10-08 | Capstone Build, Justification, and Presentation | demonstration, explanation, accountability | A16 - AI Use Justification and Final Presentation | Submit / Present | final presentation window; staged continuation from Tuesday if needed |
 
 ---
 
@@ -90,9 +90,9 @@ Use the assignment action labels as planning guidance:
 | A11 - API Data Fetcher | Week 6 | Mon-Thu | launch Monday or Tuesday, close Thursday |
 | A12 - Python App Architecture Preview | Week 6 | Thu | bounded recognition preview |
 | A13 - RBA Project Framing Exercise | Week 7 | Mon-Tue | framing and revision |
-| A14 - Capstone Proposal and Approval | Week 7 | Tue-Thu | proposal refinement and approval |
-| A15 - Capstone Build | Week 8 | Mon-Tue | main integration build |
-| A16 - AI Use Justification and Final Presentation | Week 8 | Thu | presentation and accountability closeout |
+| A14 - Capstone Proposal and Approval | Week 7 | Tue-Thu | proposal refinement and approval begins Tuesday |
+| A15 - Capstone Build | Week 7-8 | Thu-Tue | build begins Thursday after approval or provisional approval |
+| A16 - AI Use Justification and Final Presentation | Week 8 | Tue-Thu | staged presentation and accountability closeout |
 
 ---
 
@@ -139,4 +139,3 @@ This matrix is especially useful when deciding:
 * when to use success examples
 * where lab-heavy sessions should dominate
 * where proposal review or scope-control conversations should happen
-
