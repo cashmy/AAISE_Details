@@ -99,6 +99,7 @@ Use these Python artifacts as the primary local context before revising decks:
 - `LS_Lab_System.md`
 - `APL_Assignment_Progression_Ladder.md`
 - `Conceptual_Understanding_vs_Logic_Regurgitation_Principle.md`
+- `Weekly_Reading_Guide.md`
 - `Assignments/LDP-Py_Lab_Demo_Prompt_Pack.md`
 - `Slide_Decks/STD-Py_Alignment_Based_Slide_Deck_Template.md`
 - `Slide_Decks/Slide_Deck_System_Meta_Review.md`
@@ -191,25 +192,126 @@ Each revised day-level deck source should include:
 
 1. Deck metadata
 2. Session purpose
-3. Course position / prior bridge
-4. Assignments supported
-5. Readiness target
-6. Primary watch point
-7. Demo set for the session
-8. Student lab or hands-on bridge
-9. Slide sequence overview
-10. Slide-by-slide source blocks
-11. Demo execution notes
-12. Lab / assignment bridge
-13. README / submission expectations when relevant
-14. AI-use boundary when relevant
-15. Image prompt notes
-16. Instructor timing notes
-17. Post-lecture notes
+3. Review / prior work bridge
+4. Reading alignment
+5. What we will use today
+6. Assignments supported
+7. Readiness target
+8. Primary watch point
+9. Demo set for the session
+10. Student lab or hands-on bridge
+11. Slide sequence overview
+12. Slide-by-slide source blocks
+13. Demo execution notes
+14. Lab / assignment bridge
+15. README / submission expectations when relevant
+16. AI-use boundary when relevant
+17. Image prompt notes
+18. Instructor timing notes
+19. Post-lecture notes
 
 This structure may remain lighter than the Algorithms deck source structure,
 but it should be specific enough that the instructor can build a PowerPoint
 deck without reconstructing the intent from scattered artifacts.
+
+---
+
+# Reading Alignment Rule
+
+Use `Weekly_Reading_Guide.md` as the canonical reading-alignment source for the
+Python deck refactor.
+
+The course should use weekly reading assignments with day-level reading focus,
+not three separate formal reading assignments per week.
+
+Reason:
+
+The textbook does not align perfectly with the Monday/Tuesday/Thursday lecture
+rhythm. Weekly reading with day-level focus keeps Schoology instructions clean
+while still letting the deck sources identify what part of the reading supports
+each class meeting.
+
+Each revised day-level deck source should include a `Reading Alignment` section
+with:
+
+- weekly reading guide reference
+- textbook chapter or chapter area
+- day-specific reading focus
+- topics to skim or save for later when relevant
+- topics students should not worry about yet
+
+Do not invent reading alignment from memory. If the reading guide is incomplete
+or unclear for a specific deck, update the reading guide first or flag the gap.
+
+The deck should translate the reading into the course's beginner path. It
+should not copy the textbook's full breadth into the slide sequence.
+
+---
+
+# Review / Prior Work Bridge Rule
+
+Each revised deck source should include a `Review / Prior Work Bridge` section.
+
+For Week 1 Day 1, this section may simply state that there is no prior lab and
+that the course pattern is being established.
+
+For all later sessions, the section should identify:
+
+- previous lab or assignment work to revisit
+- common issue or misconception to address
+- one or two review questions
+- how the review creates a bridge into the new topic
+
+This is especially important for:
+
+- Monday sessions that bridge from the prior week
+- Thursday sessions that close or consolidate current-week assignments
+- any session following a lab launch
+
+The review should not become a full reteaching of the prior class. It should
+activate the prior concept that today's lesson depends on.
+
+---
+
+# What We Will Use Today Rule
+
+Each revised deck source should include a `What We Will Use Today` section.
+
+This section protects beginner cognitive load by naming the working set for the
+session.
+
+Use the pattern:
+
+```text
+Today we will use:
+- concept / syntax / tool
+- concept / syntax / tool
+
+Today we will not use yet:
+- concept that appears in the textbook but is not today's target
+- tempting but premature tool
+```
+
+This is especially important because the textbook often includes more depth and
+broader treatment than a single two-hour class session should carry.
+
+For example, Week 1 Day 1 may use:
+
+- `print()`
+- strings
+- variables
+- running and rerunning a program
+
+while not yet requiring:
+
+- `input()`
+- calculations
+- loops
+- functions
+- AI-generated code
+
+The goal is not to hide future topics. The goal is to make today's focus clear
+enough that students know what to attend to and what to safely defer.
 
 ---
 
@@ -240,6 +342,87 @@ Use one clear instructional job per slide.
 
 ---
 
+# Student-Visible Text Guidance
+
+The older Python slide deck template intentionally constrained student-visible
+text to very short anchor lines. That was useful when the slide artifacts were
+primarily visual-anchor guides.
+
+The v2 refactor has a different purpose. These artifacts now function as deck
+source documents for PowerPoint construction, instructor handoff, reading
+alignment, demo flow, and lab transfer. Therefore, student-visible text should
+not be artificially compressed.
+
+Use this updated rule:
+
+```text
+Student-visible text should be as concise as the slide purpose allows, but not
+shorter than the concept requires.
+```
+
+Complete sentences are acceptable when they improve clarity.
+
+Use enough student-visible text when:
+
+- the concept is new
+- the vocabulary is unfamiliar
+- the slide bridges reading to practice
+- the slide supports later student review
+- the slide will be used by future instructors
+- the slide introduces a common mistake or reasoning habit
+
+Avoid:
+
+- unnecessary paragraphs
+- dense textbook copying
+- slogan-only fragments that require too much instructor memory
+- text-heavy slides that leave no room for visual structure
+
+Preferred pattern:
+
+```text
+anchor idea
+-> clarifying sentence or concrete example
+-> instructor notes carry the deeper teaching logic
+```
+
+Example:
+
+```text
+A variable is a name that refers to a stored value.
+
+When the value changes, the next output can change too.
+```
+
+This is more useful for Python beginners than:
+
+```text
+Variables store values.
+Not magic.
+```
+
+Do not remove useful brevity when it works. Remove only the hard constraint
+that forced every slide into slogan form.
+
+Week 1 may remain comparatively concise because the instructional goal is
+confidence, setup, and first contact with small code. Later weeks should not be
+forced into the Week 1 two-sentence visual style.
+
+As concepts become more technical, student-visible text may use:
+
+- short bullet lists
+- labeled examples
+- compact syntax patterns
+- comparison tables
+- one or two explanatory sentences
+- explicit "use today" and "skip for now" separation
+
+Use the amount of visible text needed for the slide to teach its job clearly.
+Do not compress later technical slides merely to preserve early-week visual
+minimalism.
+
+---
+
 # Slide Count Guidance
 
 The older Python template recommended 7-9 slides with a soft maximum of 10.
@@ -265,6 +448,7 @@ Use this recurring micro-arc:
 
 ```text
 brief review / prior lab bridge
+-> what we will use today
 -> today's capability
 -> concept in plain language
 -> syntax or structure shape
@@ -354,6 +538,42 @@ more complete documentation.
 
 Do not overload Week 1 students with professional documentation complexity.
 Introduce the expectation gradually and repeatedly.
+
+---
+
+# Image Prompt Workflow
+
+The instructor may use PowerPoint Designer and manual visual judgment for most
+slide construction. Therefore, deck sources do not need a separate deck
+production notes section unless a future deck requires it.
+
+Continue using `Image Prompt Notes` inside each deck source as a compact visual
+planning table.
+
+When image generation is needed, create a separate companion artifact with
+explicit prompts. Recommended naming pattern:
+
+```text
+Week_01_Image_Generation_Prompts.md
+```
+
+or, if a single day requires unusually specific support:
+
+```text
+SD_W01D01_Image_Generation_Prompts.md
+```
+
+The companion artifact should expand each note into a generation-ready prompt
+with:
+
+- concrete layout instructions
+- exact labels or sample values when useful
+- style guidance
+- what to avoid
+- slide purpose alignment
+
+The image prompt notes in the deck source should remain concise. The companion
+artifact should carry the fully constrained prompt language.
 
 ---
 
@@ -474,4 +694,3 @@ A revised Python deck source is complete enough when an instructor can answer:
 - What does success look like by the end of the session?
 
 If those questions are clear, the deck source is doing its job.
-
