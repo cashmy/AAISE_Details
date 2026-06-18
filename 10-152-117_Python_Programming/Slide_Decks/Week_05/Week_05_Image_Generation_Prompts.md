@@ -258,9 +258,27 @@ Avoid:
 - hidden automation imagery
 - database or network symbols
 
+## Slide 11 - Demo 2: Read A Text File
+
+Create an instructional diagram showing a small code card labeled "read text"
+pointing to a newly created file labeled `notes.txt`.
+
+Inside the file, are already present two short lines, which will be read by the "read text" code card.
+
+- "Remember this task"
+- "Review later"
+
+Keep the diagram simple and readable.
+
+Avoid:
+
+- real IDE screenshots
+- hidden automation imagery
+- database or network symbols
+
 ## Slide 14 - Evidence For A8
 
-Create a clean checklist visual titled "A8 Evidence".
+Create a clean checklist visual titled "Assignment 8 Evidence".
 
 Checklist items:
 

@@ -106,3 +106,57 @@ lesson:
 This observation should be carried forward into remaining Python 117 deck work
 and into future course artifact generation.
 
+---
+
+# Addendum - Governance Must Be Actively Re-Applied
+
+A later reflection refined the original observation.
+
+The initial assumption was that once a strong process and continuity artifact
+were in place, human oversight of AI-generated output might be reduced. The
+Week 5-8 review showed that this assumption was incomplete.
+
+The governance artifact was not ineffective. It had already proved useful when
+it was actively held in scope and applied to a single production unit. The
+failure mode appeared when multiple artifacts were generated sequentially under
+a broader request. In that context, the AI operation preserved the visible task
+goal but compressed the less-visible governance layers.
+
+This creates an important distinction:
+
+> Governance artifacts work best when they are actively re-applied at each
+> production unit.
+
+The process did not remove the need for human oversight. Instead, the mature
+process changed the type of oversight required.
+
+Earlier review questions were basic:
+
+- Did the deck get generated?
+- Are the topics present?
+- Is the artifact usable at a surface level?
+
+The later review questions became higher-order:
+
+- Did the deck preserve the instructor handoff?
+- Did it preserve transition logic?
+- Did it maintain demo alignment?
+- Did it protect cognitive load?
+- Did it retain the expected image prompt support?
+- Did it follow the artifact ecosystem rather than only the topic outline?
+
+This suggests that process maturity does not eliminate orchestration. It shifts
+oversight from content correction to fidelity verification.
+
+The practical lesson is:
+
+> AI can follow a governance pattern locally while still drifting globally
+> across a sequence.
+
+Therefore, when sequentially producing multiple artifacts, human oversight may
+need to increase rather than decrease. The human reviewer must verify not only
+that each artifact exists, but that each artifact preserves the governing
+structure across the whole sequence.
+
+This reinforces the RBA role of the human orchestrator: the human is not merely
+checking output quality, but preserving process fidelity across time.
