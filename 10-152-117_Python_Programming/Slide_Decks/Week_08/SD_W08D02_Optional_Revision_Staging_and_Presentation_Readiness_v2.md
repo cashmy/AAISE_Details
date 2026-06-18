@@ -144,6 +144,10 @@ directly into capstone build and support time.
 
 This slide names the flexible session design.
 
+**Transition Cue:**
+
+If using this reset, begin by normalizing revision as part of finishing well.
+
 ---
 
 ## Slide 2 - Revision Is Not Retreat
@@ -160,6 +164,11 @@ make the final result stronger.
 **Instructor Notes:**
 
 Use only if students are emotionally resisting simplification.
+
+**Transition Cue:**
+
+If students need the reminder, explain that running the project often reveals
+the real priorities.
 
 ---
 
@@ -180,6 +189,11 @@ Running the project may reveal:
 
 This is a concise version of the older Day 2 lecture.
 
+**Transition Cue:**
+
+If revision is needed, frame refactoring around coherence rather than cosmetic
+change.
+
 ---
 
 ## Slide 4 - Refactoring Should Improve Coherence
@@ -195,6 +209,11 @@ Cosmetic changes are fine, but coherence matters more.
 **Instructor Notes:**
 
 Keep it practical. Do not start a broad refactoring lecture.
+
+**Transition Cue:**
+
+Then ask students to preserve one meaningful revision note for the final
+explanation.
 
 ---
 
@@ -213,6 +232,14 @@ Before final submission, record one meaningful revision:
 **Instructor Notes:**
 
 This supports A16 explanation.
+
+Use with, if helpful:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\05_revision_after_reality_contact_example.md`
+
+**Transition Cue:**
+
+If presentations are beginning soon, shift from revision into explanation.
 
 ---
 
@@ -235,6 +262,14 @@ Your final presentation should explain:
 
 This can be used as the short pre-presentation reset.
 
+Use with, if helpful:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\04_final_presentation_outline.md`
+
+**Transition Cue:**
+
+Then make AI accountability explicit before students present.
+
 ---
 
 ## Slide 7 - AI Use Must Be Accounted For
@@ -255,6 +290,15 @@ If AI helped, explain:
 
 Keep it non-accusatory and accountability-focused.
 
+Use with, if helpful:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\03_ai_use_justification_example.md`
+
+**Transition Cue:**
+
+If presentations begin today, convert the explanation checklist into presentation
+staging.
+
 ---
 
 ## Slide 8 - Presentation Staging
@@ -274,6 +318,10 @@ If presentations begin today:
 **Instructor Notes:**
 
 Use if enrollment requires staging presentations across Day 2 and Day 3.
+
+**Transition Cue:**
+
+End the reset immediately and move to the highest-value final work.
 
 ---
 
@@ -342,9 +390,13 @@ Students must be prepared to answer questions about:
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Flexible session modes | Three modes: build, mini-lecture, presentations | Avoid schedule clutter |
+| 2 | Revision framing | Revision as stronger final result, not retreat | Avoid failure imagery |
 | 3 | Reality contact | Project plan adjusted after test run | Avoid failure imagery |
+| 4 | Refactoring coherence | Read, run, test, explain improvement path | Avoid broad refactor diagram |
 | 5 | Revision note | Change/reason/benefit note card | Keep simple |
 | 6 | Presentation sequence | Purpose, logic, testing, revision, AI use | Avoid performance-stage anxiety |
+| 7 | AI accountability | Contribution, accepted/changed, verified, student decision | Avoid robot-centered imagery |
+| 8 | Presentation staging | Ready to run, explain, validate, answer questions | Avoid stage anxiety |
 | 9 | Final work priorities | Checklist of final tasks | Avoid legal/audit style |
 
 ---

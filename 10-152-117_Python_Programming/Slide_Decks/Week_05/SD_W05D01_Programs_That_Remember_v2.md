@@ -186,28 +186,35 @@ So the new question is: where can the information live after the program closes?
 
 ---
 
-## Slide 3 - The Save / Load Cycle
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-Persistence is a cycle:
+Today's success pattern:
 
-- create or collect information
-- write it to a file
-- close or rerun the program
-- read the file back
-- display or use the loaded information
+- write information to a named file
+- confirm the file exists or changed
+- read saved information back
+- show loaded data clearly
+- explain what was saved and loaded
 
 **Instructor Notes:**
 
-This is the mental model for the day. Say it more than once. The syntax is
-secondary to the cycle.
+This is the north star for the session. Students do not need to memorize every
+file detail today. They need to understand the save/load cycle and be able to
+prove it worked.
+
+**Transition Cue:**
+
+Now that the target pattern is visible, we can name the small toolset needed to
+perform it.
 
 **Visual Notes:**
 
-Circular flow: Program -> File -> Program.
+Success-pattern visual: Program writes file, file remains, program reads file
+back and displays loaded output.
 
 ---
 
@@ -258,6 +265,10 @@ Today's goal is simple: save text, load text, explain the cycle.
 Use this to protect students from textbook breadth. The book is valuable, but
 the class target is intentionally narrower.
 
+**Transition Cue:**
+
+With the scope protected, we can focus on the first half of the cycle: writing.
+
 ---
 
 ## Slide 6 - Writing Stores Data Outside The Program
@@ -280,6 +291,11 @@ real, not abstract.
 
 Prepares `01_write_text_file.py`.
 
+**Transition Cue:**
+
+Once the file exists, the second half of the cycle is bringing that saved data
+back.
+
 ---
 
 ## Slide 7 - Reading Brings Saved Data Back
@@ -301,6 +317,10 @@ until the save/load loop is repeated clearly.
 **Demo Connection:**
 
 Prepares `02_read_text_file.py`.
+
+**Transition Cue:**
+
+Before we run the demos, we need one small safety pattern for working with files.
 
 ---
 
@@ -343,6 +363,11 @@ Wrong mode, wrong behavior.
 Keep this beginner-level. Mention that write mode can replace a file, but do not
 turn this into a full file-mode survey.
 
+**Transition Cue:**
+
+Now we have enough vocabulary to watch the first demo for evidence, not just
+syntax.
+
 ---
 
 ## Slide 10 - Demo 1: Write A Text File
@@ -359,12 +384,21 @@ Watch for three things:
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\01_write_text_file.py`
+
 Type or paste the smallest useful version first. After running it, open the file
 so students can see the saved result.
 
 **Demo Connection:**
 
 Primary demo file: `01_write_text_file.py`
+
+**Transition Cue:**
+
+The file now exists. The next question is whether another program run can use
+what was saved.
 
 ---
 
@@ -381,12 +415,21 @@ returns as visible output.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\02_read_text_file.py`
+
 Ask students to identify what came from the file rather than from a variable
 typed into the program.
 
 **Demo Connection:**
 
 Primary demo file: `02_read_text_file.py`
+
+**Transition Cue:**
+
+The demos show the cycle working. Now we name the most common thinking mistake
+before students begin A8.
 
 ---
 
@@ -408,6 +451,10 @@ Instead, keep asking:
 
 This is the day one file-I/O thinking tool. It will matter again for JSON, CSV,
 and APIs.
+
+**Transition Cue:**
+
+That checklist becomes the assignment boundary for A8.
 
 ---
 
@@ -431,6 +478,11 @@ application.
 
 Supports A8 - Save and Load Utility.
 
+**Transition Cue:**
+
+To make grading and troubleshooting easier, the submission needs visible
+evidence of the cycle.
+
 ---
 
 ## Slide 14 - Evidence For A8
@@ -451,6 +503,10 @@ Your submission should make the save/load behavior visible:
 
 Keep README expectations small but real. This prepares later course
 documentation habits without overloading the first file assignment.
+
+**Transition Cue:**
+
+Close by returning to the sentence students should be able to say out loud.
 
 ---
 
@@ -552,8 +608,12 @@ AI must not replace the student's explanation of what was saved and loaded.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Persistence concept | Program closes while a saved file remains visible | Avoid cloud/database imagery |
-| 3 | Save/load cycle | Circular flow: program writes file, file feeds program | Keep labels large |
+| 3 | Today's success pattern | Write, confirm, read, show, and explain the saved data | Keep labels large |
 | 4 | Working set | Simple tool tray with file name, open, with, read/write | Avoid dense code |
+| 6 | Writing to file | Program sends text into a named file outside the running program | Avoid cloud/database imagery |
+| 7 | Reading from file | Named file sends saved text back into program output | Keep read direction clear |
+| 8 | `with` block | Safe open/use/close block around a file | Avoid deep context-manager theory |
+| 9 | File modes | `"w"` and `"r"` as intent labels for write and read | Do not show many file modes |
 | 10 | Write demo | Code block pointing to a newly created text file | Do not imply hidden automation |
 | 14 | Evidence | Small checklist with code, data file, README, explanation | Avoid legal/compliance feel |
 

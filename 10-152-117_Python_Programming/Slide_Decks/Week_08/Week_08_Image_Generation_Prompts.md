@@ -18,6 +18,7 @@ Avoid:
 - robot-centered AI imagery
 - complex project management boards
 - dense code screenshots
+- panic or deadline-pressure imagery
 
 ---
 
@@ -45,23 +46,44 @@ Avoid:
 - scary error screens
 - cluttered IDE screenshots
 
-## Slide 3 - Name The Behavior That Matters Most
+## Slide 2 - From Approved Scope To Build Evidence
 
-Create a simple project-flow visual with one core behavior highlighted.
+Create a visual showing approved project scope flowing into build evidence.
 
-Labels:
+Show three connected cards:
 
-- "project purpose"
-- "core behavior"
-- "evidence"
+- "approved scope"
+- "working behavior"
+- "evidence and run guidance"
 
-Make the core behavior visually central.
+Keep it simple and final-week focused.
 
 Avoid:
 
-- many feature cards
-- complex architecture
-- dashboard UI
+- paperwork-heavy approval imagery
+- formal stamp graphics
+- project-management clutter
+
+## Slide 3 - Today's Success Pattern
+
+Create a success-pattern visual for final capstone build work.
+
+Show six steps:
+
+1. "stay inside approved scope"
+2. "identify core behavior"
+3. "validate with real evidence"
+4. "preserve run instructions"
+5. "record AI help if used"
+6. "prepare to explain"
+
+Use a calm checklist or path layout.
+
+Avoid:
+
+- feature-sprawl imagery
+- legal/compliance styling
+- panic colors
 
 ## Slide 4 - Evidence Can Be Small And Real
 
@@ -101,6 +123,61 @@ Avoid:
 - cluttered folder trees
 - package publishing imagery
 
+## Slide 6 - AI Notes Belong With The Build
+
+Create an AI-use note visual focused on student ownership.
+
+Show four fields:
+
+- "AI suggested"
+- "I accepted or changed"
+- "I verified"
+- "I can explain"
+
+Avoid:
+
+- robot mascots
+- scary AI imagery
+- implying AI use is forbidden
+
+## Slide 7 - Demo: Validation Evidence
+
+Create a visual showing a small program behavior connected to a validation note.
+
+Left side:
+
+- "behavior runs"
+
+Right side:
+
+- "evidence note"
+- expected result
+- actual result
+
+Avoid:
+
+- full code screenshots
+- testing framework complexity
+- legal evidence imagery
+
+## Slide 8 - Demo: Run Instructions
+
+Create a clean README/run-instructions visual.
+
+Show a support artifact card with:
+
+- "open this file"
+- "run this command"
+- "expected output"
+
+Keep it readable and beginner-friendly.
+
+Avoid:
+
+- cluttered file explorer screenshots
+- terminal-heavy layout
+- package publishing imagery
+
 ## Slide 9 - A15 Build Checklist
 
 Create a compact checklist titled "A15 Build Checklist".
@@ -121,6 +198,31 @@ Avoid:
 - audit stamps
 - legal document style
 - excessive icons
+
+## Slide 10 - Today's Work Target
+
+Create a simple day-one work target visual.
+
+Show four target cards:
+
+- "working or attempted behavior"
+- "validation note started"
+- "README/run instructions started"
+- "next decision identified"
+
+Avoid urgency or panic styling.
+
+## Slide 11 - Success Check
+
+Create a calm success-check visual.
+
+Show a project core behavior connected to evidence started.
+
+Caption:
+
+- "I have started proving that it works."
+
+Avoid final-presentation imagery.
 
 ---
 
@@ -144,6 +246,26 @@ Avoid:
 - clock-pressure imagery
 - performance-stage visuals
 
+## Slide 2 - Revision Is Not Retreat
+
+Create a visual showing revision as strengthening.
+
+Left side:
+
+- "first version"
+
+Right side:
+
+- "clearer final version"
+
+Use a simple refinement arrow.
+
+Avoid:
+
+- failure imagery
+- red rejection marks
+- discouraging tone
+
 ## Slide 3 - Reality Contact Reveals Priorities
 
 Create a visual showing an original project plan adjusted after a test run.
@@ -161,6 +283,23 @@ Avoid:
 - failure imagery
 - red warning marks
 - broken computer visuals
+
+## Slide 4 - Refactoring Should Improve Coherence
+
+Create a practical refactoring-coherence visual.
+
+Show four connected goals:
+
+- easier to read
+- easier to run
+- easier to test
+- easier to explain
+
+Avoid:
+
+- broad architecture diagrams
+- dense code
+- cosmetic-only before/after imagery
 
 ## Slide 5 - Record One Meaningful Revision
 
@@ -196,6 +335,41 @@ Avoid:
 - auditorium stage imagery
 - spotlight/performance anxiety
 - excessive decoration
+
+## Slide 7 - AI Use Must Be Accounted For
+
+Create a four-step accountability flow:
+
+- AI contributed
+- I accepted, changed, or rejected
+- I verified
+- I decided
+
+The visual should show student ownership.
+
+Avoid:
+
+- robot characters
+- scary AI imagery
+- implying AI is forbidden
+
+## Slide 8 - Presentation Staging
+
+Create a calm presentation-readiness visual.
+
+Show five readiness cards:
+
+- run the project
+- explain purpose
+- show behavior
+- discuss validation
+- answer questions
+
+Avoid:
+
+- stage spotlight
+- nervous performance imagery
+- complex schedule grid
 
 ## Slide 9 - Move Into Final Work
 
@@ -291,3 +465,4 @@ Avoid:
 - interrogation imagery
 - courtroom visuals
 - anxious body language
+

@@ -150,6 +150,11 @@ student's current skills, and the need for clear explanation.
 
 Set a calm review tone. Approval is quality control.
 
+**Transition Cue:**
+
+Connect approval back to yesterday's scope work: fit is a build decision, not
+just an idea decision.
+
 ---
 
 ## Slide 2 - Review: Scope Is A Build Decision
@@ -167,22 +172,37 @@ Scope control is what turns an idea into a finishable capstone.
 
 Connect directly to Day 2.
 
+**Transition Cue:**
+
+Now add the explanation requirement, because Week 8 will ask students to defend
+their work.
+
 ---
 
-## Slide 3 - The Capstone Must Be Explainable
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-If you cannot explain the project, the project is too large, too unclear, or too
-dependent on code you do not own.
+Today's success pattern:
 
-Explainability is part of the design requirement.
+- check proposal fit
+- revise scope if needed
+- choose the approved project path
+- define the smallest testable build target
+- begin A15 only inside approved boundaries
+- start collecting evidence now
 
 **Instructor Notes:**
 
-This is the approval lens and future A16 lens.
+This is the approval lens and future A16 lens. The day should move students
+from proposal decision to first build target without letting build work outrun
+approval.
+
+**Transition Cue:**
+
+Now name the tools and artifacts students will use to make that launch concrete.
 
 ---
 
@@ -204,6 +224,10 @@ Today we will use:
 **Instructor Notes:**
 
 The day bridges approval into build.
+
+**Transition Cue:**
+
+Then define what is intentionally saved for Week 8 or later.
 
 ---
 
@@ -227,6 +251,10 @@ Today we approve the scope and start the smallest useful build.
 
 This slide protects A15 from feature explosion.
 
+**Transition Cue:**
+
+Start the approval review with the concrete criteria from A14.
+
 ---
 
 ## Slide 6 - Approval Criteria
@@ -248,6 +276,10 @@ An approvable proposal shows:
 **Instructor Notes:**
 
 This mirrors A14 and gives students a checklist before review.
+
+**Transition Cue:**
+
+Once criteria are visible, compare possible project paths by risk and fit.
 
 ---
 
@@ -271,6 +303,10 @@ Each path carries different risks.
 
 Use this to guide approval decisions.
 
+**Transition Cue:**
+
+Then convert the chosen path into a finishable first build target.
+
 ---
 
 ## Slide 8 - Can This Be Finished?
@@ -289,6 +325,10 @@ Ask:
 **Instructor Notes:**
 
 This converts proposal approval into an A15 build plan.
+
+**Transition Cue:**
+
+Finishability is not enough; the project also needs to be explainable.
 
 ---
 
@@ -309,6 +349,11 @@ Ask:
 
 This ties A15 and A16 together.
 
+**Transition Cue:**
+
+If the answer to any of those questions is weak, revision is the next useful
+move.
+
 ---
 
 ## Slide 10 - Revision Is Not Rejection
@@ -325,6 +370,10 @@ unclear, or hard to explain.
 **Instructor Notes:**
 
 This reduces defensiveness during approval conversations.
+
+**Transition Cue:**
+
+Now inspect an approval-ready proposal example against the criteria.
 
 ---
 
@@ -345,11 +394,20 @@ Watch for:
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\05_capstone_proposal_example.md`
+
 Use the example as a review model, not a template students must copy exactly.
 
 **Demo Connection:**
 
 Primary demo artifact: `05_capstone_proposal_example.md`
+
+**Transition Cue:**
+
+After the proposal example, compare structures to show why approval may favor a
+simpler path.
 
 ---
 
@@ -366,11 +424,19 @@ student's ability to explain it.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\06_structure_options_comparison.md`
+
 Use structure comparison to show why not every project needs an advanced path.
 
 **Demo Connection:**
 
 Primary demo artifact: `06_structure_options_comparison.md`
+
+**Transition Cue:**
+
+Now move from examples into the student's actual A14 checkpoint.
 
 ---
 
@@ -389,6 +455,11 @@ scope.
 
 This is the approval-control slide.
 
+**Transition Cue:**
+
+Once the scope is approved or provisionally approved, A15 begins with the
+smallest useful core.
+
 ---
 
 ## Slide 14 - Assignment 15 Begins Today
@@ -404,6 +475,10 @@ Start with the smallest testable core, not the full imagined project.
 **Instructor Notes:**
 
 This reflects the user's updated pacing.
+
+**Transition Cue:**
+
+Make that first core concrete by asking what can be built and tested first.
 
 ---
 
@@ -423,6 +498,11 @@ Your first build target should answer:
 **Instructor Notes:**
 
 This creates a clean Day 3 build runway.
+
+**Transition Cue:**
+
+As students begin building, make evidence collection part of the work instead
+of a Week 8 scramble.
 
 ---
 
@@ -444,6 +524,10 @@ Start collecting evidence now:
 **Instructor Notes:**
 
 This prevents Week 8 panic around documentation.
+
+**Transition Cue:**
+
+Close with the launch sentence students should be able to say before leaving.
 
 ---
 
@@ -538,6 +622,7 @@ AI must not:
 | 7 | Project paths | Neutral paths: console, data, file, API, architecture preview | Do not rank visually |
 | 8 | Finishability | Small testable core separated from later features | Avoid warning/rejection style |
 | 14 | A15 begins | Approved proposal flowing into first build target | Keep approval/provisional states clear |
+| 3 | Today's success pattern | Proposal fit, approved path, first build target, evidence start | Avoid gatekeeping feel |
 | 16 | Evidence collection | Project folder with run notes, validation, AI note | Avoid legal/audit look |
 
 ---

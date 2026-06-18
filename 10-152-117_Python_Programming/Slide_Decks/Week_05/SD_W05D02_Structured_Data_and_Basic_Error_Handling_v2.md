@@ -157,6 +157,11 @@ values that a program can select.
 Use "shape" as the beginner-friendly anchor. Students do not need formal data
 modeling language yet.
 
+**Transition Cue:**
+
+Yesterday made files visible. Today asks what happens when the saved information
+has structure the program must understand.
+
 **Visual Notes:**
 
 Plain text note beside a small CSV table and JSON object.
@@ -179,25 +184,38 @@ program needs a reasonable response.
 This bridges persistence to error handling. The file is no longer a passive
 side detail.
 
+**Transition Cue:**
+
+Once the file becomes part of the program's world, the file's shape becomes part
+of the program's responsibility.
+
 ---
 
-## Slide 3 - Text, CSV, And JSON
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-Common beginner file shapes:
+Today's success pattern:
 
-- text: lines meant mostly for humans
-- CSV: rows and columns
-- JSON: labeled values and nested structures
+- identify the file shape
+- read the file
+- select useful values
+- handle one likely problem
+- explain what the program did
 
-The shape affects how the program reads the data.
+That pattern matters more than memorizing every file-format detail.
 
 **Instructor Notes:**
 
-Keep definitions practical and example-driven.
+Use this as the day's north star. Students should understand that opening the
+file is not enough; the program must use the structure meaningfully.
+
+**Transition Cue:**
+
+Before we get into JSON or CSV, name the small toolset students are expected to
+use today.
 
 ---
 
@@ -219,6 +237,11 @@ Today we will use:
 
 Name the small working set. Students should know this is not a full data
 engineering unit.
+
+**Transition Cue:**
+
+Now narrow the field further so advanced storage topics do not crowd the core
+learning target.
 
 ---
 
@@ -242,6 +265,11 @@ Today we read small structured files and respond to likely problems.
 
 This is another cognitive-load protection slide.
 
+**Transition Cue:**
+
+With the boundaries set, start with the structure that most closely connects to
+Week 3 dictionaries: JSON labels and values.
+
 ---
 
 ## Slide 6 - JSON Uses Labels
@@ -258,6 +286,11 @@ whole file as one block of text.
 **Instructor Notes:**
 
 Connect JSON labels to dictionaries from Week 3.
+
+**Transition Cue:**
+
+JSON uses labels. CSV uses position in rows and columns. That is the next shape
+students need to recognize.
 
 **Demo Connection:**
 
@@ -279,6 +312,11 @@ Each row represents one record, and each column represents one kind of value.
 
 Use a small sample. This is also a useful bridge to the HTML/CSS/JS exposure
 students may have had with data tables or structured records.
+
+**Transition Cue:**
+
+Whether the structure is JSON or CSV, the important move is the same: do not
+stop at loading the file.
 
 **Demo Connection:**
 
@@ -302,6 +340,10 @@ output becomes useful.
 This slide prevents "I printed the raw data" from being mistaken for the goal of
 A9.
 
+**Transition Cue:**
+
+Now show that idea in code: load structured JSON and choose values that matter.
+
 ---
 
 ## Slide 9 - Demo 1: Save And Load JSON Tasks
@@ -320,6 +362,17 @@ Watch for the data shape:
 
 Relate the JSON shape back to list/dictionary thinking. Do not linger on every
 punctuation mark unless students ask.
+
+Use with:
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\03_save_tasks_json.py`
+
+Then use with:
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\04_load_tasks_json.py`
+
+**Transition Cue:**
+
+JSON shows labeled structure. Now shift to CSV, where the useful output comes
+from rows and columns.
 
 **Demo Connection:**
 
@@ -343,6 +396,14 @@ selected records.
 Make the useful output explicit. Ask, "What did the program choose from the
 file?"
 
+Use with:
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\05_read_csv_summary.py`
+
+**Transition Cue:**
+
+Once students have seen useful extraction, introduce the next responsibility:
+naming what went wrong when file work fails.
+
 **Demo Connection:**
 
 Primary demo file: `05_read_csv_summary.py`
@@ -365,6 +426,11 @@ Different problems need different explanations.
 This is essential for A8/A9 explanations. Students should name the failure mode
 instead of saying only, "It broke."
 
+**Transition Cue:**
+
+Now show both failure types so students can see why the responses should be
+different.
+
 ---
 
 ## Slide 12 - Demo 3: Missing File And Invalid JSON
@@ -382,6 +448,17 @@ human knows what happened.
 
 Run missing-file handling first, then invalid JSON. Ask students to describe how
 the two problems differ.
+
+Use with:
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\06_missing_file_handling.py`
+
+Then use with:
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\07_invalid_json_handling.py`
+
+**Transition Cue:**
+
+After seeing useful output and failure paths, name the most common weak
+submission pattern explicitly.
 
 **Demo Connection:**
 
@@ -404,6 +481,11 @@ summarizing meaningful values.
 
 This sets grading expectations without sounding punitive.
 
+**Transition Cue:**
+
+Now convert the warning into the assignment target: read a structure and produce
+one useful result.
+
 ---
 
 ## Slide 14 - Assignment 9 Bridge
@@ -421,6 +503,11 @@ formatted report.
 
 Keep the task bounded. A small correct reader beats a large confused data
 project.
+
+**Transition Cue:**
+
+Before students begin, make the evidence requirements visible so code and
+explanation stay connected.
 
 ---
 
@@ -444,6 +531,10 @@ Your submission should show:
 Tie this to GitHub/README habits. The explanation is part of the evidence, not
 extra decoration.
 
+**Transition Cue:**
+
+Close by returning to the success pattern in one sentence students can say back.
+
 ---
 
 ## Slide 16 - Success Check
@@ -460,6 +551,11 @@ By the end of today, you should be able to say:
 **Instructor Notes:**
 
 This is the verbal readiness target for finishing A8 and starting A9.
+
+**Transition Cue:**
+
+Move into lab time. Students should identify the file shape before writing or
+changing code.
 
 ---
 
@@ -539,9 +635,19 @@ the data.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Data shapes | Plain note, CSV table, JSON object side by side | Keep examples tiny |
+| 2 | File as system part | Program, file, and possible problem states connected | Avoid scary error imagery |
+| 3 | Today's success pattern | Identify shape, read file, select values, handle problem, explain result | Avoid format overload |
+| 4 | Working set | CSV, JSON, try/except, selected output tools | Avoid dense syntax |
+| 5 | Saved for later | Parked shelf for databases, serializers, pipelines | Avoid warning tone |
 | 6 | JSON labels | Labeled JSON fields connected to displayed values | Avoid dense nesting |
 | 7 | CSV rows/columns | Small table with one row and column highlighted | Avoid spreadsheet complexity |
+| 8 | Useful output | Raw file content transformed into selected summary | Avoid implying raw dump is enough |
+| 9 | JSON task demo | List of labeled task objects becoming selected task output | Keep JSON tiny |
+| 10 | CSV summary demo | CSV table producing count or total summary | Avoid chart/dashboard feel |
 | 11 | Error types | Two clear paths: missing file vs invalid data | Do not make it scary |
+| 12 | Error demo | Missing file and invalid JSON as two understandable messages | Avoid red alert screens |
+| 13 | Raw dump failure | Raw data dump contrasted with useful selected output | Avoid shaming tone |
+| 14 | A9 bridge | Structured data reader path: file shape to useful result | Keep assignment scope small |
 | 15 | Evidence | Checklist with code, data file, README, output | Avoid audit/legal styling |
 
 ---

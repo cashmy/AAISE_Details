@@ -147,6 +147,11 @@ and what decisions should remain human decisions.
 Frame this as a development posture shift. Students have enough Python to start
 making project-quality decisions.
 
+**Transition Cue:**
+
+Before introducing RBA language, remind students of the range of Python paths
+they can now choose from.
+
 ---
 
 ## Slide 2 - Review: You Have Several Python Paths Now
@@ -169,25 +174,38 @@ Now the question becomes: which path fits the project?
 
 This helps students see capstone choice as an integration decision.
 
+**Transition Cue:**
+
+With multiple possible paths available, contrast two ways students might begin a
+project.
+
 ---
 
-## Slide 3 - Prompt-First Is Not Intent-First
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-Prompt-first starts with:
+Today's success pattern:
 
-> "Make me a Python project."
+- define project purpose
+- identify inputs and outputs
+- name constraints and risks
+- choose a likely structure
+- set AI-use boundaries
+- produce framing that can support capstone approval
 
-Intent-first starts with:
-
-> "This is the purpose, audience, inputs, outputs, constraints, and boundaries."
+This is project judgment before project generation.
 
 **Instructor Notes:**
 
-Keep the contrast blunt. This is a core RBA distinction.
+Keep the contrast blunt. This is a core RBA distinction: generation is stronger
+when intent already exists.
+
+**Transition Cue:**
+
+Now name the working set students will use to build that framing.
 
 ---
 
@@ -213,6 +231,10 @@ These are project decisions before they are coding decisions.
 
 Tie every item to a future capstone proposal section.
 
+**Transition Cue:**
+
+Then protect today's scope from premature building and AI overreach.
+
 ---
 
 ## Slide 5 - What We Will Save For Later
@@ -235,6 +257,11 @@ Today is framing before building.
 
 Protect A13 from becoming premature coding.
 
+**Transition Cue:**
+
+Start the framing sequence with purpose, because every later choice depends on
+it.
+
 ---
 
 ## Slide 6 - Purpose Comes First
@@ -255,6 +282,10 @@ If the purpose is vague, everything after it becomes harder to judge.
 
 Push students toward concrete use, not vague themes.
 
+**Transition Cue:**
+
+Once the purpose is clear, define what the program receives and produces.
+
 ---
 
 ## Slide 7 - Inputs And Outputs Define The Shape
@@ -273,6 +304,11 @@ Clear inputs and outputs make the project easier to build, test, and explain.
 
 Connect back to every assignment. Inputs/outputs have been present all course.
 
+**Transition Cue:**
+
+After inputs and outputs, use constraints to make the project realistic instead
+of merely ambitious.
+
 ---
 
 ## Slide 8 - Constraints Are Design Information
@@ -289,6 +325,11 @@ shape a realistic project.
 **Instructor Notes:**
 
 Normalize constraints as helpful. This sets up Day 2 scope control.
+
+**Transition Cue:**
+
+The structure should then follow the purpose and constraints, not prestige or
+habit.
 
 ---
 
@@ -312,6 +353,10 @@ The structure should fit the purpose.
 
 Do not let prestige bias make advanced paths look automatically better.
 
+**Transition Cue:**
+
+Before AI enters the work, define what the student still owns.
+
 ---
 
 ## Slide 10 - AI Boundaries Preserve Ownership
@@ -331,6 +376,11 @@ Before using AI, decide:
 
 This connects to the course-wide AI progression and A16.
 
+**Transition Cue:**
+
+Now compare what happens when a project starts with a vague prompt versus a
+defined intent.
+
 ---
 
 ## Slide 11 - Demo 1: Prompt-First Versus Intent-First
@@ -346,12 +396,21 @@ The goal is not a prettier prompt. The goal is better judgment.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\01_prompt_first_vs_intent_first.md`
+
 Use the demo to show downstream evaluation. A vague prompt may produce code, but
 it gives the student little basis for judging fit.
 
 **Demo Connection:**
 
 Primary demo artifact: `01_prompt_first_vs_intent_first.md`
+
+**Transition Cue:**
+
+The contrast sets up the model: a concrete framing artifact students can imitate
+without copying.
 
 ---
 
@@ -368,11 +427,20 @@ Look for purpose, inputs, outputs, constraints, structure, and AI boundaries.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\02_project_framing_example_study_timer.md`
+
 Use this as the concrete model for A13.
 
 **Demo Connection:**
 
 Primary demo artifact: `02_project_framing_example_study_timer.md`
+
+**Transition Cue:**
+
+After the model, name the common failure students should avoid in their own
+framing.
 
 ---
 
@@ -389,6 +457,10 @@ Useful for whom? With what input? Producing what output? Under what limits?
 **Instructor Notes:**
 
 This slide keeps RBA grounded.
+
+**Transition Cue:**
+
+Now turn the warning into the actual assignment task.
 
 ---
 
@@ -407,6 +479,10 @@ enough to review and revise.
 
 Encourage students to start with a capstone candidate unless they truly need a
 practice idea first.
+
+**Transition Cue:**
+
+Make the required evidence explicit before students begin drafting.
 
 ---
 
@@ -428,6 +504,11 @@ Your framing should include:
 **Instructor Notes:**
 
 This can become the checklist for the A13 submission.
+
+**Transition Cue:**
+
+Close with the ownership sentence students should be able to say about their
+project idea.
 
 ---
 
@@ -521,7 +602,7 @@ AI must not choose the project purpose or replace student judgment.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Intent before generation | Clear intent document before generated code | Avoid robot-centered visual |
-| 3 | Prompt-first vs intent-first | Split path comparison with vague prompt and clear plan | Keep text readable |
+| 3 | Today's success pattern | Purpose, inputs/outputs, constraints, structure, AI boundaries | Keep text readable |
 | 8 | Constraints | Time, skill, data, explainability shaping project | Avoid "blocked" tone |
 | 10 | AI boundaries | Human decision ring around AI support area | Do not imply AI is forbidden |
 | 15 | A13 evidence | Checklist for framing artifact | Avoid legal/audit style |

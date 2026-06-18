@@ -143,6 +143,11 @@ response may take time.
 
 Frame this as normal program behavior. Avoid making async sound exotic.
 
+**Transition Cue:**
+
+Before naming requests and responses, connect this new waiting behavior back to
+the local data students already understand.
+
 **Visual Notes:**
 
 Program step, waiting marker, response step.
@@ -165,22 +170,37 @@ information in a known place.
 Bridge from file errors to external dependency. Local files can fail; outside
 responses add timing and access issues.
 
+**Transition Cue:**
+
+Now make the new dependency explicit: the program may need something beyond
+itself before it can continue.
+
 ---
 
-## Slide 3 - Outside Data Adds A Dependency
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-When a program asks an outside source for data, it depends on something beyond
-itself.
+Today's success pattern:
 
-That dependency can affect timing, reliability, and how we test the program.
+- recognize where the program asks for outside data
+- identify the waiting point
+- inspect what response comes back
+- select useful values from the response
+- explain how the program handled the dependency
 
 **Instructor Notes:**
 
 This prepares students to accept fallback JSON as legitimate rather than fake.
+The goal is not async syntax; the goal is recognizing the request/response
+dependency and explaining it clearly.
+
+**Transition Cue:**
+
+Now that the pattern is visible, define the small vocabulary set students will
+use today.
 
 ---
 
@@ -202,6 +222,11 @@ Today we will use:
 **Instructor Notes:**
 
 This is a vocabulary and mental-model day.
+
+**Transition Cue:**
+
+Just as important, define which advanced pieces are intentionally not part of
+today's requirement.
 
 ---
 
@@ -225,6 +250,11 @@ Today we recognize the idea without making it a required coding target.
 
 Important anxiety reducer and scope guard.
 
+**Transition Cue:**
+
+With the scope bounded, begin with the flow students have already been using:
+sequential execution.
+
 ---
 
 ## Slide 6 - Sequential Flow Happens In Order
@@ -241,6 +271,10 @@ Python completes one instruction, then moves to the next instruction.
 
 Students have been using sequential thinking all along. Name it explicitly.
 
+**Transition Cue:**
+
+Requests complicate that simple story because the program may need to wait.
+
 ---
 
 ## Slide 7 - Requests Interrupt The Simple Story
@@ -256,6 +290,10 @@ The program may need to wait before it can use the response.
 **Instructor Notes:**
 
 Keep this practical: "Ask, wait, receive, inspect, use."
+
+**Transition Cue:**
+
+Turn that plain-language idea into the reusable API-style thinking pattern.
 
 ---
 
@@ -277,6 +315,11 @@ API-style work often follows this pattern:
 
 This is the A11 thinking pattern. It echoes Week 5's structured data work.
 
+**Transition Cue:**
+
+The presence of waiting can feel like failure, so name the difference between
+delay and broken behavior.
+
 ---
 
 ## Slide 9 - Waiting Does Not Always Mean Broken
@@ -293,6 +336,10 @@ if the response does not arrive as expected?
 **Instructor Notes:**
 
 This connects to error handling without diving into network exception details.
+
+**Transition Cue:**
+
+Now watch the request/response pattern run as a small, controlled demo.
 
 ---
 
@@ -311,12 +358,21 @@ Watch for:
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\04_request_response_flow.py`
+
 Run the demo slowly. Ask students to narrate the flow before discussing code
 details.
 
 **Demo Connection:**
 
 Primary demo file: `04_request_response_flow.py`
+
+**Transition Cue:**
+
+The first demo shows request/response flow. The second demo previews why waiting
+can change program organization.
 
 ---
 
@@ -333,11 +389,20 @@ waiting can change how a program is organized.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\05_async_recognition_preview.py`
+
 Do not make students copy async syntax. The point is the idea.
 
 **Demo Connection:**
 
 Primary demo file: `05_async_recognition_preview.py`
+
+**Transition Cue:**
+
+After the preview, reduce the terminology back to the plain question students
+can actually use.
 
 ---
 
@@ -356,6 +421,10 @@ Start with the plain question: what is the program waiting for?
 
 Use this slide to de-escalate terminology.
 
+**Transition Cue:**
+
+That plain question becomes the starting point for Assignment 11.
+
 ---
 
 ## Slide 13 - Assignment 11 Preview
@@ -373,6 +442,11 @@ response and choose useful values.
 
 This is a gentle but firm guardrail against raw JSON dumping or live-API drama.
 
+**Transition Cue:**
+
+Before students choose a path, clarify that live data and simulated data can
+both support the same learning target.
+
 ---
 
 ## Slide 14 - Live API And Fallback Are Both Legitimate
@@ -389,6 +463,10 @@ values, and explain the flow.
 **Instructor Notes:**
 
 This anticipates Tuesday. Say explicitly that fallback is not lesser learning.
+
+**Transition Cue:**
+
+Close by returning to the explanation students should be able to give.
 
 ---
 
@@ -477,9 +555,18 @@ simulated response structure.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Waiting point | Program step pauses before response returns | Avoid spinning-loader UI only |
-| 3 | Outside dependency | Program connected to outside data source | Avoid cloud infrastructure complexity |
+| 2 | Local data review | Local file/data available in known place | Avoid overcomplicating file errors |
+| 3 | Today's success pattern | Ask, wait, inspect response, select values, explain dependency | Avoid cloud infrastructure complexity |
+| 4 | Working set | Sequential, request, response, wait, simulated response | Avoid dense vocabulary wall |
+| 5 | Saved for later | Async syntax, concurrency, auth, deployment parked for later | Avoid warning tone |
+| 6 | Sequential flow | Step-by-step Python execution | Keep it simple |
+| 7 | Request wait point | Request creates wait before response use | Avoid network engineering imagery |
 | 8 | Request/response | Ask, receive, inspect, select, display flow | Keep labels large |
+| 9 | Waiting not broken | Delay as normal external dependency, with response plan | Avoid error panic visuals |
+| 10 | Request/response demo | Request, response, selected values, output proof | Avoid API documentation UI |
 | 11 | Async recognition | Two lanes: sequential and waiting-aware | No code-heavy async syntax |
+| 12 | Vocabulary before meaning | Big terms reduced to "what is the program waiting for?" | Avoid jargon cloud overload |
+| 13 | A11 preview | Inspect response before choosing useful values | Avoid internet-impressiveness imagery |
 | 14 | Live/fallback | Two legitimate paths to same JSON skill | Do not imply fallback is inferior |
 
 ---

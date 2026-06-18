@@ -149,6 +149,11 @@ describe the same real thing.
 Frame this as a design-thinking day. Students are comparing, not building a new
 database system.
 
+**Transition Cue:**
+
+Before comparing new forms, connect back to the structured shapes students used
+on Day 2.
+
 **Visual Notes:**
 
 One "task" represented as text, CSV, JSON, and table row.
@@ -171,22 +176,35 @@ Different shapes make different tasks easier.
 
 Bridge from A9. Ask for one student example of "what got easier" in CSV or JSON.
 
+**Transition Cue:**
+
+Once students see that each structure helps differently, introduce the main
+decision idea for the day.
+
 ---
 
-## Slide 3 - Representation Is A Choice
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-Representation is the way information is shaped for storage and use.
+Today's success pattern:
 
-There is not always one correct representation. There is a better fit for a
-specific purpose.
+- recognize at least two representations
+- compare what each makes easier
+- compare what each makes harder
+- connect the representation to a larger application need
+- avoid treating advanced structures as automatically better
 
 **Instructor Notes:**
 
-This prepares A10. The assignment is about reasoned comparison.
+This prepares A10. The assignment is about reasoned comparison, not picking the
+most advanced-looking option.
+
+**Transition Cue:**
+
+Now name the comparison set students will use to practice that pattern.
 
 ---
 
@@ -210,6 +228,11 @@ We will ask what each form makes easier or harder.
 
 Use this to keep the lesson grounded in examples.
 
+**Transition Cue:**
+
+And just as important, separate recognition-level comparison from later
+implementation work.
+
 ---
 
 ## Slide 5 - What We Will Save For Later
@@ -231,6 +254,10 @@ Today is recognition and comparison.
 
 This is a hard scope boundary. Repeat it if students get anxious or ambitious.
 
+**Transition Cue:**
+
+Start the comparison with the simplest representation: plain text.
+
 ---
 
 ## Slide 6 - Plain Text Is Human Friendly
@@ -247,6 +274,11 @@ records, or compare values.
 **Instructor Notes:**
 
 Plain text is not bad. It is just limited for structured operations.
+
+**Transition Cue:**
+
+When records start to repeat in a similar shape, CSV becomes easier to reason
+about.
 
 ---
 
@@ -265,6 +297,11 @@ needs deeper nested structure.
 
 Use familiar spreadsheet thinking without implying Excel mastery.
 
+**Transition Cue:**
+
+When the information needs labels or grouping, JSON gives a different kind of
+structure.
+
 ---
 
 ## Slide 8 - JSON Is Structure Friendly
@@ -282,6 +319,10 @@ too deep.
 
 Connect JSON back to dictionaries and lists.
 
+**Transition Cue:**
+
+The stored shape also affects the way the Python code tends to be organized.
+
 ---
 
 ## Slide 9 - Code Structures Can Mirror Data
@@ -298,6 +339,11 @@ The program's structure often follows the data's structure.
 
 This connects Week 3 structure to Week 5 representation without turning into
 advanced OOP.
+
+**Transition Cue:**
+
+Instead of asking which structure is best in the abstract, ask what the program
+needs to do.
 
 ---
 
@@ -320,6 +366,11 @@ The answers guide the representation choice.
 
 This is the reusable heuristic for A10.
 
+**Transition Cue:**
+
+Now watch the same information move through several representations and compare
+what changes.
+
 ---
 
 ## Slide 11 - Demo: Same Data, Different Representations
@@ -337,12 +388,21 @@ Watch what changes when the same information appears as:
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_05_Files_Errors_and_Data_Persistence\08_data_representation_preview.py`
+
 Focus on comparison. Ask students to name one advantage and one limitation for
 each form.
 
 **Demo Connection:**
 
 Primary demo file: `08_data_representation_preview.py`
+
+**Transition Cue:**
+
+The demo shows the small version. The same reasoning explains why larger apps
+need stronger structure later.
 
 ---
 
@@ -360,6 +420,11 @@ larger applications need organized data.
 **Instructor Notes:**
 
 This is the bridge to A10 and later Week 6 architecture.
+
+**Transition Cue:**
+
+Before launching A10, correct the common assumption that more complex always
+means better.
 
 ---
 
@@ -380,6 +445,10 @@ The representation should fit the problem.
 Useful correction for prestige bias. Students may assume advanced tools are
 always the right answer.
 
+**Transition Cue:**
+
+That right-sized thinking becomes the center of Assignment 10.
+
 ---
 
 ## Slide 14 - Assignment 10 Bridge
@@ -397,6 +466,11 @@ application might need more structure.
 
 This assignment can be worksheet, markdown, annotated code, or guided response.
 It is intentionally recognition-level.
+
+**Transition Cue:**
+
+Make the evidence concrete so students know what a complete comparison looks
+like.
 
 ---
 
@@ -417,6 +491,11 @@ Your response should include:
 **Instructor Notes:**
 
 This gives Schoology/README clarity. Students should not submit vague opinions.
+
+**Transition Cue:**
+
+End with the portable explanation students should be able to use beyond this
+assignment.
 
 ---
 
@@ -512,9 +591,19 @@ AI should not turn A10 into a generated database essay.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Same data in forms | One task represented as note, CSV row, JSON, table | Keep all labels readable |
+| 2 | Structured data review | CSV and JSON shapes making different tasks easier | Keep review visual simple |
+| 3 | Today's success pattern | Recognize forms, compare tradeoffs, and connect to larger app needs | Avoid abstract theory |
+| 4 | Working comparison set | Plain text, CSV, JSON, dictionary/list, table-like preview | Avoid implementation details |
 | 5 | Scope boundary | Recognition path separated from database build path | Avoid making databases look forbidden |
+| 6 | Plain text tradeoff | Human-readable note versus hard-to-select fields | Do not make plain text look wrong |
+| 7 | CSV tradeoff | Row/column records useful for similar items | Avoid spreadsheet software UI |
+| 8 | JSON tradeoff | Labeled/nested structure useful but can get deep | Avoid dense nesting |
+| 9 | Code mirrors data | Stored data shape connected to list/dictionary/simple class | Avoid advanced OOP diagram |
 | 10 | Choice heuristic | Four question cards: read, search, update, explain | Avoid dashboard style |
 | 11 | Representation demo | Same data flowing into four representation boxes | No complex schema |
+| 12 | Larger app preview | Stronger structure as future need, not today's build | Avoid database implementation |
+| 13 | Bigger not better | Advanced-looking option versus right-sized fit | Avoid ranking advanced tools |
+| 14 | A10 bridge | Compare forms and explain tradeoff | Keep response-focused |
 | 15 | A10 evidence | Comparison worksheet/checklist | Avoid legal audit look |
 
 ---

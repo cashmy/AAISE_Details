@@ -151,6 +151,10 @@ JSON file used for practice.
 Normalize both live and simulated paths immediately. Do not wait until live API
 problems appear.
 
+**Transition Cue:**
+
+Before implementation details, return to the simple pattern from Day 1.
+
 ---
 
 ## Slide 2 - Review: Request, Response, Inspect, Use
@@ -171,22 +175,36 @@ The basic API-style pattern is:
 
 This repeats the Day 1 pattern and sets the day's implementation target.
 
+**Transition Cue:**
+
+Connect the new API vocabulary to the JSON work students already practiced in
+Week 5.
+
 ---
 
-## Slide 3 - Local JSON Skills Transfer
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-API responses often use JSON.
+Today's success pattern:
 
-That means your Week 5 structured-data skills transfer directly: inspect labels,
-find values, and avoid raw dumps.
+- identify the data source
+- retrieve or load the response
+- inspect the JSON shape
+- select useful values
+- display readable output
+- explain the path used
 
 **Instructor Notes:**
 
-This reduces anxiety. APIs are not a total restart.
+This reduces anxiety. APIs are not a total restart; they reuse the Week 5 habit
+of inspecting structure before selecting values.
+
+**Transition Cue:**
+
+Now define the working vocabulary students need for that pattern.
 
 ---
 
@@ -208,6 +226,10 @@ Today we will use:
 **Instructor Notes:**
 
 Keep vocabulary lean and connected to the assignment.
+
+**Transition Cue:**
+
+Name the advanced API work that is not part of today's coding target.
 
 ---
 
@@ -231,6 +253,10 @@ Today we consume or inspect data. We do not build the API.
 
 Clear guardrail.
 
+**Transition Cue:**
+
+With the scope bounded, start with the beginner meaning of endpoint.
+
 ---
 
 ## Slide 6 - An Endpoint Is A Place To Ask
@@ -247,6 +273,11 @@ For beginners, think of it as: "Ask this address for this kind of response."
 
 Use simple analogy, but avoid turning endpoint into a vague "website." It is a
 defined source of structured response.
+
+**Transition Cue:**
+
+After the program asks the endpoint or data source, it needs a cue about what
+happened.
 
 ---
 
@@ -266,6 +297,10 @@ succeeded, failed, or needs another response.
 Keep status codes at recognition level. Use examples such as success versus not
 found if helpful.
 
+**Transition Cue:**
+
+Even when the response succeeds, students should inspect before extracting.
+
 ---
 
 ## Slide 8 - Inspect First, Extract Second
@@ -283,6 +318,10 @@ needs.
 
 This is the core habit for A11. Repeat it during every demo.
 
+**Transition Cue:**
+
+That habit prevents raw JSON from being mistaken for a finished result.
+
 ---
 
 ## Slide 9 - Raw JSON Is Not The Finished Result
@@ -298,6 +337,10 @@ It does not prove that the program understood or used the data well.
 **Instructor Notes:**
 
 Students need a clear output target: selected values in a readable form.
+
+**Transition Cue:**
+
+Now clarify the two valid paths students may use to practice the same skill.
 
 ---
 
@@ -319,6 +362,11 @@ Both require inspection, selection, and explanation.
 This is the governance slide. It protects the assignment from unstable network
 behavior.
 
+**Transition Cue:**
+
+Begin with the stable path so students can focus on response shape instead of
+network instability.
+
 ---
 
 ## Slide 11 - Demo 1: Parse A Simulated Response
@@ -336,11 +384,20 @@ Watch for:
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\01_parse_simulated_api_response.py`
+
 Start with simulated data because it is stable and lets students focus on shape.
 
 **Demo Connection:**
 
 Primary demo file: `01_parse_simulated_api_response.py`
+
+**Transition Cue:**
+
+After parsing the response, move from seeing the shape to choosing the values
+that matter.
 
 ---
 
@@ -356,11 +413,20 @@ The selected output should be easier to understand than the original response.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\02_select_values_from_api_data.py`
+
 Ask students what the output gained by being selected and formatted.
 
 **Demo Connection:**
 
 Primary demo file: `02_select_values_from_api_data.py`
+
+**Transition Cue:**
+
+Once selected output works, show how the program can respond when the preferred
+path is not available.
 
 ---
 
@@ -377,6 +443,18 @@ available.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\03_handle_api_style_error.py`
+
+Then use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\08_simulated_json_fallback_demo.py`
+
+Optional extension:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\09_environment_based_fallback_preview.py`
+
 Run or inspect error handling and fallback examples. Emphasize that fallback is
 intentional design.
 
@@ -384,6 +462,10 @@ intentional design.
 
 Primary demo files: `03_handle_api_style_error.py`,
 `08_simulated_json_fallback_demo.py`, `09_environment_based_fallback_preview.py`
+
+**Transition Cue:**
+
+Now convert the demos into the exact assignment target for A11.
 
 ---
 
@@ -401,6 +483,10 @@ them clearly, and explain your data path.
 **Instructor Notes:**
 
 Give approved paths. Prevent students from wandering into unstable APIs.
+
+**Transition Cue:**
+
+Make the evidence requirements visible so students know what counts as complete.
 
 ---
 
@@ -423,6 +509,11 @@ Your submission should show:
 
 This is the practical Schoology/GitHub evidence list.
 
+**Transition Cue:**
+
+Because API code is easy for AI to hallucinate, add the verification expectation
+before students begin lab work.
+
 ---
 
 ## Slide 16 - AI-Assisted API Code Must Be Verified
@@ -440,6 +531,11 @@ made.
 **Instructor Notes:**
 
 This is an important conceptual-understanding-over-regurgitation moment.
+
+**Transition Cue:**
+
+Close by returning to the accountable explanation students should be able to
+give.
 
 ---
 
@@ -537,8 +633,19 @@ AI must not replace response inspection or student explanation.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | API ask/response | Program asks endpoint or JSON file for structured data | Avoid browser UI |
+| 2 | Request/response review | Request/load, response, inspect, select, display pattern | Keep sequence readable |
+| 3 | Today's success pattern | Identify source, load response, inspect JSON, select values, explain path | Avoid implying API is a total restart |
+| 4 | Working set | Endpoint, response, status, JSON shape, selected fields | Avoid vocabulary overload |
+| 5 | Saved for later | Auth, endpoint creation, deployment, rate limits parked | Avoid scary production imagery |
+| 6 | Endpoint | Defined place to ask for data | Avoid browser/web page UI |
+| 7 | Status cue | Success/failure status as explanation cue | Keep status codes recognition-level |
 | 8 | Inspect/extract | Response shape highlighted before selected output | Keep JSON tiny |
+| 9 | Raw JSON not enough | Raw JSON contrasted with readable selected output | Avoid terminal dump dominance |
 | 10 | Live/fallback paths | Two equal paths leading to same inspect/select skill | Do not rank paths visually |
+| 11 | Simulated response demo | Stable JSON response parsed for structure | Avoid fake/lesser framing |
+| 12 | Selected values demo | API data transformed into useful output card | Avoid dashboard styling |
+| 13 | Error/fallback demo | Problem path leading to fallback response | Avoid alarmist network failure |
+| 14 | A11 bridge | Data source to selected output to explanation | Keep assignment scope small |
 | 15 | A11 evidence | Checklist with source, output, explanation, validation | Avoid audit/legal look |
 | 16 | AI verification | AI suggestion compared against actual response shape | Avoid robot imagery if distracting |
 

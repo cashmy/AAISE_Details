@@ -120,6 +120,11 @@ validation evidence, and account for AI use if applicable.
 
 Keep opening remarks brief. Move quickly into presentations.
 
+**Transition Cue:**
+
+Move immediately to the visible checklist so students know what each presentation
+should include.
+
 ---
 
 ## Slide 2 - What To Explain
@@ -141,6 +146,11 @@ Include:
 
 Use this as a visible checklist while students present.
 
+**Transition Cue:**
+
+Before the first presentation, remind students how to account for AI use if it
+helped.
+
 ---
 
 ## Slide 3 - AI-Use Accountability
@@ -160,6 +170,10 @@ If AI helped, explain:
 
 This is a reminder, not a lecture.
 
+**Transition Cue:**
+
+Close the opening reminders by setting the question posture.
+
 ---
 
 ## Slide 4 - Questions Are Part Of The Assessment
@@ -176,6 +190,10 @@ why your choices make sense.
 **Instructor Notes:**
 
 Set a calm tone. Questions are not "gotchas"; they verify ownership.
+
+**Transition Cue:**
+
+Begin presentations. Do not add additional lecture content.
 
 ---
 

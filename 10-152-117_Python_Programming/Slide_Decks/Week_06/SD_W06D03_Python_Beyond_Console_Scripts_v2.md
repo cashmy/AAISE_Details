@@ -148,6 +148,11 @@ The ideas are familiar. The responsibilities are separated more clearly.
 
 Frame this as expansion, not a sudden framework pivot.
 
+**Transition Cue:**
+
+Before looking beyond scripts, close the loop on what A11 required students to
+explain.
+
 ---
 
 ## Slide 2 - Review: API Output Still Needs Explanation
@@ -165,26 +170,36 @@ values your program selected.
 
 Use this as an A11 closeout checkpoint before moving into A12.
 
+**Transition Cue:**
+
+Now shift from data path explanation to responsibility separation.
+
 ---
 
-## Slide 3 - One Script Can Hold Many Responsibilities
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-In small console programs, one file may handle everything:
+Today's success pattern:
 
-- input
-- validation
-- logic
-- output
+- identify where input enters
+- identify where validation or request handling happens
+- identify where logic lives
+- identify where output/display happens
+- explain how a larger app separates responsibility
 
-That is fine for small programs, but larger systems often separate those jobs.
+This is recognition first. You are not building a Django app today.
 
 **Instructor Notes:**
 
-Avoid shaming single-file programs. They are appropriate at this stage.
+Avoid shaming single-file programs. They are appropriate at this stage. The
+success target is noticing how responsibilities separate as programs grow.
+
+**Transition Cue:**
+
+Now name the vocabulary students will use to describe that separation.
 
 ---
 
@@ -208,6 +223,11 @@ Today we will use:
 
 This sets up MVT without requiring framework work.
 
+**Transition Cue:**
+
+Protect the scope before the framework vocabulary makes the lesson feel bigger
+than it is.
+
 ---
 
 ## Slide 5 - What We Will Save For Later
@@ -230,6 +250,11 @@ Today we inspect the shape of a larger app, not build one.
 
 Critical boundary slide.
 
+**Transition Cue:**
+
+With the boundary set, return to the main architecture idea: separating
+responsibilities.
+
 ---
 
 ## Slide 6 - Larger Apps Separate Responsibilities
@@ -247,6 +272,10 @@ display.
 
 This is the central architecture concept.
 
+**Transition Cue:**
+
+Start tracing the flow at the point where information enters the program.
+
 ---
 
 ## Slide 7 - Input Enters Through A Controlled Place
@@ -262,6 +291,11 @@ In a larger app, input may come through a form, request, or controlled interface
 **Instructor Notes:**
 
 Connect to forms without teaching form implementation.
+
+**Transition Cue:**
+
+After input enters, the program needs to check whether it can safely depend on
+that input.
 
 ---
 
@@ -279,6 +313,11 @@ it.
 **Instructor Notes:**
 
 This ties Week 4/5/6 together: evidence, checking, validation.
+
+**Transition Cue:**
+
+Now introduce MVT as one vocabulary system for talking about separated
+responsibilities.
 
 ---
 
@@ -300,6 +339,11 @@ Today you only need to recognize the flow.
 
 Keep it simple and accept imperfect beginner wording.
 
+**Transition Cue:**
+
+Compare that larger-app flow to the top-to-bottom console flow students already
+know.
+
 ---
 
 ## Slide 10 - Console Flow Versus App Flow
@@ -316,6 +360,11 @@ returns a display.
 **Instructor Notes:**
 
 This prepares the architecture preview demo.
+
+**Transition Cue:**
+
+Now use the demo to label responsibilities instead of trying to build a
+framework.
 
 ---
 
@@ -336,11 +385,20 @@ The code is a teaching model, not a framework requirement.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\06_architecture_preview_console_mvt.py`
+
 Ask students to label responsibilities as you walk through the demo.
 
 **Demo Connection:**
 
 Primary demo file: `06_architecture_preview_console_mvt.py`
+
+**Transition Cue:**
+
+The console preview gives us a bridge. Now inspect the Django/MVT recognition
+artifact without turning it into a build requirement.
 
 ---
 
@@ -357,11 +415,20 @@ expected to build a Django app in this course.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\07_django_mvt_recognition.md`
+
 Use `07_django_mvt_recognition.md` as an annotated reading/demo artifact.
 
 **Demo Connection:**
 
 Primary demo artifact: `07_django_mvt_recognition.md`
+
+**Transition Cue:**
+
+After seeing the larger structure, explicitly protect students from thinking
+they are expected to implement all of it now.
 
 ---
 
@@ -380,6 +447,10 @@ the flow is the success target.
 
 Important confidence-preserving slide.
 
+**Transition Cue:**
+
+That recognition-level target becomes Assignment 12.
+
 ---
 
 ## Slide 14 - Assignment 12 Bridge
@@ -396,6 +467,10 @@ where output is displayed.
 **Instructor Notes:**
 
 Keep A12 interpretive. If there is a guided edit, keep it small.
+
+**Transition Cue:**
+
+Close the week by separating A11 evidence from A12 evidence.
 
 ---
 
@@ -415,6 +490,10 @@ Include an AI-use note if AI helped explain code or vocabulary.
 **Instructor Notes:**
 
 This closes Week 6 evidence expectations cleanly.
+
+**Transition Cue:**
+
+End with the sentence students should be able to say about any larger app flow.
 
 ---
 
@@ -502,9 +581,19 @@ AI should not turn A12 into a generic Django research report.
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Beyond one script | Console script expands into larger app flow | Avoid web-dashboard look |
-| 3 | One script jobs | One box holding input, validation, logic, output | Keep positive, not "bad code" |
+| 2 | A11 closeout | Data source, shape, selected values, explanation | Keep API review compact |
+| 3 | Today's success pattern | Identify input, validation, logic, display, and separated responsibilities | Keep positive, not "bad code" |
+| 4 | Working set | Input, validation, logic, display, template, view, model | Avoid framework overload |
+| 5 | Saved for later | Django install, databases, auth, deployment parked | Avoid warning tone |
+| 6 | Separated responsibilities | Larger app divides input, validation, logic, display | Avoid complex architecture |
+| 7 | Controlled input | Console input compared with form/request input | Do not build UI mockup |
+| 8 | Validation protects flow | Input checked before logic depends on it | Avoid security-heavy imagery |
 | 9 | MVT recognition | Three labeled boxes: Model, View, Template | Avoid framework logo dependence |
+| 10 | Console vs app flow | Top-to-bottom script compared with request-driven flow | Avoid full web app UI |
 | 11 | Responsibility trace | Input, validation, logic, display highlighted in flow | No dense code |
+| 12 | Django recognition | Point to parts, explain flow, no build requirement | Avoid Django branding dependence |
+| 13 | Preview not panic | Recognition before implementation | Keep tone supportive |
+| 14 | A12 bridge | Identify input, validation, logic, display in example | Keep response-focused |
 | 15 | Evidence closeout | Two-column evidence: A11 data path, A12 app flow | Avoid compliance styling |
 
 ---

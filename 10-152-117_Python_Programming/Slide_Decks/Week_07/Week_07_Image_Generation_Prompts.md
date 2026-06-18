@@ -7,17 +7,20 @@
 
 # Prompt Use Notes
 
-These prompts support Week 7 slide construction. Keep visuals practical and
-project-centered. RBA should look like a usable planning process, not an abstract
-philosophy diagram.
+These prompts expand the image prompt notes in the Week 7 v2 deck sources.
+
+Use them when PowerPoint Designer or a browser-based image model needs stronger
+constraints. The visual style should stay instructional, human-centered, and
+project-focused.
 
 Avoid:
 
-- robot-centered AI visuals
-- mystical or abstract cognition imagery
+- robot-centered visuals
+- abstract philosophy imagery
 - legal/compliance styling
-- visuals that imply scope reduction is punishment
-- ranking project paths as good/bad
+- gatekeeping or rejection imagery
+- large blocks of unreadable text
+- making AI look forbidden rather than bounded
 
 ---
 
@@ -25,14 +28,170 @@ Avoid:
 
 ## Slide 1 - Intent Should Exist Before Generation
 
-Create a clean educational visual showing a clear project intent document placed
-before a generated code output.
+Create a clean instructional visual showing a project intent document placed
+before a code-generation output.
 
-Left label:
+Labels:
 
-- "Intent first"
+- "intent"
+- "purpose"
+- "generated code comes later"
 
-Document sections:
+Use a calm classroom style. The intent document should be the focus, not AI.
+
+Avoid robot-centered imagery.
+
+## Slide 2 - Review: You Have Several Python Paths Now
+
+Create a visual with five neutral Python path cards:
+
+- values/output
+- decisions/loops
+- functions/collections
+- files/data
+- APIs/architecture
+
+Show them converging into one question card: "Which path fits the project?"
+
+Avoid ranking the paths visually.
+
+## Slide 3 - Today's Success Pattern
+
+Create a success-pattern visual for project framing.
+
+Show six steps:
+
+1. "purpose"
+2. "inputs and outputs"
+3. "constraints and risks"
+4. "likely structure"
+5. "AI boundaries"
+6. "capstone-ready framing"
+
+Use a simple path or stacked checklist. Keep text large and readable.
+
+Avoid making the visual look like a legal form.
+
+## Slide 4 - What We Will Use Today
+
+Create a working-set visual titled "Today's Framing Tools".
+
+Show seven cards:
+
+- purpose
+- inputs
+- outputs
+- constraints
+- structure
+- risks
+- AI boundaries
+
+Avoid dense paragraphs.
+
+## Slide 5 - What We Will Save For Later
+
+Create a calm "parked for later" shelf with these items:
+
+- full build
+- feature polish
+- package publishing
+- advanced dependencies
+- AI replacing the plan
+
+Caption: "Useful later, not today's target."
+
+Avoid warning signs or red X marks.
+
+## Slide 6 - Purpose Comes First
+
+Create a visual showing a project purpose card at the top, with three questions
+under it:
+
+- "What need?"
+- "Who uses it?"
+- "What result?"
+
+Show later project choices branching from the purpose card.
+
+Avoid abstract mission-statement imagery.
+
+## Slide 7 - Inputs And Outputs Define The Shape
+
+Create a simple input-output diagram.
+
+Left side: input cards such as "user entry", "file", "API data".
+Right side: output cards such as "summary", "saved file", "displayed result".
+
+Center label: "Python program".
+
+Avoid showing too many data types.
+
+## Slide 8 - Constraints Are Design Information
+
+Create a constructive constraints visual.
+
+Show constraint cards shaping a project plan:
+
+- time
+- skill
+- data
+- explainability
+- course scope
+
+The tone should be "shaping" rather than "blocking."
+
+Avoid locked doors or failure imagery.
+
+## Slide 9 - Structure Should Fit The Intent
+
+Create a neutral structure-choice visual.
+
+Show one project purpose card connected to possible structures:
+
+- script
+- functions
+- data utility
+- API-style fetcher
+- architecture preview
+
+Caption: "The structure should fit the purpose."
+
+Avoid ranking advanced structures as better.
+
+## Slide 10 - AI Boundaries Preserve Ownership
+
+Create a boundary visual showing a human decision area and an AI support area.
+
+Human decision area:
+
+- purpose
+- final judgment
+- explanation
+
+AI support area:
+
+- suggestions
+- risk check
+- wording support
+
+Avoid making AI look dangerous or forbidden.
+
+## Slide 11 - Demo 1: Prompt-First Versus Intent-First
+
+Create a split-path comparison.
+
+Left path: "prompt-first" leading to vague generated output.
+Right path: "intent-first" leading to a clearer project direction.
+
+Use minimal text and readable labels.
+
+Avoid dense prompt text.
+
+## Slide 12 - Demo 2: Framing A Study Timer
+
+Create a study-timer framing worksheet visual.
+
+Show sections:
 
 - purpose
 - inputs
@@ -40,91 +199,32 @@ Document sections:
 - constraints
 - AI boundaries
 
-Right label:
+Keep it as a model artifact, not a finished app screenshot.
 
-- "Generation later"
+## Slide 13 - Common Failure: Vague Ambition
 
-Use arrows from the intent document to the generated code card.
+Create a before/after visual.
 
-Avoid:
+Before: vague idea card labeled "something useful".
+After: clearer idea card with "user", "input", "output", and "limit".
 
-- robot characters
-- magical spark effects
-- implying AI is forbidden
+Avoid shaming tone.
 
-## Slide 3 - Prompt-First Is Not Intent-First
+## Slide 14 - Assignment 13 Bridge
 
-Create a split-path comparison visual.
-
-Left path title:
-
-- "Prompt-first"
-
-Left path content:
-
-- vague prompt
-- unclear project
-- hard to judge
-
-Right path title:
-
-- "Intent-first"
-
-Right path content:
-
-- clear purpose
-- known inputs/outputs
-- easier to judge
-
-Use balanced colors, but make the right path look more organized.
-
-Avoid:
-
-- tiny text
-- angry warning symbols
-- robot imagery
-
-## Slide 8 - Constraints Are Design Information
-
-Create a visual showing a project plan being shaped by four constructive
-constraint cards:
-
-- time
-- skill level
-- data access
-- explainability
-
-The constraints should look like guide rails or shaping supports, not barriers.
-
-Avoid:
-
-- blocked road signs
-- prison/barrier imagery
-- red X marks
-
-## Slide 10 - AI Boundaries Preserve Ownership
-
-Create a diagram showing a human decision area around an AI support area.
+Create a bridge visual showing A13 framing feeding into a capstone proposal.
 
 Labels:
 
-- "Human decisions"
-- "AI support"
-- "Verify"
-- "Explain"
+- "A13 framing"
+- "proposal raw material"
+- "capstone direction"
 
-Show that AI can help inside boundaries, while the human remains responsible for
-purpose, scope, and final explanation.
-
-Avoid:
-
-- scary AI imagery
-- implying AI is banned
-- humanoid robots
+Avoid formal contract imagery.
 
 ## Slide 15 - Evidence For A13
 
-Create a clean checklist titled "A13 Project Framing Evidence".
+Create a clean checklist titled "A13 Evidence".
 
 Checklist items:
 
@@ -132,216 +232,475 @@ Checklist items:
 - inputs and outputs
 - constraints
 - likely structure
-- risks or unknowns
-- AI-use boundaries
+- risks
+- AI boundaries
 
-Use a classroom planning style with readable labels.
+Avoid audit or compliance styling.
 
-Avoid:
+## Slide 16 - Success Check
 
-- legal rubric styling
-- audit stamps
-- cluttered document piles
+Create a simple ownership statement visual.
+
+Show a student-facing project card with:
+
+- "what it is for"
+- "what it needs"
+- "what it produces"
+- "what AI should not decide"
+
+Avoid motivational poster style.
 
 ---
 
-# Week 7 Day 2 - Constraints, Structure, And Scope Control
+# Week 7 Day 2 - Constraints, Structure, and Scope Control
 
 ## Slide 1 - Smaller And Clearer Is Stronger
 
-Create a before/after visual.
+Create a visual showing an oversized project idea being refined into a focused
+core.
 
-Before:
+Labels:
 
-- oversized project cloud with many loose feature cards
+- "too many features"
+- "focused working core"
 
-After:
+Tone should be constructive, not boring.
 
-- focused project core with three clear feature cards
+## Slide 2 - Review: Framing Became Raw Material
 
-Caption:
+Create a visual showing yesterday's framing sections becoming proposal sections.
 
-- "Smaller, clearer, finishable"
+Use two connected document cards:
 
-Avoid:
+- "A13 framing"
+- "A14 proposal"
 
-- making the smaller project look boring
-- red rejection symbols
-- sad or failure imagery
+Avoid making it look like duplicate paperwork.
+
+## Slide 3 - Today's Success Pattern
+
+Create a success-pattern visual for proposal readiness.
+
+Show six steps:
+
+1. "find the realistic core"
+2. "park extra features"
+3. "choose fitting structure"
+4. "name risks"
+5. "set AI boundaries"
+6. "revise into proposal"
+
+Keep the tone positive.
+
+## Slide 4 - What We Will Use Today
+
+Create a working-set visual titled "Today's Scope Tools".
+
+Show six cards:
+
+- constraints
+- structure choices
+- feature reduction
+- risks
+- AI boundaries
+- approval criteria
+
+Avoid dense planning-board imagery.
+
+## Slide 5 - What We Will Save For Later
+
+Create a calm parked-for-later visual.
+
+Items:
+
+- all features
+- polish
+- advanced packages
+- distribution packaging
+- AI expansion
+
+Caption: "Today: make the proposal approvable."
 
 ## Slide 6 - Constraints Are Part Of The Design
 
-Create a project plan in the center surrounded by constructive constraint cards:
+Create a visual where constraint cards shape a project plan into a clearer
+target.
+
+Cards:
 
 - time
-- course skills
-- data access
-- testing
+- skill
+- data
 - explainability
+- testing
+- course fit
 
-Show the cards shaping the plan into a realistic project.
+Avoid blocked-road imagery.
 
-Avoid:
+## Slide 7 - Feature Count Is Not Project Quality
 
-- blocked or trapped imagery
-- negative warning colors
-- abstract business strategy icons
+Create a comparison visual.
+
+Left: many scattered feature cards.
+Right: one coherent working core with a few connected parts.
+
+Caption: "Quality comes from a coherent core."
+
+Avoid implying ambition is bad.
 
 ## Slide 8 - Scope Reduction Is A Professional Move
 
-Create a scope-control visual with three columns:
+Create a scope-reduction visual with two areas:
 
-- "Core now"
-- "Cut"
-- "Future later"
+- "core behavior"
+- "future features"
 
-Use feature cards moving from a large list into these columns.
+Show feature cards moving from the core into the future area.
 
-The tone should communicate intentional project management.
+Avoid red rejection marks.
 
-Avoid:
+## Slide 9 - Structure Should Match The Project
 
-- red X marks
-- trash cans as the main visual
-- making cuts look like failure
+Create a neutral path-selection visual.
 
-## Slide 12 - Structure Options Comparison
+Paths:
 
-Create a neutral path-choice visual with five equally weighted options:
+- one script
+- functions
+- file/data utility
+- API-style program
+- simple class structure
+
+Caption: "Choose what helps the project finish and explain well."
+
+Avoid ranking the paths visually.
+
+## Slide 10 - Risks Should Be Named Before Coding
+
+Create a risk-planning visual.
+
+Show a project plan with risk notes attached:
+
+- API instability
+- unclear data
+- too many features
+- unexplained AI code
+
+Tone should be preparation, not panic.
+
+## Slide 11 - Demo 1: Scope Reduction Example
+
+Create a before/after project scope visual.
+
+Before: large project with many features.
+After: smaller version with one strong core and a "later" list.
+
+Avoid making the reduced version look lesser.
+
+## Slide 12 - Demo 2: Structure Options Comparison
+
+Create a neutral comparison visual with structure option cards.
+
+Cards:
 
 - script
 - functions
 - data utility
-- API fetcher
-- simple class-based
+- API path
+- class-based path
 
-Each path should look valid for the right project.
+Each card should look equally valid.
 
-Avoid:
+## Slide 13 - Demo 3: AI Boundary Example
 
-- ranking one path above another
-- making classes or APIs look superior
-- complex architecture diagrams
+Create an AI-use boundary worksheet visual.
+
+Sections:
+
+- AI may help with
+- student must decide
+- student must verify
+- student must explain
+
+Avoid robot mascot imagery.
+
+## Slide 14 - Assignment 14 Starts Today
+
+Create a transition visual showing A13 framing moving into A14 proposal.
+
+Include a small calendar or "starts today" marker.
+
+Avoid deadline panic imagery.
 
 ## Slide 15 - Proposal Evidence
 
-Create a clean proposal checklist titled "Capstone Proposal Evidence".
+Create a clean proposal checklist.
 
-Checklist items:
+Items:
 
 - purpose
 - features
 - inputs and outputs
 - structure
 - risks
-- AI-use plan
+- AI-use boundaries
 - realistic scope
 
-Use a polished classroom handout style.
+Avoid audit/compliance styling.
 
-Avoid:
+## Slide 16 - Approval May Require Revision
 
-- compliance/audit appearance
-- dense paragraphs
-- legal document styling
+Create a feedback-loop visual.
+
+Show:
+
+- proposal
+- instructor feedback
+- targeted revision
+- clearer approval path
+
+Tone should be supportive.
+
+Avoid red rejection stamps.
+
+## Slide 17 - Success Check
+
+Create a visual showing a first idea becoming "smaller, clearer, realistic,
+explainable."
+
+Use four simple check cards.
+
+Avoid celebratory graduation imagery.
 
 ---
 
-# Week 7 Day 3 - Approval Through Clear Scope And Structure
+# Week 7 Day 3 - Approval Through Clear Scope and Structure
 
 ## Slide 1 - Approval Is About Fit
 
-Create a visual of a project idea passing through three gentle fit filters:
+Create a fit-filter visual.
+
+Show a project idea passing through four filters:
 
 - course skills
-- available time
+- time available
+- current skill
 - explainability
 
-The project exits as an "approved scope" card.
+Tone should be quality control, not gatekeeping.
 
-Style should feel supportive and professional.
+## Slide 2 - Review: Scope Is A Build Decision
 
-Avoid:
+Create a visual showing scope choices determining what gets built now and what
+is saved for later.
 
-- gatekeeping or rejection imagery
-- red stop signs
-- bureaucratic approval stamps
+Use two lanes:
+
+- "build now"
+- "later"
+
+Avoid rejection imagery.
+
+## Slide 3 - Today's Success Pattern
+
+Create a success-pattern visual for capstone launch.
+
+Show six steps:
+
+1. "check proposal fit"
+2. "revise scope if needed"
+3. "choose approved path"
+4. "define first build target"
+5. "stay inside approved boundaries"
+6. "start collecting evidence"
+
+Keep the visual practical and calm.
+
+## Slide 4 - What We Will Use Today
+
+Create a working-set visual titled "Today's Launch Tools".
+
+Cards:
+
+- approval criteria
+- project path
+- first build target
+- run instructions
+- validation evidence
+- AI accountability
+
+Avoid launch-rocket imagery.
+
+## Slide 5 - What We Will Save For Later
+
+Create a parked-for-later visual.
+
+Items:
+
+- final polish
+- presentation rehearsal
+- optional features
+- unapproved expansion
+- professional packaging
+
+Caption: "Today: approve scope and start the core."
+
+## Slide 6 - Approval Criteria
+
+Create a proposal-review checklist visual.
+
+Items:
+
+- purpose
+- realistic features
+- inputs and outputs
+- structure
+- risks
+- AI-use plan
+- realistic scope
+
+Avoid legal review styling.
 
 ## Slide 7 - Project Path Changes Complexity
 
-Create a neutral project-path map with five paths:
+Create a neutral project-path comparison.
+
+Paths:
 
 - console utility
 - data-driven tool
-- file-based tracker
-- API-style fetcher
+- file tracker
+- API fetcher
 - architecture preview
 
-Each path should have a small risk note icon, but no path should look best by
-default.
-
-Avoid:
-
-- ranking paths
-- implying advanced paths are automatically better
-- web-dashboard imagery
+Show small risk markers without ranking visually.
 
 ## Slide 8 - Can This Be Finished?
 
-Create a visual showing a large project idea being narrowed to a small testable
-core.
+Create a finishability visual.
 
-Labels:
+Show a small testable core separated from later features.
 
-- "full idea"
-- "smallest testable core"
-- "later features"
+Question cards:
 
-Use calm colors and a constructive tone.
+- "smallest working version?"
+- "test first?"
+- "remove if tight?"
+- "counts as working?"
 
-Avoid:
+Avoid warning colors.
 
-- failure imagery
-- red rejection marks
-- trash/delete symbols
+## Slide 9 - Can This Be Explained?
+
+Create an explainability-check visual.
+
+Cards:
+
+- main logic
+- data
+- validation evidence
+- AI contribution
+
+Show them connected to a student explanation bubble.
+
+Avoid oral-exam anxiety imagery.
+
+## Slide 10 - Revision Is Not Rejection
+
+Create a supportive revision-loop visual.
+
+Show proposal moving through feedback into clearer scope.
+
+Caption: "Revision protects the project."
+
+Avoid red X marks or rejected stamps.
+
+## Slide 11 - Demo 1: Capstone Proposal Example
+
+Create an annotated proposal visual.
+
+Highlight:
+
+- purpose
+- focused features
+- structure
+- risk notes
+- AI boundary
+- realistic scope
+
+Keep text minimal and readable.
+
+## Slide 12 - Demo 2: Structure Options And Approval Fit
+
+Create a structure-fit visual showing the same idea mapped to several possible
+paths.
+
+Emphasize that approval selects the path that fits time, course, and
+explainability.
+
+Avoid ranking advanced paths as best.
+
+## Slide 13 - Assignment 14 Checkpoint
+
+Create a checkpoint visual with three possible states:
+
+- approved
+- provisionally approved
+- revise before major build
+
+Use calm colors and avoid pass/fail styling.
 
 ## Slide 14 - Assignment 15 Begins Today
 
-Create a flow diagram:
+Create a visual showing an approved proposal flowing into a first build target.
 
-- approved or provisional proposal
-- first build target
-- testable output
-
-Show a clear transition from planning to building.
-
-Include small labels:
+Labels:
 
 - "approved scope"
-- "build first"
-- "check result"
+- "smallest testable core"
+- "A15 begins"
 
-Avoid:
+Avoid implying the whole project must be built today.
 
-- suggesting full final project is built immediately
-- complex Gantt chart
-- sprint-board clutter
+## Slide 15 - First Build Target
+
+Create a first-build planning visual.
+
+Question cards:
+
+- "what file or function starts?"
+- "what input can I test?"
+- "what output proves progress?"
+- "what validation first?"
+
+Avoid dense project-management boards.
 
 ## Slide 16 - Evidence To Start Collecting Now
 
-Create a project folder visual with labeled items:
+Create a project-folder evidence visual.
 
-- code files
-- run instructions
-- sample output
+Items:
+
+- project files
+- run notes
+- sample input/output
 - validation notes
 - revision notes
 - AI-use notes
 
-Keep it clean and instructional.
+Avoid audit/compliance styling.
 
-Avoid:
+## Slide 17 - Success Check
 
-- legal/audit style
-- cluttered file explorer screenshots
-- excessive icons
+Create a calm capstone-launch visual.
+
+Show:
+
+- approved or revising scope
+- first useful build target
+- evidence collection started
+
+Caption: "Start small. Stay explainable."
+
+Avoid final-presentation imagery.
+

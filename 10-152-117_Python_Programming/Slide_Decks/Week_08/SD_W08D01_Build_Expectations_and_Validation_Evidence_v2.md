@@ -126,6 +126,27 @@ Optional preview:
 
 ---
 
+# Capstone Support Artifacts For Week 8
+
+These artifacts are not all full demos. They are final-work support models that
+students can reference while finishing A15 and preparing A16.
+
+Use directly on Day 1:
+
+- `Demos/Week_08_Capstone_Build_Justification_and_Presentation/02_capstone_validation_notes.md`
+- `Demos/Week_08_Capstone_Build_Justification_and_Presentation/06_run_instructions_example.md`
+
+Preview or point to as needed:
+
+- `Demos/Week_08_Capstone_Build_Justification_and_Presentation/03_ai_use_justification_example.md`
+- `Demos/Week_08_Capstone_Build_Justification_and_Presentation/04_final_presentation_outline.md`
+- `Demos/Week_08_Capstone_Build_Justification_and_Presentation/05_revision_after_reality_contact_example.md`
+
+The goal is to reduce ambiguity around evidence, run guidance, AI-use
+justification, revision notes, and presentation structure.
+
+---
+
 # Slide Sequence Overview
 
 | Section | Slides | Purpose |
@@ -154,6 +175,11 @@ evidence that important behavior was checked.
 Open on quality and explainability. This should not sound like extra paperwork;
 it is part of finishing well.
 
+**Transition Cue:**
+
+Connect this immediately to the Week 7 approval process: approved scope is only
+useful if the final build can be defended.
+
 ---
 
 ## Slide 2 - From Approved Scope To Build Evidence
@@ -171,22 +197,38 @@ else understand how to run it?
 
 Tie A14 directly into A15.
 
+**Transition Cue:**
+
+Now name the success pattern for today's build work so students know what to
+prioritize during lab time.
+
 ---
 
-## Slide 3 - Name The Behavior That Matters Most
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-Every project has one or two behaviors that matter most.
+Today's success pattern:
 
-Before adding polish, identify the behavior that proves the project has a useful
-working core.
+- stay inside approved scope
+- identify the most important behavior
+- validate that behavior with real evidence
+- preserve run instructions
+- record meaningful AI help if used
+- prepare to explain the work in A16
 
 **Instructor Notes:**
 
-Ask students to write this down for their own capstone.
+Ask students to write down the most important behavior for their own capstone.
+That behavior becomes the anchor for validation, run instructions, and
+presentation explanation.
+
+**Transition Cue:**
+
+Once the important behavior is named, show that evidence can be small and still
+valid.
 
 ---
 
@@ -210,6 +252,11 @@ Small evidence is acceptable when it is real.
 
 This demystifies validation. Do not turn it into a full testing lecture.
 
+**Transition Cue:**
+
+Evidence is useful to the instructor, but run instructions are what make the
+project understandable to another person.
+
 ---
 
 ## Slide 5 - Run Instructions Are Part Of The Project
@@ -226,6 +273,11 @@ if needed, and the expected result.
 **Instructor Notes:**
 
 This prepares A16 and helps grading.
+
+**Transition Cue:**
+
+If AI helped during the build, the notes should be collected now while the
+decisions are still fresh.
 
 ---
 
@@ -244,6 +296,10 @@ how you verified the result.
 
 This prevents weak after-the-fact AI justification.
 
+**Transition Cue:**
+
+Now model the relationship between behavior and validation evidence.
+
 ---
 
 ## Slide 7 - Demo: Validation Evidence
@@ -258,12 +314,25 @@ Then watch the evidence that supports the claim that the behavior works.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\01_capstone_validation_example.py`
+
+Then use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\02_capstone_validation_notes.md`
+
 Run the validation example and connect it to `02_capstone_validation_notes.md`.
 
 **Demo Connection:**
 
 Primary demo files: `01_capstone_validation_example.py`,
 `02_capstone_validation_notes.md`
+
+**Transition Cue:**
+
+After showing evidence, show the support artifact that helps someone else run
+the project.
 
 ---
 
@@ -280,7 +349,24 @@ what successful output looks like.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\06_run_instructions_example.md`
+
 Show `06_run_instructions_example.md`.
+
+Optional preview if useful:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_08_Capstone_Build_Justification_and_Presentation\03_ai_use_justification_example.md`
+
+**Demo Connection:**
+
+Primary demo artifact: `06_run_instructions_example.md`
+
+**Transition Cue:**
+
+Now convert the examples into the A15 build checklist students should use during
+work time.
 
 ---
 
@@ -304,6 +390,11 @@ For A15, focus on:
 
 This is the transition into work time.
 
+**Transition Cue:**
+
+Make the immediate target small enough that students can act on it before class
+ends.
+
 ---
 
 ## Slide 10 - Today's Work Target
@@ -322,6 +413,10 @@ Before class ends, try to have:
 **Instructor Notes:**
 
 This gives a realistic day-one finish line.
+
+**Transition Cue:**
+
+Close quickly so students can move into build work with a concrete target.
 
 ---
 
@@ -411,10 +506,16 @@ Students must still:
 | Slide | Visual Need | Prompt Direction | Cautions |
 | --- | --- | --- | --- |
 | 1 | Code plus evidence | Running code paired with validation note | Avoid legal/audit look |
-| 3 | Important behavior | One highlighted core behavior in project flow | Avoid feature-sprawl imagery |
+| 2 | Scope to evidence | Approved scope leading to build evidence and run guidance | Avoid paperwork feel |
+| 3 | Today's success pattern | Scope, core behavior, validation, run instructions, AI notes, explanation | Avoid feature-sprawl imagery |
 | 4 | Validation types | Expected/actual, run output, boundary check cards | Keep simple |
 | 5 | Run instructions | Project folder with README/run steps | Avoid file explorer clutter |
+| 6 | AI notes | AI contribution accepted, changed, verified, and explained | Avoid robot-centered imagery |
+| 7 | Validation demo | Behavior connected to validation notes | Avoid testing-framework complexity |
+| 8 | Run instructions demo | README/run instruction support artifact | Keep readable |
 | 9 | A15 checklist | Compact build checklist | Avoid compliance styling |
+| 10 | Work target | Four small day-one work targets | Avoid urgency/panic styling |
+| 11 | Success check | Core behavior with evidence started | Keep simple |
 
 ---
 

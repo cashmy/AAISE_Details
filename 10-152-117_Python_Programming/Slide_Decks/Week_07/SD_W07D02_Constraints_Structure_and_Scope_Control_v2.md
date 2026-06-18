@@ -148,6 +148,11 @@ whether the project can run, be tested, and be explained.
 
 Normalize scope reduction immediately.
 
+**Transition Cue:**
+
+Connect this directly to yesterday's framing work so students see A13 becoming
+proposal material.
+
 ---
 
 ## Slide 2 - Review: Framing Became Raw Material
@@ -168,24 +173,35 @@ Your framing work should now help answer:
 
 This reinforces A13 as useful work, not a throwaway worksheet.
 
+**Transition Cue:**
+
+Now introduce the approval lens: the proposal has to fit the course reality.
+
 ---
 
-## Slide 3 - Proposal Readiness Means Fit
+## Slide 3 - Today's Success Pattern
 
 **Delivery Category:** Core
 
 **Student-Visible Text:**
 
-A proposal is ready when it fits:
+Today's success pattern:
 
-- the course skills
-- the available time
-- the student's ability to explain it
-- the instructor's approval criteria
+- identify the realistic core
+- reduce or park extra features
+- choose a structure that fits the project
+- name risks before coding
+- define AI-use boundaries
+- revise the idea into an approvable proposal
 
 **Instructor Notes:**
 
-This introduces A14.
+This introduces A14 as refinement, not punishment. Students should expect the
+proposal to become smaller and clearer than the first idea.
+
+**Transition Cue:**
+
+Now name the practical tools students will use for that refinement.
 
 ---
 
@@ -208,6 +224,10 @@ Today we will use:
 
 Keep the day practical.
 
+**Transition Cue:**
+
+Then make clear which tempting activities are not today's target.
+
 ---
 
 ## Slide 5 - What We Will Save For Later
@@ -229,6 +249,10 @@ Today we make the proposal approvable.
 **Instructor Notes:**
 
 This protects lab time and mental focus.
+
+**Transition Cue:**
+
+Start with constraints as design information, not as discouragement.
 
 ---
 
@@ -253,6 +277,11 @@ Good constraints make the project stronger by making reality visible.
 
 This line matters: constraints are not insults to ambition.
 
+**Transition Cue:**
+
+Once constraints are visible, challenge the assumption that more features mean a
+better capstone.
+
 ---
 
 ## Slide 7 - Feature Count Is Not Project Quality
@@ -269,6 +298,10 @@ Capstone quality comes from a coherent working core.
 **Instructor Notes:**
 
 Use this repeatedly during proposal conferences.
+
+**Transition Cue:**
+
+Now show the professional move: reducing scope until the core is strong.
 
 ---
 
@@ -288,6 +321,10 @@ Scope reduction asks:
 **Instructor Notes:**
 
 Connect to Agile/MVP thinking without overloading the slide.
+
+**Transition Cue:**
+
+After the core behavior is clear, choose a project structure that supports it.
 
 ---
 
@@ -311,6 +348,10 @@ The structure should serve the project, not decorate it.
 
 This avoids prestige bias around classes/APIs.
 
+**Transition Cue:**
+
+Before coding, name what could make the project difficult or unstable.
+
 ---
 
 ## Slide 10 - Risks Should Be Named Before Coding
@@ -333,6 +374,10 @@ Naming risk early makes revision easier.
 
 This is a major A14 quality marker.
 
+**Transition Cue:**
+
+Now use the first demo to make feature cutting visible and constructive.
+
 ---
 
 ## Slide 11 - Demo 1: Scope Reduction Example
@@ -348,11 +393,20 @@ project finishable.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\03_scope_reduction_example.md`
+
 Use this demo to model feature cutting as design.
 
 **Demo Connection:**
 
 Primary demo artifact: `03_scope_reduction_example.md`
+
+**Transition Cue:**
+
+After shrinking the idea, compare possible structures without ranking them as
+better or worse.
 
 ---
 
@@ -369,11 +423,19 @@ explain.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\06_structure_options_comparison.md`
+
 Compare script/function/class/data/API paths without implying a hierarchy.
 
 **Demo Connection:**
 
 Primary demo artifact: `06_structure_options_comparison.md`
+
+**Transition Cue:**
+
+Then make the AI boundary concrete so the proposal preserves student ownership.
 
 ---
 
@@ -390,11 +452,19 @@ student must decide, and what must be verified.
 
 **Instructor Notes:**
 
+Use with:
+
+`D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_07_RBA_and_Project_Framing\04_ai_boundary_example.md`
+
 This directly prepares A14 and A16.
 
 **Demo Connection:**
 
 Primary demo artifact: `04_ai_boundary_example.md`
+
+**Transition Cue:**
+
+Now move from examples into the actual pacing change: A14 begins today.
 
 ---
 
@@ -414,6 +484,11 @@ scope.
 
 This reflects the updated pacing. A14 starts Day 2 so approval can happen before
 major build work.
+
+**Transition Cue:**
+
+Make the proposal evidence visible so students know what approval will be based
+on.
 
 ---
 
@@ -437,6 +512,11 @@ Your proposal should show:
 
 This gives the instructor a clean approval checklist.
 
+**Transition Cue:**
+
+Before students submit, normalize revision as part of approval rather than a
+failure state.
+
 ---
 
 ## Slide 16 - Approval May Require Revision
@@ -453,6 +533,10 @@ the project becomes more realistic.
 **Instructor Notes:**
 
 Set expectations before students receive feedback.
+
+**Transition Cue:**
+
+Close with the proposal-quality sentence students should aim for.
 
 ---
 
@@ -555,6 +639,7 @@ AI must not choose the final project or expand scope beyond approval.
 | 6 | Constraints | Constraint cards shaping project plan | Keep tone constructive |
 | 8 | Scope reduction | Feature list with future-later parking area | Avoid red rejection marks |
 | 12 | Structure options | Script, functions, data, API, class options as neutral paths | Do not rank visually |
+| 3 | Today's success pattern | Core behavior, feature cuts, fit structure, risk, AI boundaries | Avoid rejection tone |
 | 15 | Proposal evidence | Clean proposal checklist | Avoid compliance look |
 
 ---
