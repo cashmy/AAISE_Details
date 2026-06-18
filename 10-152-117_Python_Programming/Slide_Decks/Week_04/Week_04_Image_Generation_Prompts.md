@@ -71,6 +71,13 @@ readable text.
 
 Avoid advanced debugger or profiling tools.
 
+## Slide 5 - What We Will Skip For Now
+
+Create a calm "parked for later" shelf with four labeled cards: full debugger workflows, logging architecture, pytest mastery, and profiling. Add a small bookmark or clock icon
+to show these are useful later but not today's focus.
+
+Avoid warning signs or making the deferred topics look wrong.
+
 ## Slide 6 - Expected Versus Actual
 
 Create two large comparison cards. One card labeled "Expected" and one labeled
@@ -265,7 +272,7 @@ Avoid complex testing-tool imagery.
 
 ## Slide 2 - Evidence, Repair, Validation
 
-Create a Week 4 arc diagram: evidence, repair, validation, explanation. Use
+Create an arc diagram (Week 4): evidence, repair, validation, explanation. Use
 four connected cards and keep the final explanation card visible.
 
 Avoid making validation look separate from debugging.
@@ -340,14 +347,14 @@ Avoid long paragraphs.
 
 ## Slide 15 - Finish A6: Debug And Explain
 
-Create an A6 closeout visual with corrected file, debugging clue, check output,
+Create an Assignment #6 closeout visual with corrected file, debugging clue, check output,
 and explanation note. Keep it clean and practical.
 
 Avoid large report imagery.
 
 ## Slide 16 - Finish A7: Reading Structured Code
 
-Create an A7 closeout visual with modified class file, class/attribute/method
+Create an Assignment #7 closeout visual with modified class file, class/attribute/method
 labels, and an output sample proving the modification works.
 
 Avoid full OOP diagrams.

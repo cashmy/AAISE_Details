@@ -820,6 +820,7 @@ process.
 | 1 | Bug as information | Bug/error signal transformed into evidence clue | Avoid panic imagery |
 | 3 | Symptom vs source | Wrong output contrasted with earlier source line | Keep simple |
 | 4 | Today's tools | Toolbox with expected/actual, traceback, labeled print, one change | Avoid advanced tools |
+| 5 | Deferred tools | Shelf with labeled cards for deferred topics | Avoid warning signs |
 | 6 | Expected vs actual | Two cards comparing expected output and actual output | Keep readable |
 | 7 | Syntax error signal | Error message with file, line, error type highlighted | Avoid scary red screen |
 | 8 | Logic bug comparison | Expected 80, actual 120, suspicious calculation highlighted | Keep numeric example simple |
