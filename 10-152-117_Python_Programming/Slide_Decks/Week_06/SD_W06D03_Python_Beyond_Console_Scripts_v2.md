@@ -144,6 +144,9 @@ application.
 
 The ideas are familiar. The responsibilities are separated more clearly.
 
+You are not starting over. You are seeing how input, logic, data, and display
+can be organized when a program grows.
+
 **Instructor Notes:**
 
 Frame this as expansion, not a sudden framework pivot.
@@ -165,6 +168,9 @@ For A11, the goal is not just to retrieve data.
 
 The goal is to explain where the data came from, what shape it had, and which
 values your program selected.
+
+That same explanation habit matters in larger applications: know where
+information enters, how it is handled, and what result is shown.
 
 **Instructor Notes:**
 
@@ -192,6 +198,8 @@ Today's success pattern:
 
 This is recognition first. You are not building a Django app today.
 
+Your task is to point to the parts and explain their jobs in plain language.
+
 **Instructor Notes:**
 
 Avoid shaming single-file programs. They are appropriate at this stage. The
@@ -218,6 +226,9 @@ Today we will use:
 - template
 - view
 - model as recognition vocabulary
+
+These words help us talk about responsibility. They are not a requirement to
+build a full framework project.
 
 **Instructor Notes:**
 
@@ -268,6 +279,9 @@ As programs grow, it becomes useful to separate responsibilities.
 Different parts of the application can handle input, validation, data logic, and
 display.
 
+Separation makes the app easier to read, change, test, and explain because each
+part has a clearer job.
+
 **Instructor Notes:**
 
 This is the central architecture concept.
@@ -287,6 +301,9 @@ Start tracing the flow at the point where information enters the program.
 In a console script, input may come from `input()`.
 
 In a larger app, input may come through a form, request, or controlled interface.
+
+The source changes, but the question stays familiar: what information is coming
+in, and what should the program do with it?
 
 **Instructor Notes:**
 
@@ -335,6 +352,9 @@ MVT is one way to talk about separated responsibilities:
 
 Today you only need to recognize the flow.
 
+You may also hear the term MVC later. The names shift across frameworks, but the
+shared idea is the same: separate data, logic, and display.
+
 **Instructor Notes:**
 
 Keep it simple and accept imperfect beginner wording.
@@ -356,6 +376,9 @@ A console script may run from top to bottom.
 
 A larger app often responds to a request, validates input, runs logic, and then
 returns a display.
+
+That means the flow may be request-driven instead of simply line-by-line from
+the top of one file.
 
 **Instructor Notes:**
 
@@ -413,6 +436,9 @@ This is a recognition preview.
 You should be able to point to the pieces and explain the flow, but you are not
 expected to build a Django app in this course.
 
+Focus on responsibility: what receives the request, what makes the decision,
+what represents the data, and what displays the result?
+
 **Instructor Notes:**
 
 Use with:
@@ -442,6 +468,9 @@ Seeing a larger structure does not mean you are behind.
 
 Recognition comes before implementation. Today, naming the parts and explaining
 the flow is the success target.
+
+This preview is meant to make later courses less surprising, not to create a
+new hidden requirement.
 
 **Instructor Notes:**
 

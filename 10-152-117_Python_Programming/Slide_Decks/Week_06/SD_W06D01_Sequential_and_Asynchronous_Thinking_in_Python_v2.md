@@ -139,6 +139,9 @@ Some programs can do everything with local values and files.
 Other programs ask for information from somewhere else, and that outside
 response may take time.
 
+When that happens, the program has a waiting point. Waiting does not make the
+program wrong; it means the program depends on a response before it can continue.
+
 **Instructor Notes:**
 
 Frame this as normal program behavior. Avoid making async sound exotic.
@@ -165,6 +168,9 @@ Last week, our data was stored locally.
 The file might be missing or invalid, but the program was still looking for
 information in a known place.
 
+External data changes that situation. The program may need to ask another
+system, wait for that system, and then decide whether the response is useful.
+
 **Instructor Notes:**
 
 Bridge from file errors to external dependency. Local files can fail; outside
@@ -190,6 +196,9 @@ Today's success pattern:
 - inspect what response comes back
 - select useful values from the response
 - explain how the program handled the dependency
+
+The goal is not to memorize async syntax. The goal is to recognize the shape of
+the problem.
 
 **Instructor Notes:**
 
@@ -218,6 +227,9 @@ Today we will use:
 - waiting point
 - simulated response
 - beginner-level async recognition
+
+These words help us describe what the program is doing before we worry about
+advanced syntax.
 
 **Instructor Notes:**
 
@@ -267,6 +279,9 @@ Sequential code runs step by step.
 
 Python completes one instruction, then moves to the next instruction.
 
+Most of the programs you have written so far follow this pattern: start at the
+top, run the next line, and continue in order.
+
 **Instructor Notes:**
 
 Students have been using sequential thinking all along. Name it explicitly.
@@ -286,6 +301,14 @@ Requests complicate that simple story because the program may need to wait.
 A request asks another system for information.
 
 The program may need to wait before it can use the response.
+
+A beginner-friendly pattern is:
+
+- ask
+- wait
+- receive
+- inspect
+- use
 
 **Instructor Notes:**
 
@@ -332,6 +355,9 @@ When outside data is involved, delay can be normal.
 
 The real questions are: what is the program waiting for, and what should happen
 if the response does not arrive as expected?
+
+This is why good programs need a plan for both useful responses and failed or
+missing responses.
 
 **Instructor Notes:**
 
@@ -387,6 +413,9 @@ This demo is for recognition.
 You do not need to write async code today. You only need to recognize why
 waiting can change how a program is organized.
 
+Pay attention to the idea, not the syntax. The syntax can come later when the
+problem actually requires it.
+
 **Instructor Notes:**
 
 Use with:
@@ -417,6 +446,8 @@ than the idea.
 
 Start with the plain question: what is the program waiting for?
 
+If you can answer that question, the vocabulary becomes easier to manage.
+
 **Instructor Notes:**
 
 Use this slide to de-escalate terminology.
@@ -437,6 +468,9 @@ Assignment 11 will ask you to work with API-style data.
 
 Your first job is not to impress the internet. Your first job is to inspect the
 response and choose useful values.
+
+A small, clear response reader is better than a large program that prints raw
+data without understanding it.
 
 **Instructor Notes:**
 

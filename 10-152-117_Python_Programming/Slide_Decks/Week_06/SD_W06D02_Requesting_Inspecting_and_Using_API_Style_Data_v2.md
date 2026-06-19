@@ -146,6 +146,9 @@ An API gives a program a structured way to ask for information.
 The response may come from a live service, a controlled endpoint, or a simulated
 JSON file used for practice.
 
+For this course, the important skill is not "being online." The important skill
+is reading the response, choosing useful values, and explaining the path.
+
 **Instructor Notes:**
 
 Normalize both live and simulated paths immediately. Do not wait until live API
@@ -197,6 +200,9 @@ Today's success pattern:
 - display readable output
 - explain the path used
 
+If you can explain the path from source to output, the API work becomes much
+less mysterious.
+
 **Instructor Notes:**
 
 This reduces anxiety. APIs are not a total restart; they reuse the Week 5 habit
@@ -222,6 +228,9 @@ Today we will use:
 - JSON shape
 - selected fields
 - fallback data when needed
+
+These are the pieces that help us decide whether returned data is usable and
+what the program should show.
 
 **Instructor Notes:**
 
@@ -269,6 +278,9 @@ An endpoint is a defined place where a program asks for data.
 
 For beginners, think of it as: "Ask this address for this kind of response."
 
+An endpoint is not just a random web page. It is a place designed to return data
+in a structure the program can inspect.
+
 **Instructor Notes:**
 
 Use simple analogy, but avoid turning endpoint into a vague "website." It is a
@@ -292,6 +304,16 @@ A response may include a status cue.
 The status helps the program and the developer know whether the request
 succeeded, failed, or needs another response.
 
+Common beginner status categories:
+
+- `2xx`: success
+- `3xx`: redirected
+- `4xx`: request or access problem
+- `5xx`: server or service problem
+
+The status does not replace inspecting the data, but it helps explain what
+happened.
+
 **Instructor Notes:**
 
 Keep status codes at recognition level. Use examples such as success versus not
@@ -314,6 +336,9 @@ Do not guess field names.
 First inspect the response shape. Then select the values your program actually
 needs.
 
+This is the same habit from JSON and dictionaries: look at the labels, find the
+path to the value, and then write code that matches the actual structure.
+
 **Instructor Notes:**
 
 This is the core habit for A11. Repeat it during every demo.
@@ -333,6 +358,9 @@ That habit prevents raw JSON from being mistaken for a finished result.
 Printing raw JSON proves that data exists.
 
 It does not prove that the program understood or used the data well.
+
+A better result selects a few meaningful values and displays them in a way a
+person can read.
 
 **Instructor Notes:**
 
@@ -356,6 +384,9 @@ Two valid paths can teach the same core skill:
 - simulated path: load instructor-provided JSON with the same response shape
 
 Both require inspection, selection, and explanation.
+
+If the live path is unstable, the simulated path still lets you demonstrate the
+same learning target.
 
 **Instructor Notes:**
 
@@ -411,6 +442,8 @@ The program should choose useful values and show them clearly.
 
 The selected output should be easier to understand than the original response.
 
+Ask yourself: what did my program make clearer than the raw data?
+
 **Instructor Notes:**
 
 Use with:
@@ -440,6 +473,9 @@ Responsible API-style programs plan for problems.
 
 The fallback path keeps the learning target alive when the live path is not
 available.
+
+Fallback is not a weaker path. It is a way to preserve the same skill when the
+outside service is unavailable or unpredictable.
 
 **Instructor Notes:**
 
@@ -527,6 +563,9 @@ response.
 
 You must inspect the response, run the code, and explain what human decision you
 made.
+
+If AI names a field that does not exist in your response, your program is still
+wrong even if the code looks professional.
 
 **Instructor Notes:**
 

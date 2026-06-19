@@ -876,6 +876,67 @@ Avoid:
 - full web page UI
 - database schema complexity
 
+## Slide 9.5 - Full Stack as A Preview
+
+Revise the full-stack preview visual.
+
+Important correction:
+Integration is NOT a fourth layer. Do not show Integration as a separate box or layer under the Data Layer.
+
+Create a clean beginner-friendly educational visual titled "Full Stack As A Preview".
+
+Show three main stacked layers only:
+
+Layer 1:
+- Label: "Front End"
+- Meaning: "what the user sees"
+- Simple icon: screen or page
+
+Layer 2:
+- Label: "Back End"
+- Meaning: "request handling and logic"
+- Simple icon: gear or flow arrows
+
+Layer 3:
+- Label: "Data Layer"
+- Meaning: "files, databases, or API data"
+- Simple icon: file/table/database symbol
+
+Show "Integration" as the arrows between the layers, not as a separate layer.
+
+Add double-headed arrows:
+- between Front End and Back End
+- between Back End and Data Layer
+
+Label the arrows:
+- "Integration: communication between parts"
+
+If needed, place this label beside the arrows or as a small side callout pointing to the arrows.
+
+Add a small side note:
+"Recognition preview only: you are not building a full-stack app in this course."
+
+Optional footer:
+"Today we focus on understanding the shape, not building the stack."
+
+Style:
+- clean classroom slide visual
+- light background
+- large readable labels
+- calm colors
+- simple icons
+- professional but not corporate
+
+Avoid:
+- showing Integration as a fourth layer
+- complex cloud architecture
+- server rack imagery
+- detailed deployment diagrams
+- code screenshots
+- framework logos
+- making it look like a required project
+- dense text
+
 ## Slide 10 - Console Flow Versus App Flow
 
 Create a two-lane comparison titled "Console Flow vs App Flow".
