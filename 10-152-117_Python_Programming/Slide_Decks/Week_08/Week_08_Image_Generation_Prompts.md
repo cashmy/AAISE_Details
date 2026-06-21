@@ -322,11 +322,11 @@ Avoid:
 Create a presentation sequence visual with six steps:
 
 - purpose
-- main behavior
-- code/structure
+- main behavior (walkthrough)
 - validation
 - revision
 - AI use
+- code/structure only if asked
 
 Keep it calm and instructional, not stage-performance focused.
 
@@ -413,16 +413,16 @@ Avoid:
 
 ## Slide 2 - What To Explain
 
-Create a simple six-item explanation checklist.
+Create a new simple six-item explanation checklist.
 
 Items:
 
 - purpose
-- main behavior
-- code or structure
+- main behavior (walkthrough)
 - validation evidence
 - revision or decision
 - AI use, if applicable
+- code/structure only if asked
 
 Use large readable text and minimal icons.
 
