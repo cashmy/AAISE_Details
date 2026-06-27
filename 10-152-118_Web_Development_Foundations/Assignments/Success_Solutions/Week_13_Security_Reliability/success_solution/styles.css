@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  background: #f6f7f5;
+  color: #232a25;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.page {
+  max-width: 640px;
+  margin: 40px auto;
+  padding: 0 16px;
+}
+
+label,
+input,
+button {
+  display: block;
+  margin-top: 12px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+}
+
+button {
+  padding: 10px 14px;
+}
+
+#feedback {
+  background: white;
+  border: 1px solid #d9ded8;
+  border-radius: 8px;
+  font-weight: bold;
+  padding: 14px;
+}
+

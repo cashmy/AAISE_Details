@@ -232,6 +232,7 @@ Assignment sanity-check note:
 - Week 13 security assignment has been aligned to browser-security awareness: safe input/output, trust boundaries, XSS/CSRF/CORS recognition, simulated login limits, and no claim of real authentication.
 - Week 15 forms assignment has been separated from capstone proposal work. The technical lab now centers forms/input systems and simulated-login caution; the existing capstone proposal workflow uses `Course_Materials/Week_15_Capstone_Proposal_and_Scope_Guide.md` plus `Assignments/15C_Capstone_Submission_Form.md`.
 - Treat individual assignment files as the current assignment source. Regenerate or clean up `Assignments/Combined_Assignments.md` later if it will be used as a student-facing or instructor-facing combined artifact.
+- A new success-solution lane has been started in `Assignments/Success_Solutions/`. Weeks 1-15 use a continuous `Study Sprint` sample site/concept to show one acceptable final result after the submission cycle, supporting revision recovery without reusing the lecture demo code. Week 15's success code supports the technical forms/input assignment only; the capstone proposal remains governed by its separate guide and submission form.
 
 Deliverable:
 
@@ -539,6 +540,50 @@ Likely minimal demo needs:
 - Week 11: state/localStorage example
 - Week 15: simulated login/form example
 
+Initial demo spine created:
+
+- `Demos/README.md`
+- `Demos/Week_01_HTML_Multi_Page_Site/01_monday_hello_world/`
+- `Demos/Week_01_HTML_Multi_Page_Site/02_wednesday_multi_page_structure/`
+- `Demos/Week_02_CSS_Appearance/01_monday_first_styles/`
+- `Demos/Week_02_CSS_Appearance/02_wednesday_shared_stylesheet/`
+- `Demos/Week_03_Layout_Responsive/01_monday_simple_layout/`
+- `Demos/Week_03_Layout_Responsive/02_wednesday_responsive_cards/`
+- `Demos/Week_04_JavaScript_Logic/01_monday_values_conditions/`
+- `Demos/Week_04_JavaScript_Logic/02_wednesday_function_decision/`
+- `Demos/Week_05_DOM_Interaction/01_monday_button_text_change/`
+- `Demos/Week_05_DOM_Interaction/02_wednesday_input_feedback/`
+- `Demos/Week_06_Debugging_Process/01_monday_broken_selector/`
+- `Demos/Week_06_Debugging_Process/02_wednesday_multi_issue_debugging/`
+- `Demos/Week_07_Structured_JavaScript/01_monday_messy_working_code/`
+- `Demos/Week_07_Structured_JavaScript/02_wednesday_refactored_code/`
+- `Demos/Week_08_Async_Time/01_monday_delayed_message/`
+- `Demos/Week_08_Async_Time/02_wednesday_fetch_timing_shape/`
+- `Demos/Week_09_Modular_Thinking/01_monday_one_file_responsibilities/`
+- `Demos/Week_09_Modular_Thinking/02_wednesday_multi_file_organization/`
+- `Demos/Week_10_Data_APIs/01_monday_json_shape/`
+- `Demos/Week_10_Data_APIs/02_wednesday_json_to_page/`
+- `Demos/Week_11_State_LocalStorage/01_monday_counter_state/`
+- `Demos/Week_11_State_LocalStorage/02_wednesday_persistent_preference/`
+- `Demos/Week_12_Performance/01_monday_repeated_work/`
+- `Demos/Week_12_Performance/02_wednesday_debounced_filter/`
+- `Demos/Week_13_Security_Reliability/01_monday_validate_and_output_safely/`
+- `Demos/Week_13_Security_Reliability/02_wednesday_trust_boundaries/`
+- `Demos/Week_14_UX_Refinement/01_monday_usability_friction/`
+- `Demos/Week_14_UX_Refinement/02_wednesday_refined_interaction/`
+- `Demos/Week_15_Forms_Input/01_monday_basic_form_submit/`
+- `Demos/Week_15_Forms_Input/02_wednesday_simulated_login/`
+
+Weeks 1-15 have been refactored into explicit Monday starter and Wednesday iterative/deepening demos. Weeks 16-17 are capstone support rather than normal concept-demo weeks.
+
+Demo delivery convention:
+
+- Finished demo files are reference states.
+- In live lectures and recordings, default to manually typing the important lines and copy/pasting only selected sections for time compression.
+- This reinforces manual code entry, syntax attention, incremental checking, and visible revision without making "manual typing" a repeated explicit lecture point.
+
+Remaining demo decisions should be made during deck-source production, not by expanding this folder preemptively. Add demos only when a weekly deck needs a concrete visible example, a debugging specimen, or a starter/success pair.
+
 ### 16. Preserve The AI-Use Progression
 
 The 118 course should not start with AI as the main builder.
@@ -670,6 +715,7 @@ Assignments:
 - `Assignments/Combined_Assignments.md`
 - individual assignment files `1` through `17`
 - `Assignments/15C_Capstone_Submission_Form.md`
+- `Assignments/Success_Solutions/`
 
 Lecture outlines:
 

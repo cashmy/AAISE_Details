@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  color: #263238;
+  background: #f5f7f8;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.site-header {
+  background: #254b5a;
+  color: white;
+  padding: 24px;
+}
+
+.header-inner {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 960px;
+}
+
+.site-header h1 {
+  margin: 0;
+}
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.site-nav a {
+  color: white;
+  font-weight: bold;
+}
+
+.page {
+  max-width: 960px;
+  margin: 24px auto;
+  padding: 0 16px;
+}
+
+.hero-panel,
+.content-card {
+  background: white;
+  border: 1px solid #d8e0e4;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  padding: 18px;
+}
+
+.hero-panel h2,
+.content-card h2 {
+  color: #254b5a;
+  margin-top: 0;
+}
+
+.card-row {
+  display: flex;
+  gap: 16px;
+}
+
+.content-card {
+  flex: 1;
+}
+
+label,
+input,
+button {
+  display: block;
+  margin-top: 12px;
+}
+
+input {
+  max-width: 240px;
+  padding: 8px;
+  width: 100%;
+}
+
+button {
+  padding: 8px 12px;
+}
+
+#planResult,
+#reminderStatus {
+  font-weight: bold;
+}
+
+.site-footer {
+  color: #52646d;
+  padding: 16px 24px;
+  text-align: center;
+}
+
+@media (max-width: 700px) {
+  .header-inner,
+  .card-row {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .site-nav {
+    flex-direction: column;
+    gap: 6px;
+  }
+}
+

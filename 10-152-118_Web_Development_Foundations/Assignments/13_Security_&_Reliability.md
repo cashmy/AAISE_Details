@@ -157,7 +157,7 @@ In 2–3 sentences, answer:
 
 ---
 
-# 📊 EVALUATION (MRS-02 ALIGNED)
+# 📊 EVALUATION
 
 ---
 
