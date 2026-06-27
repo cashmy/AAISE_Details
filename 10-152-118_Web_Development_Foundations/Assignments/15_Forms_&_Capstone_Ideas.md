@@ -1,6 +1,6 @@
-# 🧭 ASSIGNMENT 15 — FORMS & CAPSTONE IDEA PROPOSAL
+# 🧭 ASSIGNMENT 15 — FORMS & INPUT SYSTEMS
 
-**Week 15 — “Input & Idea Selection”**
+**Week 15 — “Forms & Input Systems / Capstone Submissions”**
 
 ---
 
@@ -14,14 +14,16 @@ So far, your applications have:
 
 This week introduces **user input as structured data**.
 
-At the same time, you will begin selecting your **capstone project idea**.
+You will also complete a separate capstone proposal submission using the Week 15
+capstone proposal guide and the capstone submission form.
 
 ---
 
 ## 🔹 Objective
 
 * Learn how to collect and handle user input using forms
-* Propose a capstone idea for approval
+* Validate or respond to user-provided information
+* Connect form input to application behavior or UI state
 
 ---
 
@@ -49,6 +51,11 @@ Your form must:
 
 * capture user input
 * display or use that input in your application
+* provide clear feedback after submission
+
+If your form uses login-like behavior, it must be described as a **simulated
+login**. Do not use real passwords, real accounts, private information, or real
+authentication claims.
 
 ---
 
@@ -75,6 +82,7 @@ That is expected.
 * Validating and handling user-provided data
 * Designing inputs that are clear and usable
 * How user input drives application functionality
+* Simulated login as a front-end practice pattern, not real authentication
 
 ---
 
@@ -121,32 +129,38 @@ Submit your updated website including:
 
 ---
 
-# 🧭 CAPSTONE IDEA PROPOSAL (SEPARATE SUBMISSION)
+# 🧭 CAPSTONE PROPOSAL (SEPARATE SUBMISSION)
 
 ---
 
 ### 🔹 Task
 
-Submit **2–3 possible project ideas** (not fully planned)
+Submit your capstone proposal as a separate assignment using:
 
----
+`Course_Materials/Week_15_Capstone_Proposal_and_Scope_Guide.md`
+
+Complete the submission form:
+
+`Assignments/15C_Capstone_Submission_Form.md`
 
 ### 🔹 Requirements
 
-For each idea, provide:
+Your proposal should identify:
 
-* **Title / Concept**
-* **What it does (2–3 sentences)**
-* **Why it is interesting or useful**
-* **At least 2–3 possible features**
+* your selected project track or approved custom direction
+* the purpose and intended user
+* required features
+* optional/stretch features
+* what is out of scope
+* how the project will show HTML, CSS, JavaScript, input, data/state, and refinement
 
 ---
 
 ### 🔹 Important
 
-* These are **proposals, not commitments**
-* Ideas will be **reviewed and approved or adjusted**
-* You should expect feedback and possible revision
+* The proposal is a planning artifact, not the finished project
+* Ideas will be reviewed, approved, narrowed, or adjusted
+* You should expect feedback and possible revision before the Week 16 build
 
 ---
 
@@ -158,39 +172,40 @@ In 2–3 sentences, answer:
 
 ---
 
-# 📊 EVALUATION (MRS-02 ALIGNED)
+# 📊 EVALUATION
 
 ---
 
 ### 🔹 Primary Focus
 
-* **Interactivity (JavaScript)**
-* **Structured Development**
+* **T3 - Interactivity (JavaScript)**
+* **T5 - Structured Development**
 
 ---
 
 ### 🔹 Secondary Focus
 
-* Debugging & Problem Solving
-* Solve Problems
-* Communicate Clearly (idea proposals)
+* **T4 - Debugging & Problem Solving**
+* **C1 - Solve Problems**
+* **C2- Communicate Clearly (idea proposals)**
 
 ---
 
 ### 🔹 Emerging
 
-* Act Professionally (proposal quality and clarity)
+* **C6 - Act Professionally (proposal quality and clarity)**
 
 ---
 
-# 🔑 SUCCESS CRITERIA (STUDENT-FRIENDLY)
+# 🔑 SUCCESS CRITERIA
 
 To succeed on this assignment:
 
 * your form must collect and use input correctly
 * your application must respond clearly to that input
-* your ideas must be clear and realistic
-* your proposals must show thoughtful consideration
+* your validation or feedback must be clear to the user
+* any login-like behavior must be labeled as simulated
+* your separate capstone proposal must be clear and realistic
 
 ---
 
@@ -206,6 +221,7 @@ This week is about:
 
 * filter unrealistic ideas early
 * guide scope before commitment
+* keep the proposal as a separate submission so the technical form lab stays focused
 
 ---
 
@@ -219,7 +235,7 @@ Watch for:
 
 # 🧠 Subtle Concept Being Installed
 
-> “Good systems respond to user input—and good projects start with validated ideas.”
+> “Good systems respond to user input, and good projects start with realistic scope.”
 
 ---
 

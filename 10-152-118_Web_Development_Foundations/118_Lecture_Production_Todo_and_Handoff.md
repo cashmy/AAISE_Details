@@ -1,26 +1,40 @@
 # 118 Lecture Production Todo and Handoff
 
-**Course:** `10-152-118 HTML, CSS, and JavaScript`  
-**Purpose:** ordered restart artifact for finishing/refactoring the lecture and slide-deck production work.
+**Course:** `10-152-118 Web Development Foundations`  
+**Alternate Title:** `HTML, CSS, and JavaScript`  
+**Purpose:** restart artifact for the next production phase: refactoring and creating the lecture deck source artifacts for the full course.
 
-This file is designed so a new Codex session can start from scratch inside this workspace and understand the current objective without relying on prior chat context.
+This file is designed so a new Codex session can restart the `118` lecture/deck work without relying on prior chat context.
 
 ---
 
 ## Current Situation
 
-The `117 Python Programming` and `119 Introduction to Algorithms` courses are fully complete. The `118 HTML, CSS, and JavaScript` course has substantial scaffold already present, but the lecture/deck layer needs a focused production pass.
+The reading/preparation layer is now complete.
 
-The urgent need is not to redesign the whole course. The urgent need is to refactor and finish `118` lectures using the mature workflow and design insights from `117` and `119`.
+The course has a much more complex reading and prep structure than `117` or `119` because it integrates:
 
-Key pressure:
+- two Duckett textbooks:
+  - `HTML & CSS: Design and Build Websites`
+  - `JavaScript & jQuery: Interactive Front-End Web Development`
+- course-authored supplemental materials where the textbooks are thin, dated, implicit, or too broad
+- a 17-week course span
+- iterative web-development scaffolding across weeks
+- a capstone structure that grows from HTML/CSS/JS foundations into data, state, security, UX, performance, forms, proposal, build, and presentation
+- a delayed and accountable AI-use progression
 
-- `118` requires `16` lecture recordings.
-- `8` of those require video recordings.
-- There is approximately one week available for focused 118 work before Tech Trek/camp pressure disrupts the schedule.
-- After camp, there is only one additional week before class starts.
-- Minimum viable target: first `4` weeks of lectures finished and recorded before class starts.
-- Preferred target: all slide decks finished before camp/travel disruption, leaving only remaining recordings for August.
+The next major phase is lecture deck source production.
+
+Correct production count:
+
+- `34` total slide deck source artifacts
+- `2` decks per week
+- Monday deck = live classroom presentation
+- Wednesday deck = asynchronous recorded presentation for students to view independently
+- `16` Wednesday decks are expected to be recorded as video
+- Week 17 is capstone presentation/wrap-up support and is not expected to need a normal recorded Wednesday lecture
+
+The older assumption that this was only `16` slide decks, or that only `8` needed video recording, has been superseded.
 
 ---
 
@@ -28,34 +42,65 @@ Key pressure:
 
 Read these first, in this order:
 
-1. `10-152-118_HTML_CSS_JS.md/HTML_CSS_JavaScript_High_Level_Course_Plan_v1.md`
-2. `10-152-118_HTML_CSS_JS.md/Lecture_Outlines/Combined_Lectures_Outlines.md`
-3. `10-152-118_HTML_CSS_JS.md/Assignments/Combined_Assignments.md`
-4. `10-152-119_Intro_To_Algorithms/Lecture_Outlines/LDS-AL_Lecture_Deck_Source_Design_Guide.md`
-5. `10-152-119_Intro_To_Algorithms/Lecture_Outlines/LDST-AL_Lecture_Deck_Source_Template.md`
-6. `PowerPoint_Deck_Production_Workflow_v1.md`
-7. `D:/@Artifact_Generation/109_RBA_Refaction_Based_Architecture/Case_Studies/RBA_Case_Study_High_Density_HOMSP_Operator_Dependent_Workflow_v1.md`
-8. `10-152-117_Python_Programming/Lecture_Content_and_Demo_Alignment_Matrix.md`
-9. `10-152-117_Python_Programming/Assignment_Week_Day_Matrix.md`
-10. `10-152-118_HTML_CSS_JS.md/Slide_Decks/STD-01_Slide_Template_Design_System.md`
+1. `10-152-118_Web_Development_Foundations/Weekly_Reading_and_Preparation_Guide.md`
+2. `10-152-118_Web_Development_Foundations/Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`
+3. `10-152-118_Web_Development_Foundations/IIM_Instructional_Intent_Map.md`
+4. `10-152-118_Web_Development_Foundations/HTML_CSS_JavaScript_High_Level_Course_Plan_v1.md`
+5. `10-152-118_Web_Development_Foundations/Lecture_Outlines/Combined_Lectures_Outlines.md`
+6. `10-152-118_Web_Development_Foundations/Assignments/Combined_Assignments.md`
+7. `10-152-118_Web_Development_Foundations/Projects/Project_Track_Guide.md`
+8. `10-152-118_Web_Development_Foundations/Projects/PageForge_Week_by_Week_Roadmap.md`
+9. `10-152-118_Web_Development_Foundations/Projects/PageForge_Instructor_Companion.md`
+10. `10-152-119_Intro_To_Algorithms/Lecture_Outlines/LDS-AL_Lecture_Deck_Source_Design_Guide.md`
+11. `10-152-119_Intro_To_Algorithms/Lecture_Outlines/LDST-AL_Lecture_Deck_Source_Template.md`
+12. `10-152-117_Python_Programming/Lecture_Content_and_Demo_Alignment_Matrix.md`
+13. `10-152-117_Python_Programming/Assignment_Week_Day_Matrix.md`
+14. `PowerPoint_Deck_Production_Workflow_v1.md`
+15. `D:/@Artifact_Generation/109_RBA_Refaction_Based_Architecture/Case_Studies/RBA_Case_Study_High_Density_HOMSP_Operator_Dependent_Workflow_v1.md`
 
 Why these files matter:
 
-- The `118` high-level plan defines the course arc.
-- The `118` combined lectures and assignments define the current raw scaffold.
-- The `119` guide/template define the strongest current deck-source production model.
-- The PowerPoint workflow preserves the pass-based method for turning deck sources and image prompts into actual decks.
-- The RBA/HOMSP case study explains the cognitive-load risk of high-throughput multi-AI slide production.
-- The `117` matrices show how lecture content, demos, assignments, and readiness targets were aligned.
-- The `118` slide template preserves any existing visual/design intent.
+- The completed reading guide is now the pacing anchor.
+- The continuity brief captures the 34-deck rhythm and recurring deck-source expectations.
+- The instructional intent map keeps the decks aligned to course purpose.
+- The lecture outlines and assignments provide the existing raw weekly scaffold.
+- The project and PageForge files preserve the capstone/project model.
+- The `117` and `119` artifacts preserve the mature production workflow.
+- The PowerPoint and RBA/HOMSP workflow documents preserve the pass-based production discipline and fatigue-risk warnings.
+
+---
+
+## Completed Reading/Prep Layer
+
+The following course-authored materials now exist in `Course_Materials/` and are reflected in the reading guide:
+
+- `Week_08_Async_Time_Matters_Handout.md`
+- `Week_08_How_To_Read_JSON_Student_Guide.md`
+- `Week_09_Modular_Thinking_Multi_File_Organization_Handout.md`
+- `Week_10_API_Guidance_For_Web_Projects.md`
+- `Week_10_JSON_Reading_Quiz_Setup.md`
+- `Week_10_JSON_Reading_Quiz_Key_Instructor.md`
+- `Week_11_State_LocalStorage_Example.md`
+- `Week_12_Performance_Avoiding_Unnecessary_Work.md`
+- `Week_13_Browser_Security_Awareness_For_Web_Projects.md`
+- `Week_14_UX_Responsive_Refinement_Checklist.md`
+- `Week_15_Basic_Simulated_Login_Form_Handout.md`
+- `Week_15_Capstone_Proposal_and_Scope_Guide.md`
+- `Week_17_AI_Use_Explanation_Guide.md`
+- `Week_17_Capstone_Presentation_and_Readiness_Checklist.md`
+
+Shared/root support material:
+
+- `Approved_API_List.md`
+- `Standard_Student_AI_Use_Policy.md`
 
 ---
 
 ## Working Principle
 
-Treat this as a production triage, not a blank-page course design project.
+Treat this as production sequencing, not blank-page course design.
 
-Preserve the existing `118` five-phase structure:
+Preserve the existing five-phase course structure:
 
 ```text
 Weeks 1-3   -> Foundations
@@ -81,19 +126,21 @@ Debugging  -> visual inspection, console tracing, browser tools, AI assistance
 AI support -> explanation, comparison, refinement, and accountable acceleration
 ```
 
-Do not expand this into a framework course. Keep it browser-native and beginner-facing.
+Do not expand this into a framework, React, Node, full-stack, or deployment course.
+
+Keep it browser-native and beginner-facing.
 
 ---
 
 ## Required Production Chain
 
-The successful `117` and `119` workflow followed a staged source-to-deck chain.
-Use the same procedural order for `118`.
+Use the staged source-to-deck chain from `117` and `119`.
 
 ```text
 course outline / course plan
--> detailed reading assignments or weekly prep expectations
+-> weekly reading and preparation guide
 -> lecture outline
+-> lecture/demo/assignment alignment matrix
 -> lecture deck source with recommended visual notes
 -> weekly image-generation prompt artifact
 -> generated content images
@@ -102,98 +149,69 @@ course outline / course plan
 -> recording
 ```
 
-Do not skip directly from the course outline to PowerPoint slides.
+Do not skip directly from outline to PowerPoint slides.
 
-The image-generation prompt artifact should be created only after the lecture
-deck source has enough visual notes to specify what each image is supposed to
-teach. Images should support a slide's instructional job, not merely decorate
-the deck.
-
-If a dedicated `118` reading assignment artifact already exists, locate it and
-use it before drafting deck sources. If it does not exist, create a minimal
-weekly reading/prep artifact before beginning Week 1-4 deck-source production.
-
-Likely places to inspect first:
-
-- `Unit-Week_Descriptions.md`
-- `HTML_CSS_JavaScript_High_Level_Course_Plan_v1.md`
-- `IIM_Instructional_Intent_Map.md`
-- `Assignments/Combined_Assignments.md`
-- `Lecture_Outlines/Combined_Lectures_Outlines.md`
-- `Projects/PageForge_Week_by_Week_Roadmap.md`
+The image-generation prompt artifact should be created only after the deck source has enough visual notes to specify what each image is supposed to teach. Images should support a slide's instructional job, not merely decorate the deck.
 
 ---
 
 ## Ordered Todo List
 
-### 0. Pre-Flyout WIDS And Title Update Tasks
+### 0. Remaining Cross-Course Title/Metadata Cleanup
 
-These tasks come before the deeper `118` lecture production work because they
-affect official course records and already-complete course materials.
+Status:
 
-Due before flyout to the Philippines:
+- New course titles have been identified and applied to course-title artifacts.
+- `118` is now `Web Development Foundations`.
+- The older title is preserved as an alternate title where useful.
 
-- Update `117`, `118`, and `119` with new course titles. - Done
-- Submit the updated `117`, `118`, and `119` course title changes on WIDS. - Done
-- TODO: Update `117` and `119` PowerPoint slide decks with the new course titles. - Pending
-- TODO: Update `117` and `119` PDF handouts with the new course titles. - Pending
-- TODO: Re-upload the updated `117` and `119` PowerPoint decks and PDF handouts to WIDS.
+Remaining:
+
+- TODO: Update `117` and `119` PowerPoint slide decks with the new course titles.
+- TODO: Update `117` and `119` PDF handouts with the new course titles.
+- TODO: Re-upload updated `117` and `119` decks/handouts to Schoology if required.
 
 Watch point:
 
-- `117` and `119` are otherwise complete, so this should be treated as a
-  controlled metadata/title update, not an opportunity to revise completed
-  lecture content.
+- `117` and `119` are otherwise complete. Treat this as a controlled metadata/title update, not a content revision pass.
 
-### 1. Confirm The Final Lecture Count And Week Mapping
+### 1. Create The 118 Lecture Production Map
 
-- Decide whether the course needs `16` or `17` lecture units for production.
-- Current scaffold contains `17` lecture outlines, including capstone presentation.
-- User stated the production burden as `16` lectures.
-- Resolve this before deck production begins.
-- Likely interpretation to test:
-  - `16` produced lecture decks
-  - final presentation week may not need a full recorded lecture deck
+Create a map for all 34 deck sources.
+
+The map should show:
+
+- week number
+- Monday/live deck title
+- Wednesday/recorded deck title
+- unit/phase
+- reading/prep anchor
+- assignment/lab connection
+- recording required? yes/no
+- priority tier
+- deck-source status
+- PowerPoint status
+- open risks
+
+Production rule:
+
+- Week 1-16 Wednesday decks are the expected recorded video decks.
+- Week 17 should be treated as presentation/readiness support unless a later decision requires an additional recording.
 
 Deliverable:
 
-- Add a short `118_Lecture_Production_Map.md` or update this file with the confirmed mapping.
+- `10-152-118_Web_Development_Foundations/118_Lecture_Production_Map.md`
 
-### 2. Build The 118 Lecture Production Tracker
-
-Create a tracker that lists every lecture/week with:
-
-- lecture title
-- reading/prep source status
-- existing outline path
-- assignment supported
-- demo/lab needs
-- deck-source status
-- image-prompt artifact status
-- image-generation status
-- PowerPoint status
-- recording required? yes/no
-- video recording required? yes/no
-- priority tier
-- open risks
-
-Priority tiers:
-
-- `P0`: Weeks 1-4, must be finished and recorded first.
-- `P1`: Weeks 5-8, should be deck-complete before camp if possible.
-- `P2`: Weeks 9-16, should be source/deck-complete before August recordings if possible.
-- `P3`: final presentation/capstone support materials.
-
-### 3. Create A 118 Lecture/Demo/Assignment Alignment Matrix
+### 2. Build The 118 Lecture/Demo/Assignment Alignment Matrix
 
 Use `117` as the model.
 
-For each 118 lecture, map:
+For each week and deck/day, map:
 
 - reading/prep assignment or source material
 - core lecture content
-- recommended demo(s)
-- assignment(s) supported
+- recommended demo
+- assignment supported
 - readiness target
 - assumptions/watch points
 
@@ -204,59 +222,61 @@ Special emphasis:
 - Week 5 DOM should connect JavaScript to visible browser behavior.
 - Week 6 debugging must teach process, not panic.
 - AI use should remain delayed until students have enough judgment.
+- Week 8 async should bridge to Python async without making JavaScript async look magical.
+- Week 13 security should stay browser/user-login aware, not become the concurrent security course.
+- Weeks 16-17 should emphasize capstone ownership, explanation, and accountability.
+
+Assignment sanity-check note:
+
+- Week 12 performance assignment has been aligned to the new performance handout with beginner-safe anchors: repeated work, file/image size, pagination/chunking as a concept, and debounce/throttle as optional pattern recognition.
+- Week 13 security assignment has been aligned to browser-security awareness: safe input/output, trust boundaries, XSS/CSRF/CORS recognition, simulated login limits, and no claim of real authentication.
+- Week 15 forms assignment has been separated from capstone proposal work. The technical lab now centers forms/input systems and simulated-login caution; the existing capstone proposal workflow uses `Course_Materials/Week_15_Capstone_Proposal_and_Scope_Guide.md` plus `Assignments/15C_Capstone_Submission_Form.md`.
+- Treat individual assignment files as the current assignment source. Regenerate or clean up `Assignments/Combined_Assignments.md` later if it will be used as a student-facing or instructor-facing combined artifact.
 
 Deliverable:
 
-- `Lecture_Content_and_Demo_Alignment_Matrix.md` inside the `118` folder.
+- `10-152-118_Web_Development_Foundations/Lecture_Content_and_Demo_Alignment_Matrix.md`
 
-### 4. Locate Or Create The 118 Reading Assignment Layer
+### 3. Preserve The Completed Reading Guide
 
-Before deck-source drafting, confirm the reading/prep material for each week.
+The reading layer is finished and should now be treated as the pacing anchor for deck production.
 
-The goal is not to overbuild a textbook apparatus. The goal is to know what
-students are expected to encounter before or around each lecture so the deck can
-include an appropriate reading/prior-work review section.
+Do not reopen the full reading assignment curation unless a concrete inconsistency is found.
 
-If a dedicated reading assignment artifact exists:
+### 4. Normalize Lecture Outline Titles And Legacy Sources
 
-- cite it in the production tracker
-- map each reading/prep item to the relevant lecture
-
-If no dedicated artifact exists:
-
-- create a lean `Weekly_Reading_and_Preparation_Guide.md`
-- base it on the high-level course plan, unit-week descriptions, assignments,
-  and lecture outlines
-- keep each week short and usable
-
-Minimum weekly fields:
-
-- week/lecture title
-- prep focus
-- assigned reading or prep material
-- key terms to notice
-- what students should bring into lecture
-- connection to lab/assignment
-
-### 5. Normalize The 118 Lecture Outline Titles And Typos
-
-Current outline filenames include typos:
+Current lecture outline filenames include typos:
 
 - `1_HTML-Somethine_Exists.md`
 - `2_CSS-I_Can_Control_Apperance.md`
 
-Before bulk production, decide whether to rename files or leave filenames alone and normalize only display titles.
+Current user intention:
 
-Recommendation:
+- create `*_v2.md` deck/source artifacts with corrected titles
+- preserve originals in a `Legacy` subfolder rather than overwriting them
 
-- If no external links depend on these filenames, rename them cleanly.
-- If links may exist, leave filenames alone and correct titles inside generated deck sources.
+Recommended:
 
-Do not let filename cleanup consume the production week.
+- Do not spend production energy renaming every historical source file unless needed.
+- Correct display titles in all new deck sources.
+- Move true legacy originals only when the new source artifacts are created and validated.
 
-### 6. Create A 118 Deck-Source Template
+### 5. Create Or Finalize The 118 Deck-Source Guide And Template
 
-Adapt the `119` deck-source template to 118.
+Before creating new deck sources, review the existing continuity artifact:
+
+- `Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`
+
+TODO:
+
+- Confirm that it reflects the completed reading/prep guide.
+- Confirm that it reflects the corrected `34` deck / `16` recording model.
+- Confirm that it gives enough guidance for Monday/live versus Wednesday/recorded decks.
+- Preserve this key rhythm: Wednesday decks should be an iterative progression from Monday's lecture and the related lab assignment, not a disconnected second topic. The Wednesday recording should model quality iterative development: start from a working MVP, identify a backlog or next improvement, make a focused revision, and explain the reasoning.
+- Tune the recurring "how to read next week's material" slide guidance for this course.
+- Tune PageForge references so they support instructor modeling without exposing a copyable capstone solution.
+
+Adapt the `119` deck-source guide/template to `118`.
 
 The template should include:
 
@@ -282,35 +302,41 @@ The template should include:
 8. Lab bridge
 9. Wrap-up and next-step cue
 
-Deliverable:
+Deliverables:
 
-- `Lecture_Outlines/LDS-118_Lecture_Deck_Source_Design_Guide.md`
-- `Lecture_Outlines/LDST-118_Lecture_Deck_Source_Template.md`
+- `Lecture_Deck_Sources/LDS-118_Lecture_Deck_Source_Design_Guide.md`
+- `Lecture_Deck_Sources/LDST-118_Lecture_Deck_Source_Template.md`
 
-### 7. Produce Week 1-4 Deck Sources First
+### 6. Produce Week 1-4 Deck Sources First
 
-Create deck-source artifacts before PowerPoint production.
+Priority:
 
-P0 deck sources:
+- `P0`
 
-1. Week 1 - HTML: Something Exists
-2. Week 2 - CSS: I Can Control Appearance
-3. Week 3 - Layout: Control Space
-4. Week 4 - JavaScript: This Is Programming
+Weeks:
+
+1. HTML: Something Exists
+2. CSS: I Can Control Appearance
+3. Layout: Control Space
+4. JavaScript: This Is Programming
+
+Each week should produce two deck sources:
+
+- Monday/live
+- Wednesday/recorded
 
 Each deck source must include:
 
-- the core concept sequence
-- instructor notes that are clear after time has passed
+- core concept sequence
+- instructor notes that remain useful after time passes
 - demo/lab bridge
 - likely student misconceptions
 - visual notes if useful
-- recording notes
+- recording notes for Wednesday decks
 
-### 8. Create Week 1-4 Image Prompt Artifacts
+### 7. Create Week 1-4 Image Prompt Artifacts
 
-After each Week 1-4 deck source is complete, create an image prompt artifact
-for that week.
+After each Week 1-4 deck source is complete, create an image prompt artifact for that week.
 
 Each image prompt artifact should include:
 
@@ -323,9 +349,6 @@ Each image prompt artifact should include:
 - save filename recommendation
 - alt-text draft or alt-text intent
 
-Do not generate images until the prompt artifact is aligned with the deck
-source.
-
 Deliverable pattern:
 
 - `Lecture_Deck_Sources/Week_01_Image_Prompts.md`
@@ -333,10 +356,7 @@ Deliverable pattern:
 - `Lecture_Deck_Sources/Week_03_Image_Prompts.md`
 - `Lecture_Deck_Sources/Week_04_Image_Prompts.md`
 
-If a `Lecture_Deck_Sources` folder does not exist for `118`, create it before
-beginning this stage.
-
-### 9. Generate Week 1-4 Content Images
+### 8. Generate Week 1-4 Content Images
 
 Generate images from the prompt artifacts one at a time.
 
@@ -354,19 +374,15 @@ Recommended folder pattern:
 - `Lecture_Deck_Sources/Images/Week_03/`
 - `Lecture_Deck_Sources/Images/Week_04/`
 
-### 10. Produce Week 1-4 PowerPoint Decks
+### 9. Produce Week 1-4 PowerPoint Decks
 
 Use the existing `118` slide design system unless there is a strong reason to revise.
 
 Existing assets to inspect:
 
 - `Slide_Decks/STD-01_Slide_Template_Design_System.md`
-- `Slide_Decks/Week1_Lecture_Slides.pptx`
-- `Slide_Decks/Week1_Lecture_Slides_Enhanced.pptx`
-- `Slide_Decks/Week1_Lecture_Slides_Mon.pptx`
+- existing Week 1 PowerPoint experiments
 - `Slide_Decks/Images/`
-
-Do not over-polish. These need to be teachable and recordable.
 
 Use the pass-based workflow from `PowerPoint_Deck_Production_Workflow_v1.md`.
 
@@ -397,43 +413,42 @@ Sequential validation must check:
 - success check
 - visual consistency
 
-The key production principle is controlled passes, not slide-by-slide improvisation.
-
-### 11. Record Week 1-4 Lectures
+### 10. Record Week 1-4 Wednesday Decks
 
 Recording priority:
 
-1. Week 1
-2. Week 2
-3. Week 3
-4. Week 4
+1. Week 1 Wednesday
+2. Week 2 Wednesday
+3. Week 3 Wednesday
+4. Week 4 Wednesday
 
 Recording rule:
 
 - Record once the deck is coherent enough to teach.
 - Do not wait for perfect slide aesthetics if the content is stable.
 
-### 12. Batch Produce Week 5-8 Deck Sources
+### 11. Batch Produce Week 5-8 Deck Sources
 
-P1 deck sources:
+Priority:
+
+- `P1`
+
+Weeks:
 
 5. DOM: Now It Connects
 6. Debugging: Things Break, and I Can Fix Them
 7. Structured Behavior
 8. Async: Time Matters
 
-These weeks are especially important because they move students from static web pages into behavior, debugging, and browser application thinking.
+These weeks move students from static pages into behavior, debugging, and browser application thinking.
 
-### 13. Batch Produce Week 5-16 Image Prompt Artifacts And Images
+### 12. Batch Produce Week 9-15 Deck Sources
 
-After each later deck source is complete, repeat the same image prompt artifact
-workflow used for Weeks 1-4.
+Priority:
 
-Do not generate image prompts before visual notes exist in the deck source.
+- `P2`
 
-### 14. Batch Produce Week 9-16 Deck Sources
-
-P2 deck sources:
+Weeks:
 
 9. Modular Thinking
 10. Data: Beyond the Page
@@ -441,27 +456,67 @@ P2 deck sources:
 12. Performance
 13. Security Awareness
 14. UX and Styling Refinement
-15. Pre-Capstone Integration
-16. Capstone Build
+15. Forms and Capstone Proposal
 
 Keep these pragmatic. They should prepare students for capstone ownership, not simulate a professional specialization course.
 
-### 15. Decide Whether Week 17 Needs A Full Deck
+### 13. Produce Week 16-17 Capstone Support Deck Sources
 
-Current scaffold has:
+Priority:
 
-- `17_Capstone_Presentations.md`
+- `P3`
 
-If the course production target is `16` lectures, Week 17 may need:
+Weeks:
 
-- presentation checklist
-- grading/explanation rubric
-- student-facing final demo guide
-- no full recorded lecture
+16. Capstone Build
+17. Capstone Wrap-Up and Presentations
 
-Make this decision explicitly.
+Week 16:
 
-### 16. Create Or Refactor Demos Only Where Needed
+- build coaching
+- integration checks
+- scope repair
+- debugging and explanation support
+- Wednesday recorded support deck if needed
+
+Week 17:
+
+- presentation readiness
+- final explanation
+- AI-use accountability
+- no normal recorded lecture expected unless the instructor later chooses otherwise
+
+### 14. Add PageForge Week-By-Week Iterative Instructor Model Work
+
+This is not for the immediate deck-source pass, but it must remain visible.
+
+Context:
+
+- PageForge is an instructor-only project model.
+- The finished/current workspace exists separately at `D:\@Coding_Projects\HTML-CSS-JS\PageForge`.
+- The instructor will iteratively add course concepts into PageForge week by week, similar to a capstone model.
+- This project should not be published for students to copy.
+
+TODO:
+
+- Revisit `Projects/PageForge_Week_by_Week_Roadmap.md`.
+- Compare the roadmap to the completed reading/prep guide.
+- Create a refreshed PageForge iteration plan that maps each weekly course concept to a realistic project addition.
+- Decide which additions should appear in live demo, recorded demo, instructor notes, or preserved milestone snapshots.
+- Preserve PageForge as instructor-only unless the user explicitly changes that decision.
+
+Possible deliverables:
+
+- `Projects/PageForge_Week_by_Week_Roadmap_v2.md`
+- `Projects/PageForge_Instructor_Companion_v2.md`
+- `Projects/PageForge_Milestone_Map.md`
+- milestone snapshot folders or notes in the separate PageForge workspace
+
+Watch point:
+
+- PageForge should model iterative development and project ownership. It should not become a complete solution students can imitate directly for their own capstone.
+
+### 15. Create Or Refactor Demos Only Where Needed
 
 Do not build an enormous demo library unless required.
 
@@ -480,8 +535,11 @@ Likely minimal demo needs:
 - Week 4: JavaScript console logic examples
 - Week 5: DOM button/input interaction
 - Week 6: intentionally broken HTML/CSS/JS examples
+- Week 8: `setTimeout`, `fetch`, and Promise timing examples
+- Week 11: state/localStorage example
+- Week 15: simulated login/form example
 
-### 17. Preserve The AI-Use Progression
+### 16. Preserve The AI-Use Progression
 
 The 118 course should not start with AI as the main builder.
 
@@ -506,7 +564,7 @@ AI use should not replace:
 - debugging evidence
 - final explanation of how the system works
 
-### 18. Use 119's Deck-Source Discipline
+### 17. Use 119's Deck-Source Discipline
 
 For each deck source, avoid generic slide text.
 
@@ -521,7 +579,7 @@ Include:
 
 This is the main insight to carry from `119`.
 
-### 19. Use The PowerPoint Workflow's Pass-Based Discipline
+### 18. Use The PowerPoint Workflow's Pass-Based Discipline
 
 Do not attempt to create polished PowerPoint decks in one linear pass.
 
@@ -539,7 +597,7 @@ Separate the work into:
 
 This lowers cognitive load and reduces hidden errors such as duplicated slides, missing notes, mismatched images, and topic bleed from another lecture.
 
-### 20. Use The RBA/HOMSP Case Study As A Risk Warning
+### 19. Use The RBA/HOMSP Case Study As A Risk Warning
 
 The prior high-throughput 117 slide production process was powerful but operator-dependent.
 
@@ -550,21 +608,11 @@ It relied on a human coordinator actively managing:
 - Codex semantic checking and artifact governance
 - final human sequencing, judgment, and arbitration
 
-This workflow can create major throughput, but it also creates risks:
-
-- cognitive fatigue
-- day-to-day topic conflation
-- recency bias
-- image-prompt drift
-- slide-sequence mismatch
-- AI compression of important scaffolding
-- visually pleasing but conceptually weak images
-
 For 118, use high-throughput HOMSP mode only when the current production lane is explicit.
 
 Before starting a work block, name:
 
-- the current lecture/deck
+- the current week/day deck
 - the current artifact lane
 - the AI/tool role being used
 - the next human arbitration point
@@ -572,7 +620,7 @@ Before starting a work block, name:
 
 If that cannot be named clearly, slow down and work on one artifact at a time.
 
-### 21. Use 117's Alignment Discipline
+### 20. Use 117's Alignment Discipline
 
 For each lecture, confirm:
 
@@ -585,18 +633,20 @@ This is the main insight to carry from `117`.
 
 ---
 
-## Suggested Production Order For Tomorrow Morning
+## Suggested Production Order For The Next Work Block
 
-1. Read the first-context files listed above.
-2. Confirm whether the final production target is `16` or `17` lectures.
-3. Create the lecture production tracker.
-4. Create the 118 lecture/demo/assignment alignment matrix skeleton.
-5. Locate or create the weekly reading/prep layer.
+After a cognitive break:
+
+1. Re-read the completed `Weekly_Reading_and_Preparation_Guide.md`.
+2. Re-read `Deck_Source_Continuity_Brief.md`.
+3. Update `Deck_Source_Continuity_Brief.md` if it needs course-specific tuning.
+4. Create `118_Lecture_Production_Map.md` for all 34 decks.
+5. Create the `Lecture_Content_and_Demo_Alignment_Matrix.md` skeleton.
 6. Fill Weeks 1-4 in the matrix.
 7. Draft the 118 deck-source guide/template.
-8. Start Week 1 deck source.
+8. Start Week 1 Monday and Wednesday deck sources.
 
-If energy is limited, do only steps 1-5. That still gives the rest of the week a clean runway.
+If energy is limited, do only steps 1-5. That still gives the next production session a clean runway.
 
 Do not start by building PowerPoint slides directly unless the deck source already exists and has been checked against the alignment matrix.
 
@@ -606,17 +656,20 @@ Do not start by building PowerPoint slides directly unless the deck source alrea
 
 Course-level:
 
+- `Weekly_Reading_and_Preparation_Guide.md`
 - `HTML_CSS_JavaScript_High_Level_Course_Plan_v1.md`
 - `WIDS_Course_Competency_Framework_v2.md`
 - `WIDS_COS_Course_Outcome_Summary_118_v3.pdf`
 - `CAM_Course_Architecture.md`
 - `IIM_Instructional_Intent_Map.md`
 - `APL_Assignment_Progression_Ladder.md`
+- `HTML_CSS_JS_AI_Use_Addendum.md`
 
 Assignments:
 
 - `Assignments/Combined_Assignments.md`
 - individual assignment files `1` through `17`
+- `Assignments/15C_Capstone_Submission_Form.md`
 
 Lecture outlines:
 
@@ -624,15 +677,24 @@ Lecture outlines:
 - individual lecture files `1` through `17`
 - `Lecture_Outlines/LOT-01_Lecture_Outline_Template.md`
 
+Course materials:
+
+- Week 8-17 handouts and guides listed above
+- root `Approved_API_List.md`
+- root `Standard_Student_AI_Use_Policy.md`
+
 Projects/PageForge:
 
+- `Projects/Project_Track_Guide.md`
 - `Projects/PageForge_Week_by_Week_Roadmap.md`
 - `Projects/PageForge_Instructor_Companion.md`
 - `Projects/PageForge_Design_Contract.md`
 - `Projects/PageForge_Generation_Workflow.md`
+- separate working codebase at `D:\@Coding_Projects\HTML-CSS-JS\PageForge`
 
 Slide work:
 
+- `Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`
 - `Slide_Decks/STD-01_Slide_Template_Design_System.md`
 - existing Week 1 PowerPoint experiments
 - `Slide_Decks/Images/`
@@ -644,9 +706,12 @@ Slide work:
 - Keep `118` browser-native: HTML, CSS, JavaScript, DOM, debugging, data/state, UX, capstone.
 - Do not turn `118` into React, Node, or full-stack.
 - Do not pull AI use too early.
+- Do not treat jQuery as the main way to write JavaScript.
+- Treat jQuery as a third-party helper/library analogy, similar to adding a package in Python.
 - Do not redesign assignments unless lecture alignment exposes a concrete blocker.
 - Prioritize Weeks 1-4 recordings over perfecting later-course polish.
 - Prefer complete deck sources for all weeks before deep visual polish.
+- Preserve PageForge as instructor-only unless explicitly changed.
 
 ---
 
@@ -654,14 +719,16 @@ Slide work:
 
 Minimum done before class pressure:
 
-- Weeks 1-4 deck sources complete.
-- Weeks 1-4 PowerPoint decks complete enough to teach.
-- Weeks 1-4 recordings complete.
-- 118 production tracker exists and shows remaining work.
+- `118_Lecture_Production_Map.md` exists and lists all 34 deck sources.
+- `Lecture_Content_and_Demo_Alignment_Matrix.md` exists.
+- Weeks 1-4 Monday and Wednesday deck sources are complete.
+- Weeks 1-4 Wednesday decks are PowerPoint-complete enough to record.
+- Weeks 1-4 Wednesday recordings are complete.
 
-Preferred done before August recording push:
+Preferred done before the August recording push:
 
-- All 16 lecture deck sources complete.
-- All 16 PowerPoint decks complete enough to record.
-- Week 17 capstone/presentation support decision made.
-- Remaining recordings can be completed during August without major content design work.
+- All 34 lecture deck sources complete.
+- All Week 1-16 Wednesday PowerPoint decks complete enough to record.
+- All Week 1-16 Wednesday recordings complete or scheduled.
+- Week 17 capstone/presentation support deck decision confirmed.
+- PageForge week-by-week instructor-model work is captured as a separate post-reading, post-deck-source lane.

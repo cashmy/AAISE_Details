@@ -1,6 +1,8 @@
-# 🧭 WEEK 10 — JSON READING WORKSHEET
+# Week 10 Quiz Setup - JSON Reading Worksheet
 
 **Learning to Understand Data Before Using It**
+
+**Audience:** Instructor setup/source for the Schoology JSON Reading Worksheet quiz.
 
 ---
 

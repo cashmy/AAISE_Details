@@ -1,4 +1,4 @@
-# 🧭 HOW TO READ JSON
+# Week 8 Guide - How To Read JSON
 
 **A Practical Guide for Understanding Data**
 

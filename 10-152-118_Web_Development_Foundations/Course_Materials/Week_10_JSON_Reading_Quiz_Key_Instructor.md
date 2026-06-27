@@ -1,6 +1,8 @@
-# 🧭 WEEK 10 — JSON WORKSHEET ANSWER KEY
+# Week 10 Instructor Key - JSON Reading Worksheet Quiz
 
 **Instructor Version (Annotated)**
+
+**Audience:** Instructor reference only.
 
 ---
 

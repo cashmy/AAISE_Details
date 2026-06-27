@@ -14,6 +14,10 @@ Your application now:
 
 This week focuses on making your application **safe, predictable, and reliable**.
 
+This is security awareness for a front-end web project. You are not expected to
+build real authentication, server security, or a complete secure system. The goal
+is to recognize risky patterns and use safer beginner-level habits.
+
 ---
 
 ## 🔹 Objective
@@ -43,12 +47,19 @@ You must:
   * invalid or unexpected user input
   * missing or undefined data
   * actions that break your application
+  * user input being displayed in an unsafe way
+  * assuming browser storage is private or secure
+  * confusing a simulated login with real authentication
+  * API or cross-origin behavior that may fail or be blocked
 
 * Implement protections, such as:
 
   * input validation
   * conditional checks
   * default/fallback values
+  * safer output techniques, such as using text content instead of injecting raw HTML
+  * clear messages when input cannot be used
+  * comments or notes that identify what is simulated or not secure
 
 ---
 
@@ -75,6 +86,9 @@ That is expected.
 * Common failure points in applications
 * Defensive programming (planning for what might go wrong)
 * Building systems that fail gracefully instead of breaking
+* XSS, CSRF, and CORS as awareness terms for browser-based projects
+* Why simulated login is useful for practice but is not real account security
+* Why "it works" is not the same as "it is safe"
 
 ---
 
@@ -129,6 +143,10 @@ In 2–4 sentences:
 * What could go wrong?
 * What did you add to prevent it?
 
+At least one note should connect your improvement to the Week 13 browser
+security handout, such as safer input/output handling, trust boundaries, XSS
+awareness, CORS/API awareness, or simulated login limitations.
+
 ---
 
 # 🧠 REFLECTION (Required — Short)
@@ -145,16 +163,16 @@ In 2–3 sentences, answer:
 
 ### 🔹 Primary Focus
 
-* **Debugging & Problem Solving**
-* **Structured Development**
+* **T4 - Debugging & Problem Solving**
+* **T5 - Structured Development**
 
 ---
 
 ### 🔹 Secondary Focus
 
-* Interactivity (JavaScript)
-* Solve Problems
-* Value Learning
+* **T3 - Interactivity (JavaScript)**
+* **C1 - Solve Problems**
+* **C4 - Value Learning**
 
 ---
 
@@ -172,6 +190,7 @@ To succeed on this assignment:
 * your application must handle unexpected input safely
 * your system must remain stable under different conditions
 * you must clearly explain your improvements
+* you must avoid claiming that a front-end-only login is secure authentication
 
 ---
 

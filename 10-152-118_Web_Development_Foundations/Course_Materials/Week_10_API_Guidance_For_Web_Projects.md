@@ -1,4 +1,4 @@
-# WEEK 10 - API GUIDANCE FOR HTML/CSS/JS
+# Week 10 Guide - API Guidance For Web Projects
 
 **Working with External Data**
 
@@ -13,11 +13,21 @@ This course uses a shared approved API list so that students can focus on:
 * selecting meaningful values
 * displaying that data in the browser
 
-The canonical list now lives here:
-
-* [Approved_API_List.md](D:/@Artifact_Generation/108_AAISE_Details/Approved_API_List.md)
+The canonical approved API list is provided separately by your instructor.
 
 This wrapper explains how to use that list in the HTML/CSS/JS course.
+
+---
+
+## Relationship To The Shared API List
+
+The approved API list is shared across multiple AAISE courses.
+
+In this course, we use it specifically for browser-based projects that retrieve
+JSON with `fetch()` and display selected values in the page.
+
+Python courses may use the same APIs differently. The data source can be shared,
+but the programming context changes.
 
 ---
 
@@ -99,5 +109,3 @@ If you are stuck:
 ## Additional Support
 
 Use the JSON reading worksheet artifacts in this folder if you need more structure when interpreting nested data.
-
-

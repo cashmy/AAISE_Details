@@ -14,6 +14,10 @@ Your application now:
 
 This week focuses on improving **how efficiently your application runs**.
 
+Performance is not only about speed. It also includes how much work the browser
+has to do, how large files are, and whether the page asks the user or browser to
+handle too much at once.
+
 ---
 
 ## 🔹 Objective
@@ -43,11 +47,22 @@ You must:
   * repeated DOM updates
   * unnecessary function calls
   * redundant calculations
+  * images or files that are larger than needed
+  * displaying too many items at one time when a smaller set would be clearer
+  * repeated input or scroll behavior that could be controlled more carefully
 
 * Implement an improvement that:
 
   * reduces unnecessary work
   * improves responsiveness or clarity
+
+Possible improvements include:
+
+* simplifying repeated logic
+* updating the page fewer times
+* using smaller or better-sized images
+* showing a smaller group of items instead of everything at once
+* applying a basic debounce/throttle pattern if it fits your feature
 
 ---
 
@@ -74,6 +89,8 @@ That is normal.
 * Repetition vs efficiency
 * Basic awareness of scaling (doing something once vs many times)
 * Thinking about performance without overcomplicating it
+* Why file size, repeated events, and too much visible information can affect user experience
+* Pagination or chunking as a design choice, not necessarily a programming requirement this week
 
 ---
 
@@ -130,6 +147,10 @@ In 2–4 sentences:
 * What did you change?
 * Why is your solution better?
 
+Your note may refer to repeated work, image/file size, the amount of content
+shown at once, debounce/throttle, or another practical improvement discussed in
+the Week 12 handout.
+
 ---
 
 # 🧠 REFLECTION (Required — Short)
@@ -140,22 +161,22 @@ In 2–3 sentences, answer:
 
 ---
 
-# 📊 EVALUATION (MRS-02 ALIGNED)
+# 📊 EVALUATION
 
 ---
 
 ### 🔹 Primary Focus
 
-* **Structured Development**
-* **Debugging & Problem Solving**
+* **T1 - Structured Development**
+* **T4 - Debugging & Problem Solving**
 
 ---
 
 ### 🔹 Secondary Focus
 
-* Interactivity (JavaScript)
-* Solve Problems
-* Value Learning
+* **T3 - Interactivity (JavaScript)**
+* **C1 - Solve Problems**
+* **C4 - Value Learning**
 
 ---
 
@@ -173,6 +194,7 @@ To succeed on this assignment:
 * your improvement must reduce unnecessary work
 * your application must still function correctly
 * you must clearly explain your change
+* your explanation must connect the change to user experience, browser work, or both
 
 ---
 
