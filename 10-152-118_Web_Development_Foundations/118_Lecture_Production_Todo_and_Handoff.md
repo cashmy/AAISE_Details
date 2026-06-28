@@ -132,6 +132,184 @@ Keep it browser-native and beginner-facing.
 
 ---
 
+## Completed Production Activity Log
+
+This section preserves work completed after the earlier handoff notes were
+written. Some of these steps were not originally listed as explicit TODO items,
+but they are now part of the course production record.
+
+### Completed: Demo Spine For Weeks 1-15
+
+Status:
+
+- DONE.
+
+Output:
+
+- `Demos/README.md`
+- `Demos/Week_01_HTML_Multi_Page_Site/`
+- `Demos/Week_02_CSS_Appearance/`
+- `Demos/Week_03_Layout_Responsive/`
+- `Demos/Week_04_JavaScript_Logic/`
+- `Demos/Week_05_DOM_Interaction/`
+- `Demos/Week_06_Debugging_Process/`
+- `Demos/Week_07_Structured_JavaScript/`
+- `Demos/Week_08_Async_Time/`
+- `Demos/Week_09_Modular_Thinking/`
+- `Demos/Week_10_Data_APIs/`
+- `Demos/Week_11_State_LocalStorage/`
+- `Demos/Week_12_Performance/`
+- `Demos/Week_13_Security_Reliability/`
+- `Demos/Week_14_UX_Refinement/`
+- `Demos/Week_15_Forms_Input/`
+
+Each week now has a Monday starter demo and Wednesday iterative/deepening demo.
+The demo notes now assume the instructor may manually type important lines live
+or in recordings, while copy/pasting larger sections only for time compression.
+
+Verification:
+
+- JavaScript demo files were syntax-checked during production.
+- JSON demo data was parsed where applicable.
+
+### Completed: Assignment Success Solutions For Weeks 1-15
+
+Status:
+
+- DONE.
+
+Output:
+
+- `Assignments/Success_Solutions/README.md`
+- `Assignments/Success_Solutions/Week_01_HTML_Multi_Page_Site/`
+- `Assignments/Success_Solutions/Week_02_Styling_Visual_Design/`
+- `Assignments/Success_Solutions/Week_03_Layout_Responsive_Design/`
+- `Assignments/Success_Solutions/Week_04_Introduction_to_JavaScript/`
+- `Assignments/Success_Solutions/Week_05_DOM_Interaction_Events/`
+- `Assignments/Success_Solutions/Week_06_Debugging_Problem_Solving/`
+- `Assignments/Success_Solutions/Week_07_Structured_JavaScript/`
+- `Assignments/Success_Solutions/Week_08_Asynchronous_Behavior/`
+- `Assignments/Success_Solutions/Week_09_Modular_Thinking/`
+- `Assignments/Success_Solutions/Week_10_Data_APIs/`
+- `Assignments/Success_Solutions/Week_11_State_Management/`
+- `Assignments/Success_Solutions/Week_12_Performance_Efficiency/`
+- `Assignments/Success_Solutions/Week_13_Security_Reliability/`
+- `Assignments/Success_Solutions/Week_14_UX_Refinement/`
+- `Assignments/Success_Solutions/Week_15_Forms_Input_Systems/`
+
+Design decision:
+
+- Success solutions use a continuous `Study Sprint` sample concept.
+- They are intentionally separate from the lecture demos and PageForge.
+- They show one successful path for revision/recovery support, not the only
+  acceptable solution.
+
+Verification:
+
+- JavaScript files were syntax-checked during production.
+- JSON data was parsed where applicable.
+
+### Completed: PageForge Weekly Milestone Scaffold And Bridge
+
+Status:
+
+- DONE for Weeks 2-15 weekly milestone code.
+- DONE for Week 15-to-final bridge documentation.
+- Week 16-17 PageForge milestones remain optional if later recordings require
+  frozen readiness states.
+
+Separate workspace:
+
+```text
+D:\@Coding_Projects\HTML-CSS-JS\PageForge
+```
+
+Docs created or updated:
+
+- `docs/PageForge_Weekly_Progression_Scaffold_v2.md`
+- `docs/PageForge_Milestone_Index.md`
+- `docs/PageForge_Milestone_Notes_Template.md`
+- `docs/PageForge_Week15_to_Final_Bridge.md`
+
+Milestones created:
+
+- `milestones/week02-css-foundation/`
+- `milestones/week03-responsive-builder-layout/`
+- `milestones/week04-javascript-block-logic/`
+- `milestones/week05-dom-block-builder/`
+- `milestones/week06-debugged-interaction/`
+- `milestones/week07-structured-javascript/`
+- `milestones/week08-async-preview-timing/`
+- `milestones/week09-modular-organization/`
+- `milestones/week10-json-template-loading/`
+- `milestones/week11-state-driven-builder/`
+- `milestones/week12-performance-refinement/`
+- `milestones/week13-safer-reliable-handling/`
+- `milestones/week14-ux-refined-builder/`
+- `milestones/week15-forms-and-simulated-login/`
+
+Design decision:
+
+- PageForge now uses one demonstrable end-of-week milestone per week.
+- PageForge is optional instructor enrichment, not a required deck-source
+  element.
+- PageForge should not delay core deck-source production.
+
+Verification:
+
+- Milestone JavaScript files were syntax-checked.
+- JSON template files were parsed.
+- Week 10 onward should be reviewed through a local server because local JSON
+  is loaded with `fetch()`.
+
+### Completed: Deck Source Continuity Brief Update
+
+Status:
+
+- DONE.
+
+Updated artifact:
+
+- `Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`
+
+Important updates:
+
+- `Demos/` promoted to canonical deck-production input.
+- `Assignments/Success_Solutions/` promoted to canonical Monday review input.
+- Historical aggregate artifacts downgraded to informative references when
+  they conflict with newer production artifacts.
+- PageForge clarified as optional enrichment.
+- Monday deck pattern added, including `Previous Lab Review / Success Path`.
+- Wednesday deck pattern added for concept deepening and iterative development.
+- Demo integration rules added.
+- Assignment success review rules added.
+- Deck naming convention added.
+- Pre-drafting checklist updated.
+
+### Completed: Assignment Alignment Corrections
+
+Status:
+
+- DONE for current known issues.
+
+Notes:
+
+- Week 12 performance assignment was aligned to repeated work, file/image size,
+  conceptual pagination/chunking, and debounce/throttle recognition.
+- Week 13 security assignment was aligned to browser security awareness, safe
+  input/output, trust boundaries, XSS/CSRF/CORS recognition, and simulated-login
+  limits.
+- Week 15 forms/input work was separated from capstone proposal work.
+- `Assignments/15C_Capstone_Submission_Form.md` exists and works with
+  `Course_Materials/Week_15_Capstone_Proposal_and_Scope_Guide.md`.
+
+Remaining:
+
+- `Assignments/Combined_Assignments.md` may be stale. Regenerate only if it
+  will be used as a current combined artifact.
+
+---
+
 ## Required Production Chain
 
 Use the staged source-to-deck chain from `117` and `119`.
@@ -177,6 +355,20 @@ Watch point:
 
 ### 1. Create The 118 Lecture Production Map
 
+Status:
+
+- SUSPENDED / OPTIONAL.
+
+Current decision:
+
+- Not required for the immediate Week 1-4 slide-production push.
+- The current RBA process, completed continuity brief, reading guide, demos,
+  assignments, and success solutions provide enough local alignment to draft
+  deck sources directly.
+- This artifact may still be useful later as a governance/dashboard artifact if
+  the process changes, multiple collaborators join, or all 34 decks need
+  status tracking in one place.
+
 Create a map for all 34 deck sources.
 
 The map should show:
@@ -203,6 +395,19 @@ Deliverable:
 - `10-152-118_Web_Development_Foundations/118_Lecture_Production_Map.md`
 
 ### 2. Build The 118 Lecture/Demo/Assignment Alignment Matrix
+
+Status:
+
+- SUSPENDED / OPTIONAL.
+
+Current decision:
+
+- Not required for the immediate Week 1-4 slide-production push.
+- The deck sources themselves should carry the needed alignment sections:
+  reading alignment, demo integration, assignment/lab bridge, evidence
+  expectation, and misconception/watch point.
+- This matrix may still be useful for future course work if a different process
+  requires a single cross-week alignment artifact.
 
 Use `117` as the model.
 
@@ -264,20 +469,42 @@ Recommended:
 
 ### 5. Create Or Finalize The 118 Deck-Source Guide And Template
 
+Status:
+
+- GUIDE: COMPLETE ENOUGH via `Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`.
+- TEMPLATE: OPTIONAL.
+
+Current decision:
+
+- Do not create a separate deck-source design guide during the immediate Week
+  1-4 production push.
+- The updated continuity brief is sufficient for current RBA deck-source work.
+- A compact template may be created only if it speeds production; it is not a
+  blocker.
+
 Before creating new deck sources, review the existing continuity artifact:
 
 - `Lecture_Deck_Sources/Deck_Source_Continuity_Brief.md`
 
-TODO:
+Completed:
 
-- Confirm that it reflects the completed reading/prep guide.
-- Confirm that it reflects the corrected `34` deck / `16` recording model.
-- Confirm that it gives enough guidance for Monday/live versus Wednesday/recorded decks.
-- Preserve this key rhythm: Wednesday decks should be an iterative progression from Monday's lecture and the related lab assignment, not a disconnected second topic. The Wednesday recording should model quality iterative development: start from a working MVP, identify a backlog or next improvement, make a focused revision, and explain the reasoning.
-- Tune the recurring "how to read next week's material" slide guidance for this course.
-- Tune PageForge references so they support instructor modeling without exposing a copyable capstone solution.
+- DONE: Confirmed that it reflects the completed reading/prep guide.
+- DONE: Confirmed that it reflects the corrected `34` deck / `16` recording model.
+- DONE: Added stronger guidance for Monday/live versus Wednesday/recorded decks.
+- DONE: Preserved the key rhythm that Wednesday decks should be an iterative progression from Monday's lecture and the related lab assignment, not a disconnected second topic.
+- DONE: Tuned the recurring "how to read next week's material" slide guidance for this course.
+- DONE: Tuned PageForge references so PageForge is optional instructor enrichment and not a required deck-source element.
+- DONE: Added demos as canonical deck-production inputs.
+- DONE: Added assignment success solutions as canonical Monday review inputs.
+
+Remaining / optional:
 
 Adapt the `119` deck-source guide/template to `118`.
+
+Current pressure note:
+
+- Under current time pressure, skip this unless the lack of a copy/paste
+  template slows deck-source drafting.
 
 The template should include:
 
@@ -489,7 +716,8 @@ Week 17:
 
 ### 14. Add PageForge Week-By-Week Iterative Instructor Model Work
 
-This is not for the immediate deck-source pass, but it must remain visible.
+This is lower priority than the immediate deck-source pass, but it must remain
+visible as optional instructor enrichment.
 
 Context:
 
@@ -498,28 +726,45 @@ Context:
 - The instructor will iteratively add course concepts into PageForge week by week, similar to a capstone model.
 - This project should not be published for students to copy.
 
-TODO:
+Completed:
 
-- Revisit `Projects/PageForge_Week_by_Week_Roadmap.md`.
-- Compare the roadmap to the completed reading/prep guide.
-- Create a refreshed PageForge iteration plan that maps each weekly course concept to a realistic project addition.
-- Decide which additions should appear in live demo, recorded demo, instructor notes, or preserved milestone snapshots.
-- Preserve PageForge as instructor-only unless the user explicitly changes that decision.
+- DONE: Inspected the separate PageForge workspace at `D:\@Coding_Projects\HTML-CSS-JS\PageForge`.
+- DONE: Created a refreshed one-milestone-per-week PageForge scaffold.
+- DONE: Created or updated PageForge docs:
+  - `docs/PageForge_Weekly_Progression_Scaffold_v2.md`
+  - `docs/PageForge_Milestone_Index.md`
+  - `docs/PageForge_Milestone_Notes_Template.md`
+  - `docs/PageForge_Week15_to_Final_Bridge.md`
+- DONE: Created PageForge milestone code for Weeks 2-15.
+- DONE: Verified PageForge milestone JavaScript and JSON mechanically.
+- DONE: Preserved PageForge as instructor-only and optional.
+
+Remaining:
+
+- OPTIONAL: Create `milestones/week16-capstone-build-readiness/` only if a frozen Week 16 PageForge recording state is useful.
+- OPTIONAL: Create `milestones/week17-capstone-presentation-readiness/` only if a frozen Week 17 PageForge presentation state is useful.
+- OPTIONAL: Add PageForge recordings as time permits or necessity emerges.
 
 Possible deliverables:
 
-- `Projects/PageForge_Week_by_Week_Roadmap_v2.md`
-- `Projects/PageForge_Instructor_Companion_v2.md`
-- `Projects/PageForge_Milestone_Map.md`
-- milestone snapshot folders or notes in the separate PageForge workspace
+- `Projects/PageForge_Week_by_Week_Roadmap_v2.md` if a course-folder mirror is still desired
+- `Projects/PageForge_Instructor_Companion_v2.md` if a course-folder instructor companion is still desired
+- `Projects/PageForge_Milestone_Map.md` if the separate PageForge docs need to be mirrored into the course folder
+- optional Week 16-17 milestone snapshot folders or notes in the separate PageForge workspace
 
 Watch point:
 
 - PageForge should model iterative development and project ownership. It should not become a complete solution students can imitate directly for their own capstone.
+- PageForge is not required in the core slide deck sources.
 
 ### 15. Create Or Refactor Demos Only Where Needed
 
-Do not build an enormous demo library unless required.
+Status:
+
+- DONE for Weeks 1-15.
+- Weeks 16-17 are capstone support weeks and do not require normal concept-demo folders unless later deck production exposes a specific need.
+
+Do not expand the demo library further unless required.
 
 For each P0/P1 lecture, identify whether there is:
 
@@ -680,20 +925,26 @@ This is the main insight to carry from `117`.
 
 ## Suggested Production Order For The Next Work Block
 
-After a cognitive break:
+Immediate Week 1-4 production path:
 
 1. Re-read the completed `Weekly_Reading_and_Preparation_Guide.md`.
 2. Re-read `Deck_Source_Continuity_Brief.md`.
-3. Update `Deck_Source_Continuity_Brief.md` if it needs course-specific tuning.
-4. Create `118_Lecture_Production_Map.md` for all 34 decks.
-5. Create the `Lecture_Content_and_Demo_Alignment_Matrix.md` skeleton.
-6. Fill Weeks 1-4 in the matrix.
-7. Draft the 118 deck-source guide/template.
-8. Start Week 1 Monday and Wednesday deck sources.
+3. Draft Week 1 Monday and Wednesday deck sources directly.
+4. Create Week 1 image prompt artifact after the deck sources stabilize.
+5. Build Week 1 PowerPoint decks.
+6. Record Week 1 Wednesday.
+7. Repeat for Weeks 2-4.
 
-If energy is limited, do only steps 1-5. That still gives the next production session a clean runway.
+Suspended/optional under current time pressure:
 
-Do not start by building PowerPoint slides directly unless the deck source already exists and has been checked against the alignment matrix.
+- `118_Lecture_Production_Map.md`
+- `Lecture_Content_and_Demo_Alignment_Matrix.md`
+- separate `LDS-118` deck-source design guide
+- separate `LDST-118` template unless immediately useful
+
+Do not start by building PowerPoint slides directly unless the deck source
+already exists and has been checked against the continuity brief, reading guide,
+demos, assignments, and evidence expectations.
 
 ---
 
