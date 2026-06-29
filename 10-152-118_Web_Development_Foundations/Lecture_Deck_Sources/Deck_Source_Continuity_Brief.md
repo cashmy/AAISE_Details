@@ -928,30 +928,209 @@ complete explanation.
 
 # AI-Use Framing
 
-Preserve the course-wide student-facing AI progression:
+Preserve the course-wide student-facing AI progression from the IIM
+spreadsheet:
 
 ```text
-manual native work -> assisted explanation/debugging -> strategic capstone use
+manual native work
+-> AI as Explainer
+-> AI as Assistant
+-> AI as Collaborator
 ```
 
-AI may support:
+AI is not a substitute for first-contact manual learning. When AI appears in a
+deck, the slide language must match the current course role and constraint.
 
-- explanation
-- debugging
-- comparison
-- refinement
-- capstone acceleration
+## Weeks 1-5: Manual Native Work
 
-AI should not replace:
+Do not introduce AI as a normal workflow in Weeks 1-5.
+
+Primary student work:
+
+- type HTML, CSS, and JavaScript manually
+- see browser output directly
+- make small mistakes and recover
+- build authorship confidence before tool assistance
+
+If AI is mentioned at all, keep it policy-level and brief. Do not model AI
+prompting before Week 6 unless a specific institutional requirement demands it.
+
+## Weeks 6-8: AI As Explainer
+
+AI may help students understand what something means.
+
+Good AI verbs:
+
+- explain
+- interpret
+- define
+- summarize
+- suggest possible causes to investigate
+
+Allowed uses:
+
+- explain a console error
+- explain a debugging clue
+- explain unfamiliar reading language
+- explain async timing ideas
+- suggest likely causes students can test manually
+
+Student must still provide:
+
+- observed symptom
+- exact error or concept that is confusing
+- small relevant code or context
+- what they already checked
+- their own verification result
+
+Do not allow AI to replace:
+
+- the debugging loop
+- the chosen fix
+- retesting
+- the student's explanation of what changed
+
+## Weeks 9-12: AI As Assistant
+
+AI may help students improve, organize, compare, or refine work they have
+already attempted manually.
+
+Hard constraint:
+
+```text
+Students must manually write or revise relevant code before asking AI for
+assistance.
+```
+
+This phase should never imply "ask AI to start the assignment." It should model
+"I wrote this first; now help me understand or improve it."
+
+Good AI verbs:
+
+- suggest
+- organize
+- compare
+- review
+- identify repetition
+- explain tradeoffs
+- propose a small improvement
+
+Allowed uses:
+
+- suggest ways to split code into clearer files
+- compare two organization choices
+- identify repeated code after the student has written it
+- suggest state or data-flow improvements
+- suggest performance refinements after the student has a working version
+- help describe tradeoffs for a student's chosen approach
+
+Student must provide:
+
+- the manually written code or relevant excerpt
+- what the code currently does
+- what feels confusing, repetitive, slow, or hard to maintain
+- the specific kind of help requested
+- the constraint that AI should not rewrite the whole project
+
+Reusable prompt pattern for Weeks 9-12:
+
+```text
+I manually wrote this beginner HTML/CSS/JavaScript code first.
+
+Current goal:
+[What I am trying to make work]
+
+Relevant code:
+[Paste only the small section or files involved]
+
+What already works:
+[Describe the working behavior]
+
+What I want help with:
+[Organization, repeated code, performance, state, naming, or explanation]
+
+Please suggest 2-3 focused improvements.
+Explain why each improvement helps.
+Do not rewrite the entire project.
+Do not write new code yet unless I ask for a small example.
+Keep the solution appropriate for a beginner course.
+```
+
+When a Week 9-12 deck uses the existing `AI Use In Labs` or `Useful AI Prompt
+Pattern` slide formats, make the manual-first requirement visible in
+student-facing text, not only in instructor notes.
+
+## Weeks 13-17: AI As Collaborator
+
+AI may participate more actively in security review, UX refinement, form
+planning, capstone troubleshooting, and presentation preparation.
+
+Good AI verbs:
+
+- collaborate
+- review
+- refine
+- test ideas
+- plan
+- critique
+- prepare explanation
+
+Allowed uses:
+
+- identify possible security risks in a student's own code
+- suggest UX improvements for an existing interface
+- help plan form validation and user feedback
+- help troubleshoot capstone problems
+- help prepare presentation language
+- help compare implementation options
+
+Student remains responsible for:
 
 - student design judgment
 - basic HTML/CSS/JS authorship
 - debugging evidence
 - final explanation of how the system works
+- disclosure of meaningful AI use under the course policy
+
+## Deck-Source Directive
 
 Deck sources should include AI-use boundaries only when relevant. Do not force
 AI discussion into early lessons where it distracts from manual first-contact
 learning.
+
+AI-use guidance is additive.
+
+Do not compress core instructional content to make room for:
+
+- AI-use slides
+- prompt-pattern slides
+- policy reminders
+- role or constraint slides
+- reading guidance
+- evidence reminders
+
+When AI-use guidance is relevant, add the needed slide or slides as expansion
+slides. Preserve the original concept, demo, lab bridge, evidence, assignment,
+and reading-continuity slides unless there is a concrete redundancy or user
+direction to remove them.
+
+Longer deck sources are preferred over compressed deck sources. The instructor
+may skip, skim, combine, or verbally compress slides during delivery.
+
+When the IIM spreadsheet identifies an AI role for a week, the deck source
+should normally include one of these:
+
+- a short `AI Use In Labs` slide
+- a `Useful AI Prompt Pattern` slide
+- an instructor note explaining why no AI slide is needed that week
+
+For every AI-use slide, include:
+
+- the role name: Explainer, Assistant, or Collaborator
+- what AI may do
+- what AI may not replace
+- what students must provide before using AI
+- what evidence or explanation remains the student's responsibility
 
 ---
 
