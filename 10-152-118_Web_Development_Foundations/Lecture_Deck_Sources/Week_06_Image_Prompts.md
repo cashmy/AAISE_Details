@@ -245,7 +245,32 @@ Use a calm classroom-friendly flat style with large readable labels and restrain
 Avoid robot characters, magic imagery, full-code replacement visuals, dark hacker imagery, or anything that suggests AI is doing the assignment for the student.
 ```
 
-## W06A Slide 11 - Exact Match Comparison
+## W06A Slide 11 - Useful AI Prompt Pattern
+
+Use the existing `Useful AI Prompt Pattern` PowerPoint slide format. No new
+image generation is required by default.
+
+Suggested slide body:
+
+> I am debugging a beginner web page.
+>
+> What I observed:
+> [What I clicked or tried, and what happened]
+>
+> Console message:
+> [Paste the exact message]
+>
+> Relevant code:
+> [Paste the small HTML/JS section]
+>
+> What I checked:
+> [IDs, selectors, script link, spelling]
+>
+> Please explain what this error means.
+> Give me possible causes to test.
+> Do not rewrite the whole project.
+
+## W06A Slide 12 - Exact Match Comparison
 
 ```text
 Create a clean instructional PowerPoint visual comparing an HTML id and a JavaScript selector.
@@ -268,7 +293,7 @@ Use large readable labels and a modern flat classroom-friendly style.
 Avoid dense code, complex DOM trees, jQuery, or intimidating error visuals.
 ```
 
-## W06A Slide 12 - Demo Broken Selector
+## W06A Slide 13 - Demo Broken Selector
 
 ```text
 Create a clean instructional PowerPoint visual for a live demo named "Broken Selector."
@@ -288,7 +313,7 @@ Use a classroom-friendly flat style with large readable labels.
 Avoid red error storms, dense code, dark terminal imagery, or complex DevTools screens.
 ```
 
-## W06A Slide 13 - Verify The Fix
+## W06A Slide 14 - Verify The Fix
 
 ```text
 Create a clean instructional PowerPoint visual showing verification after a debugging fix.
@@ -443,7 +468,34 @@ Use large readable labels and a modern flat classroom-friendly style.
 Avoid dark terminal imagery, dense code, stack traces, or advanced debugging tools.
 ```
 
-## W06B Slide 8 - Demo Multi-Issue Debugging
+## W06B Slide 8 - Proper Console Log Format
+
+```text
+Create a clean instructional PowerPoint visual showing proper beginner console.log formatting.
+
+Use a white or very light background. Show a side-by-side comparison:
+
+Less useful:
+console.log(taskText);
+
+More useful:
+console.log("Task text:", taskText);
+
+Under the comparison, show three small habits:
+
+- label the value
+- log one question at a time
+- remove extra logs later
+
+Add a small note:
+"A useful log explains what you are checking."
+
+Use large readable labels and a modern flat classroom-friendly style.
+
+Avoid dark terminal imagery, dense code, stack traces, advanced logging frameworks, or complex DevTools screenshots.
+```
+
+## W06B Slide 9 - Demo Multi-Issue Debugging
 
 ```text
 Create a clean instructional PowerPoint visual for a recorded demo named "Multi-Issue Debugging."
@@ -469,7 +521,7 @@ Use large readable labels and a classroom-friendly flat style.
 Avoid red alarm imagery, complex DevTools screens, dark terminal visuals, or dense source code.
 ```
 
-## W06B Slide 9 - Retest After Each Fix
+## W06B Slide 10 - Retest After Each Fix
 
 ```text
 Create a clean instructional PowerPoint visual showing retesting after each fix.
@@ -488,7 +540,7 @@ Use a modern flat classroom-friendly style with large readable labels.
 Avoid testing-framework dashboards, dense code, or success/failure alarm imagery.
 ```
 
-## W06B Slide 10 - Good AI Debugging Prompt
+## W06B Slide 11 - Good AI Debugging Prompt
 
 ```text
 Create a clean instructional PowerPoint visual showing the shape of a good AI debugging prompt.
@@ -511,27 +563,40 @@ Use large readable labels and a calm classroom-friendly flat style with restrain
 Avoid robot characters, chatbot screenshots, pasted full-project code, magic-wand imagery, dark cyber visuals, or anything that implies copying the answer.
 ```
 
-## W06B Slide 11 - Debugging Report Pattern
+## W06B Slide 12 - Debugging Report Pattern
 
 ```text
-Create a clean instructional PowerPoint visual showing a four-part debugging report template.
+Create a clean instructional PowerPoint visual showing a debugging report as a form-like worksheet or simple document template.
 
-Use a white or very light background. Show four labeled sections:
+Use a white or very light background. Make the visual look like a student handout or report form, not a colorful infographic.
 
-- Issue: what was wrong?
-- Evidence: how did you identify it?
-- Fix: what did you change?
-- Verification: how do you know it works?
+Show one document page or worksheet panel with four stacked sections and light divider lines:
+
+Issue:
+What was wrong?
+[Write 1-2 sentences.]
+
+Evidence:
+How did you identify it?
+[Console message, console.log output, browser behavior, file/line checked.]
+
+Fix:
+What did you change?
+[Name the file, line/section, and change.]
+
+Verification:
+How do you know it works now?
+[Retest result, expected behavior, no unresolved console error.]
 
 Add a small note:
 "Fixed code alone is not the whole assignment."
 
-Use large readable labels and a classroom-friendly flat style.
+Use large readable labels, generous whitespace, and restrained SWTC-friendly colors: navy, teal, warm gold, white, and soft gray.
 
-Avoid legal/report bureaucracy imagery, dense text, or complex documentation templates.
+Avoid four colorful cards, large decorative icons, report bureaucracy imagery, dense text, tiny form fields, clip art, or anything that looks like a poster instead of a usable template.
 ```
 
-## W06B Slide 15 - Cleaner Code Bridge
+## W06B Slide 16 - Cleaner Code Bridge
 
 ```text
 Create a clean instructional PowerPoint visual showing the transition from debugging to cleaner structured behavior.
@@ -568,20 +633,22 @@ Use these filenames when saving generated images:
 | W06A | 8 | `w06_img_07_symptom_vs_cause.png` |
 | W06A | 9 | `w06_img_08_console_clue.png` |
 | W06A | 10 | `w06_img_09_ai_debugging_explainer.png` |
-| W06A | 11 | `w06_img_10_exact_match_comparison.png` |
-| W06A | 12 | `w06_img_11_demo_broken_selector.png` |
-| W06A | 13 | `w06_img_12_verify_fix.png` |
+| W06A | 11 | Use existing prompt-pattern slide format |
+| W06A | 12 | `w06_img_10_exact_match_comparison.png` |
+| W06A | 13 | `w06_img_11_demo_broken_selector.png` |
+| W06A | 14 | `w06_img_12_verify_fix.png` |
 | W06B | 1 | `w06_img_13_one_bug_to_issue_list.png` |
 | W06B | 2 | `w06_img_14_multiple_issue_stack.png` |
 | W06B | 4 | `w06_img_15_priority_ladder.png` |
 | W06B | 5 | `w06_img_16_multi_issue_toolbox.png` |
 | W06B | 6 | `w06_img_17_one_fix_at_a_time.png` |
 | W06B | 7 | `w06_img_18_console_logs_evidence.png` |
-| W06B | 8 | `w06_img_19_demo_multi_issue_debugging.png` |
-| W06B | 9 | `w06_img_20_retest_after_fix.png` |
-| W06B | 10 | `w06_img_21_good_ai_debugging_prompt.png` |
-| W06B | 11 | `w06_img_22_debugging_report_pattern.png` |
-| W06B | 15 | `w06_img_23_cleaner_code_bridge.png` |
+| W06B | 8 | `w06_img_19_console_log_format.png` |
+| W06B | 9 | `w06_img_20_demo_multi_issue_debugging.png` |
+| W06B | 10 | `w06_img_21_retest_after_fix.png` |
+| W06B | 11 | `w06_img_22_good_ai_debugging_prompt.png` |
+| W06B | 12 | `w06_img_23_debugging_report_pattern.png` |
+| W06B | 16 | `w06_img_24_cleaner_code_bridge.png` |
 
 ---
 
@@ -605,11 +672,12 @@ Use these filenames when saving generated images:
 - `w06_img_16_multi_issue_toolbox.png`: Toolbox for multi-issue debugging with issue list, priority, logs, checks, and verification note.
 - `w06_img_17_one_fix_at_a_time.png`: Chaotic multi-edit path contrasted with orderly one-fix-at-a-time process.
 - `w06_img_18_console_logs_evidence.png`: Console log checkpoints along a simple code path.
-- `w06_img_19_demo_multi_issue_debugging.png`: Task input demo with ordered fixes for selector mismatch, condition error, and CSS mismatch.
-- `w06_img_20_retest_after_fix.png`: Repeating fix, retest, evidence cards.
-- `w06_img_21_good_ai_debugging_prompt.png`: Prompt card with symptom, console error, relevant code, checks tried, and explanation request.
-- `w06_img_22_debugging_report_pattern.png`: Four-section debugging report template with issue, evidence, fix, and verification.
-- `w06_img_23_cleaner_code_bridge.png`: Progression from bug found to fix verified to cleaner code next.
+- `w06_img_19_console_log_format.png`: Side-by-side comparison of unlabeled and labeled console.log statements.
+- `w06_img_20_demo_multi_issue_debugging.png`: Task input demo with ordered fixes for selector mismatch, condition error, and CSS mismatch.
+- `w06_img_21_retest_after_fix.png`: Repeating fix, retest, evidence cards.
+- `w06_img_22_good_ai_debugging_prompt.png`: Prompt card with symptom, console error, relevant code, checks tried, and explanation request.
+- `w06_img_23_debugging_report_pattern.png`: Four-section debugging report template with issue, evidence, fix, and verification.
+- `w06_img_24_cleaner_code_bridge.png`: Progression from bug found to fix verified to cleaner code next.
 
 ---
 
@@ -623,6 +691,7 @@ If time is tight, generate these first:
 4. `w06_img_07_symptom_vs_cause.png`
 5. `w06_img_09_ai_debugging_explainer.png`
 6. `w06_img_10_exact_match_comparison.png`
-7. `w06_img_19_demo_multi_issue_debugging.png`
-8. `w06_img_21_good_ai_debugging_prompt.png`
-9. `w06_img_22_debugging_report_pattern.png`
+7. `w06_img_19_console_log_format.png`
+8. `w06_img_20_demo_multi_issue_debugging.png`
+9. `w06_img_22_good_ai_debugging_prompt.png`
+10. `w06_img_23_debugging_report_pattern.png`
