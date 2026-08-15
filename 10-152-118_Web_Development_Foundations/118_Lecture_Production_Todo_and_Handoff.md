@@ -10,6 +10,24 @@ This file is designed so a new Codex session can restart the `118` lecture/deck 
 
 ## Current Situation
 
+**Status update as of 2026-06-30:**
+
+- Units 1-2, Weeks 1-7, are complete through PowerPoint deck production,
+  printed/PDF handouts, and Schoology upload.
+- The only remaining production item for Weeks 1-7 is the actual lecture/video
+  recording pass.
+- Recording software setup is actively being configured.
+- Week 8 deck sources and image prompts have been produced and are ready for
+  the next PowerPoint/handout production pass.
+- Several reusable bonus modules now exist at the root level and should be
+  treated as designed but not yet fully produced into final PPTX/handouts or
+  uploaded unless explicitly completed later.
+
+Bonus modules currently designed:
+
+- `AI_Prompting_Basics/`
+- `GitHub_and_Remote_Pairing_Basics/`
+
 The reading/preparation layer is now complete.
 
 The course has a much more complex reading and prep structure than `117` or `119` because it integrates:
@@ -23,7 +41,8 @@ The course has a much more complex reading and prep structure than `117` or `119
 - a capstone structure that grows from HTML/CSS/JS foundations into data, state, security, UX, performance, forms, proposal, build, and presentation
 - a delayed and accountable AI-use progression
 
-The next major phase is lecture deck source production.
+The next major phase is continuing lecture deck production for Weeks 8-17 and
+recording the completed Wednesday lecture videos.
 
 Correct production count:
 
@@ -137,6 +156,57 @@ Keep it browser-native and beginner-facing.
 This section preserves work completed after the earlier handoff notes were
 written. Some of these steps were not originally listed as explicit TODO items,
 but they are now part of the course production record.
+
+### Completed: Units 1-2 Slide/Handout/Schoology Production
+
+Status:
+
+- DONE for Weeks 1-7 PowerPoint decks.
+- DONE for Weeks 1-7 printed/PDF handouts.
+- DONE for Weeks 1-7 Schoology upload.
+- RECORDINGS PENDING for the completed Wednesday/recorded decks.
+
+Scope:
+
+- Unit 1: Weeks 1-3.
+- Unit 2: Weeks 4-7.
+
+Notes:
+
+- These weeks are considered production-ready from a slide/handout/upload
+  standpoint.
+- The remaining work is operational recording, not content design.
+- Recording software setup was being finalized on 2026-06-30.
+
+### Completed: Reusable Bonus Module Design
+
+Status:
+
+- DESIGNED / LAID OUT.
+- Final PPTX production, handout/export work, recording, and Schoology upload
+  remain pending unless later marked complete.
+
+Bonus modules:
+
+- `AI_Prompting_Basics/`
+  - AI prompt engineering basics.
+  - Includes modern prompt structure, old role-prompting context, browser LLM
+    versus code LLM versus app/agentic interface differences, clarifying
+    questions, and permission gates.
+- `GitHub_and_Remote_Pairing_Basics/`
+  - GitHub basics for code submission.
+  - Remote paired programming methodology.
+  - Includes GitHub as the primary code-submission location for grading,
+    beginner upload/download workflow, avoiding overwrites, Zoom pairing roles,
+    group-of-three workflow, and paired AI-use boundaries.
+
+Remaining bonus-production work:
+
+- build final PPTX decks
+- generate or select final visuals
+- create printable/PDF handouts as needed
+- record optional videos
+- upload/link in Schoology where appropriate
 
 ### Completed: Demo Spine For Weeks 1-15
 
@@ -539,7 +609,7 @@ Deliverables:
 
 Priority:
 
-- `P0`
+- COMPLETE.
 
 Weeks:
 
@@ -562,9 +632,21 @@ Each deck source must include:
 - visual notes if useful
 - recording notes for Wednesday decks
 
+Status update:
+
+- DONE for Week 1-4 deck sources.
+- DONE for Week 1-4 PowerPoint production.
+- DONE for Week 1-4 handouts.
+- DONE for Week 1-4 Schoology upload.
+- RECORDINGS PENDING.
+
 ### 7. Create Week 1-4 Image Prompt Artifacts
 
 After each Week 1-4 deck source is complete, create an image prompt artifact for that week.
+
+Status:
+
+- COMPLETE for Weeks 1-4.
 
 Each image prompt artifact should include:
 
@@ -588,6 +670,10 @@ Deliverable pattern:
 
 Generate images from the prompt artifacts one at a time.
 
+Status:
+
+- COMPLETE for Weeks 1-4 final slide/handout production.
+
 For each image:
 
 - compare the result to the instructional purpose
@@ -605,6 +691,12 @@ Recommended folder pattern:
 ### 9. Produce Week 1-4 PowerPoint Decks
 
 Use the existing `118` slide design system unless there is a strong reason to revise.
+
+Status:
+
+- COMPLETE for Weeks 1-4.
+- Uploaded to Schoology.
+- Recordings remain pending.
 
 Existing assets to inspect:
 
@@ -655,11 +747,16 @@ Recording rule:
 - Record once the deck is coherent enough to teach.
 - Do not wait for perfect slide aesthetics if the content is stable.
 
+Status:
+
+- PENDING.
+- Decks/handouts/upload are done; only recording remains.
+
 ### 11. Batch Produce Week 5-8 Deck Sources
 
 Priority:
 
-- `P1`
+- PARTIAL / IN PROGRESS.
 
 Weeks:
 
@@ -669,6 +766,19 @@ Weeks:
 8. Async: Time Matters
 
 These weeks move students from static pages into behavior, debugging, and browser application thinking.
+
+Status update:
+
+- Weeks 5-7:
+  - PowerPoint decks complete.
+  - Handouts complete.
+  - Uploaded to Schoology.
+  - Recordings pending.
+- Week 8:
+  - Deck sources complete.
+  - Image prompt artifact complete.
+  - Still needs final PPTX production, handouts, Schoology upload, and
+    recording.
 
 ### 12. Batch Produce Week 9-15 Deck Sources
 
@@ -925,15 +1035,26 @@ This is the main insight to carry from `117`.
 
 ## Suggested Production Order For The Next Work Block
 
-Immediate Week 1-4 production path:
+Immediate production path after 2026-06-30:
 
-1. Re-read the completed `Weekly_Reading_and_Preparation_Guide.md`.
-2. Re-read `Deck_Source_Continuity_Brief.md`.
-3. Draft Week 1 Monday and Wednesday deck sources directly.
-4. Create Week 1 image prompt artifact after the deck sources stabilize.
-5. Build Week 1 PowerPoint decks.
-6. Record Week 1 Wednesday.
-7. Repeat for Weeks 2-4.
+1. Finish recording setup.
+2. Record completed Week 1-7 Wednesday decks.
+3. Build Week 8 PowerPoint decks from the completed Week 8 deck sources.
+4. Generate/select Week 8 visuals from `Week_08_Image_Prompts.md`.
+5. Create Week 8 printed/PDF handouts.
+6. Upload Week 8 materials to Schoology.
+7. Record Week 8 Wednesday deck.
+8. Continue one-week-at-a-time deck-source and PowerPoint production for
+   Weeks 9-15 to avoid compression/drift.
+
+Bonus production path, lower priority:
+
+1. Build final PPTX for `AI_Prompting_Basics`.
+2. Build final PPTX for `GitHub_and_Remote_Pairing_Basics` GitHub basics.
+3. Build final PPTX for `GitHub_and_Remote_Pairing_Basics` remote pairing.
+4. Create companion handouts/PDFs if useful.
+5. Record optional videos.
+6. Link/upload in Schoology where appropriate.
 
 Suspended/optional under current time pressure:
 
@@ -1016,11 +1137,22 @@ Slide work:
 
 Minimum done before class pressure:
 
-- `118_Lecture_Production_Map.md` exists and lists all 34 deck sources.
-- `Lecture_Content_and_Demo_Alignment_Matrix.md` exists.
-- Weeks 1-4 Monday and Wednesday deck sources are complete.
-- Weeks 1-4 Wednesday decks are PowerPoint-complete enough to record.
-- Weeks 1-4 Wednesday recordings are complete.
+- Weeks 1-7 Wednesday recordings are complete.
+- Week 8 Monday and Wednesday PowerPoint decks are complete.
+- Week 8 handouts are complete.
+- Week 8 materials are uploaded to Schoology.
+- Week 8 Wednesday recording is complete.
+- Week 9 deck-source production is ready to begin from the current one-week
+  workflow.
+
+Already done:
+
+- Weeks 1-7 Monday and Wednesday decks are PowerPoint-complete.
+- Weeks 1-7 handouts are complete.
+- Weeks 1-7 materials are uploaded to Schoology.
+- `118_Lecture_Production_Map.md` and
+  `Lecture_Content_and_Demo_Alignment_Matrix.md` are suspended/optional under
+  the current RBA process.
 
 Preferred done before the August recording push:
 
@@ -1029,3 +1161,5 @@ Preferred done before the August recording push:
 - All Week 1-16 Wednesday recordings complete or scheduled.
 - Week 17 capstone/presentation support deck decision confirmed.
 - PageForge week-by-week instructor-model work is captured as a separate post-reading, post-deck-source lane.
+- Bonus modules are produced into PPTX/handouts/recordings only if time allows
+  after core course lectures remain on schedule.
