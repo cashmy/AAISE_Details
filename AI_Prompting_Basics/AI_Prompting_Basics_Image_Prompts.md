@@ -11,11 +11,13 @@ for the reusable AI Prompting Basics deck.
 
 Primary workflow:
 
-- Copy one prompt block at a time into the browser-based ChatGPT image tool.
+- Use (or copy) one prompt block at a time into the browser-based ChatGPT image tool.
 - Use Codex image generation only as a fallback if the browser image result is
   significantly unusable.
 - Preserve slide numbering as placement guidance for the final PowerPoint
   sequence.
+- Process only one prompt at a time, and allow the human agent to review the result,
+  make any necessary edits or adjustments. Once approved, move to the next prompt.
 
 Global style guidance:
 
@@ -190,10 +192,10 @@ Use restrained navy, teal, warm gold, white, and soft gray.
 Avoid vendor logos, chatbot screenshots, dense text, or robots.
 ```
 
-## Slide 10 - Code-Focused LLMs
+## Slide 10 - Code/Codex-Focused LLMs
 
 ```text
-Create a clean instructional PowerPoint visual showing a code-focused AI tool working with code context.
+Create a clean instructional PowerPoint visual showing a code/Codex-focused AI tool working with code context.
 
 Use a white or very light background. Show a code file card, an error message card, and an expected behavior card feeding into an explanation panel.
 
@@ -236,7 +238,7 @@ Use a white or very light background. Show a prompt card leading to three questi
 - limits?
 
 Add a small note:
-"Ask before guessing."
+"Ask any clarifying questions before proceeding."
 
 Use restrained navy, teal, warm gold, white, and soft gray.
 
@@ -322,18 +324,18 @@ Use restrained navy, teal, warm gold, white, and soft gray.
 Avoid dense full prompts, robots, or dark technology imagery.
 ```
 
-## Slide 17 - Student Responsibility
+## Slide 17 - Human-User Responsibility of AI Use
 
 ```text
-Create a clean instructional PowerPoint visual showing student responsibility after AI support.
+Create a clean instructional PowerPoint visual showing human-user responsibility after AI support.
 
-Use a white or very light background. Show a student-owned work card connected to five responsibility checks:
+Use a white or very light background. Show a user-owned work card connected to five responsibility checks:
 
 - explain
 - test
 - identify changes
 - meet requirements
-- submit evidence
+- observe/record evidence
 
 Use restrained navy, teal, warm gold, white, and soft gray.
 
@@ -361,24 +363,23 @@ Avoid dense text, robots, magic imagery, or dark hacker aesthetics.
 
 # Suggested Filename Map
 
-| Slide | Suggested Filename |
-| ---: | --- |
-| 1 | `ai_prompting_img_01_ownership.png` |
-| 2 | `ai_prompting_img_02_prompting_matters.png` |
-| 3 | `ai_prompting_img_03_old_prompt_advice.png` |
-| 4 | `ai_prompting_img_04_current_practice.png` |
-| 5 | `ai_prompting_img_05_role_not_permission.png` |
-| 6 | `ai_prompting_img_06_basic_prompt_pattern.png` |
-| 7 | `ai_prompting_img_07_weak_vs_useful_prompt.png` |
-| 8 | `ai_prompting_img_08_ai_roles.png` |
-| 9 | `ai_prompting_img_09_browser_llms.png` |
-| 10 | `ai_prompting_img_10_code_llms.png` |
-| 11 | `ai_prompting_img_11_agentic_interfaces.png` |
-| 12 | `ai_prompting_img_12_clarifying_questions.png` |
-| 13 | `ai_prompting_img_13_permission_gate.png` |
-| 14 | `ai_prompting_img_14_what_not_to_ask.png` |
-| 15 | `ai_prompting_img_15_what_to_ask_instead.png` |
-| 16 | `ai_prompting_img_16_reusable_templates.png` |
-| 17 | `ai_prompting_img_17_student_responsibility.png` |
-| 18 | `ai_prompting_img_18_closing_model.png` |
-
+| Slide | Suggested Filename                                            |
+| ----: | ------------------------------------------------------------- |
+|     1 | `ai_prompting_img_01_ownership.png`                           |
+|     2 | `ai_prompting_img_02_prompting_matters.png`                   |
+|     3 | `ai_prompting_img_03_old_prompt_advice.png`                   |
+|     4 | `ai_prompting_img_04_current_practice.png`                    |
+|     5 | `ai_prompting_img_05_role_not_permission.png`                 |
+|     6 | `ai_prompting_img_06_basic_prompt_pattern.png`                |
+|     7 | `ai_prompting_img_07_weak_vs_useful_prompt.png`               |
+|     8 | `ai_prompting_img_08_ai_roles.png`                            |
+|     9 | `ai_prompting_img_09_browser_llms.png`                        |
+|    10 | `ai_prompting_img_10_codex_llms.png`                          |
+|    11 | `ai_prompting_img_11_agentic_interfaces.png`                  |
+|    12 | `ai_prompting_img_12_clarifying_questions.png`                |
+|    13 | `ai_prompting_img_13_permission_gate.png`                     |
+|    14 | `ai_prompting_img_14_what_not_to_ask.png`                     |
+|    15 | `ai_prompting_img_15_what_to_ask_instead.png`                 |
+|    16 | `ai_prompting_img_16_reusable_templates.png`                  |
+|    17 | `ai_prompting_img_17_human-user_responsibility_of_ai_use.png` |
+|    18 | `ai_prompting_img_18_closing_model.png`                       |
