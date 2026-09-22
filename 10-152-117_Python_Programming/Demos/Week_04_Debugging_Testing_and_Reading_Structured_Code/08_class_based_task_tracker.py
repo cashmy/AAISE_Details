@@ -22,8 +22,10 @@ class TaskTracker:
         for task in self.tasks:
             print("-", task)
 
-
+# Instantiate the object
 tracker = TaskTracker()
+
+# Call/Execute the methods
 tracker.add_task("read chapter")
 tracker.add_task("practice Python")
 tracker.add_task("submit assignment")
