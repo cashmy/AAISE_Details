@@ -114,9 +114,11 @@ Why it matters:
 
 ## Demo 2
 
-* **Artifact:** Django MVT recognition preview
+* **Artifact:** `07_django_mvt_recognition.md` and the small runnable
+  `07_mvt_study_task_app/` example
 * **Focus:** templates, forms, views, and flow
-* **Students should notice:** the pieces are conceptually understandable even if the framework is new
+* **Students should notice:** a request can be traced through URL routing,
+  view, form, model, and template without needing framework mastery
 
 ## Demo 3
 
@@ -206,8 +208,8 @@ Ask:
 
 # 11. Materials / Artifacts Used
 
-* Week 6 architecture preview demos
+* Week 6 architecture preview demos, including
+  `07_mvt_study_task_app/MVT_TRACE.md` and its Assignment 12 worksheet
 * A11 - API Data Fetcher
 * A12 - Python App Architecture Preview
 * [Lecture Content and Demo Alignment Matrix](D:/@Artifact_Generation/108_AAISE_Details/10-152-117_Python_Programming/Lecture_Content_and_Demo_Alignment_Matrix.md)
-

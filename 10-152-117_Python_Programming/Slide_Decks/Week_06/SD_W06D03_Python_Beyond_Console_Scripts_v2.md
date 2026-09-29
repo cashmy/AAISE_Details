@@ -110,6 +110,7 @@ Primary demos:
 
 - `Demos/Week_06_APIs_External_Data_and_App_Architecture/06_architecture_preview_console_mvt.py`
 - `Demos/Week_06_APIs_External_Data_and_App_Architecture/07_django_mvt_recognition.md`
+- `Demos/Week_06_APIs_External_Data_and_App_Architecture/07_mvt_study_task_app/MVT_TRACE.md`
 
 Optional review:
 
@@ -446,6 +447,9 @@ Use with:
 `D:\@Artifact_Generation\108_AAISE_Details\10-152-117_Python_Programming\Demos\Week_06_APIs_External_Data_and_App_Architecture\07_django_mvt_recognition.md`
 
 Use `07_django_mvt_recognition.md` as an annotated reading/demo artifact.
+Show the matching `07_mvt_study_task_app/tasks/` files so students can point
+to a real form, view, model, route, and template. The request trace is a
+fallback when the live app is unavailable.
 
 **Demo Connection:**
 
@@ -550,7 +554,8 @@ Recommended order:
 1. Review A11 output expectations.
 2. Run or walk through `06_architecture_preview_console_mvt.py`.
 3. Ask students to label input, validation, logic, and display.
-4. Inspect `07_django_mvt_recognition.md`.
+4. Inspect `07_django_mvt_recognition.md`, then trace the
+   `07_mvt_study_task_app/` example through its source files.
 5. Emphasize recognition, not implementation.
 
 ---

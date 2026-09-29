@@ -1,6 +1,8 @@
 # Week 6 Demo 7 - Django MVT Recognition Preview
 
-This is a recognition-level walkthrough, not a full build target.
+This is a recognition-level walkthrough, not a full build target. Use the
+inspectable `07_mvt_study_task_app/` example beside this note. Students can
+read its `MVT_TRACE.md` and `tasks/` files without running Django.
 
 The purpose is to help students see where Python may live inside a larger web application.
 
@@ -61,10 +63,19 @@ Example idea:
 
 If a user submits a new study task:
 
-1. The form checks the input.
-2. The view decides what to do with the cleaned data.
-3. The model represents or stores the task.
-4. The template displays the result.
+1. `tasks/urls.py` routes `/add/` to `add_task` in `tasks/views.py`.
+2. `tasks/templates/tasks/task_form.html` displays the input fields.
+3. `StudyTaskForm` in `tasks/forms.py` validates the submitted values.
+4. `add_task` saves a valid `StudyTask` defined in `tasks/models.py` and
+   redirects to `/`.
+5. `task_list` retrieves tasks, and `task_list.html` displays them.
+
+Ask students what happens when estimated minutes is `not-a-number`. The form
+shows an error and no task is saved. Forms and URLs support the MVT flow;
+they are not separate letters in MVT.
+
+The student's inspection prompts are in
+`07_mvt_study_task_app/ASSIGNMENT_12_WORKSHEET.md`.
 
 ## Why This Matters
 
@@ -77,4 +88,3 @@ They do need to recognize that Python can move beyond console scripts into:
 * structured application layers
 
 That recognition helps later courses feel less abrupt.
-

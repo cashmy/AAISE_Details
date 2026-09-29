@@ -30,13 +30,17 @@ Your work should demonstrate recognition of:
 
 # Task
 
-Inspect a guided example of a simple Python web-app architecture.
+Inspect the guided Study Task MVT example in
+`Demos/Week_06_APIs_External_Data_and_App_Architecture/07_mvt_study_task_app/`.
+Start with `README.md` and `MVT_TRACE.md`, then inspect the `tasks/` files.
+Use `ASSIGNMENT_12_WORKSHEET.md` for your response. Your instructor may show
+the app running, but you can complete the assignment by reading the files.
 
 You may be asked to identify:
 
 * where user input enters the system
 * where form handling occurs
-* where a view or controller-like function lives
+* where a Django view function handles the request
 * where a template displays output
 * how data moves through the flow
 
@@ -48,7 +52,7 @@ Your instructor may include a small guided edit if appropriate.
 
 Your response should:
 
-* identify the main parts of the example
+* identify the main parts of the example by file or function name
 * explain the basic flow in plain language
 * distinguish this structure from a console-only Python script
 * complete any guided edit if assigned
@@ -67,7 +71,7 @@ If AI is used, you must verify the explanation against the actual example and re
 
 Submit as instructed:
 
-* worksheet, short response, or annotated example
+* completed `ASSIGNMENT_12_WORKSHEET.md`, short response, or annotated example
 * any guided edit if required
 
 ---
@@ -135,4 +139,3 @@ This assignment helps students see why templates, forms, and MVT exist without a
 The key learning target is:
 
 > Python can participate in larger app structures where user input, logic, and display are separated.
-

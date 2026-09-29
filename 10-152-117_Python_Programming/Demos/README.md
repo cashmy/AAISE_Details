@@ -35,6 +35,10 @@ They are meant to support lecture and guided demonstration. They should be simil
 
 Some weeks may include `.md` walkthrough files when the demo is conceptual rather than executable.
 
+Week 6 Demo 7 also includes `07_mvt_study_task_app/`, a minimal runnable
+Django example for Assignment 12. Students can inspect its `MVT_TRACE.md` and
+source files without installing Django.
+
 ## Instructor Notes
 
 Instructor notes are broader teaching narratives that support the demos:
