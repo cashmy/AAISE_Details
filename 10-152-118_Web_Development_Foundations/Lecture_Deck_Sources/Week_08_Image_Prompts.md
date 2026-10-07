@@ -313,6 +313,36 @@ Avoid complex event loop diagrams, dense code, or dark terminal imagery.
 
 # Week 8 Wednesday Recorded Prompts
 
+## Visual Continuity Note - Slide 4 Onward
+
+Observed October 6, 2026: Week 7 images generated in early July use complete
+instructional slide compositions, finer illustration, varied text hierarchy,
+and more material detail than recent Week 8 images. Similar simplification
+was reported in current browser-based ChatGPT tests. This observation does
+not establish a model-version change.
+
+For Wednesday Slide 4 onward, the style instructions inside each prompt
+override the global flat/minimal guidance. Keep the course palette and light
+background. Monday and Wednesday Slides 1-2 retain their original prompts.
+
+Attach a Week 7 style reference, using paths relative to this artifact:
+
+- Diagrams: `../Slide_Decks/Images/Week_07/07-01-03_Debugging_vs_Refactoring.png`
+- Toolbox: `../Slide_Decks/Images/Week_07/07-01-05_Todays_Toolbox.png`
+- Worksheet: `../Slide_Decks/Images/Week_07/07-02-15_AI_Prompt_Pattern.png`
+
+Borrow visual treatment only, not reference wording, unrelated objects,
+examples, or instructional claims. Additional instructional text requires
+approval. The explicit titles and supporting lines below are part of the
+approved pilot treatment; otherwise retain the original labels and captions.
+
+Pilot review: Slide 4 restored title hierarchy, finer illustration, and a
+takeaway band. A targeted edit removed a copied bridge and empty header bars.
+Slide 5 restored realistic tools, foam texture, metal hardware, and depth.
+Both pilots retained their required labels. These results support explicit
+composition and material instructions, without identifying the cause of the
+earlier output change.
+
 ## W08B Slide 1 - Reconnect To Monday
 
 ```text
@@ -355,6 +385,8 @@ Avoid anxious or alarming imagery, dark hacker aesthetics, or busy UI details.
 ```text
 Create a clean instructional PowerPoint visual comparing a timer delay and a data request.
 
+Produce a complete wide 16:9 instructional slide with the title "Delay To Request". Add the supporting line "A timer delay and a data request.". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
 Use a white or very light background. Left side: a clock labeled "delay waits for time." Right side: a request arrow to a small data file labeled "request waits for response." Both feed into the same question at the bottom:
 "What has to wait until later?"
 
@@ -368,7 +400,9 @@ Avoid complex networking diagrams, dense code, or server-room imagery.
 ```text
 Create a clean instructional PowerPoint visual of a tidy toolbox for request-shaped async concepts.
 
-Use a white or very light background. The toolbox should contain simple icon-like items labeled:
+Produce a complete wide 16:9 instructional slide with the title "Request Toolbox". Add the supporting line "Request-shaped async concepts.". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
+Use a white or very light background. Show a realistic open navy toolbox on a lightly textured neutral work surface. Use eight compartments in two rows of four with recognizable physical tools, textured foam, metal latches, realistic material surfaces, and soft contact shadows. Each compartment has a white label tile and a fine-stroke concept icon. The tools are a visual metaphor, not literal programming APIs. Include all eight labels:
 
 - request
 - response
@@ -379,6 +413,8 @@ Use a white or very light background. The toolbox should contain simple icon-lik
 - JSON
 - loading feedback
 
+Use outgoing and returning arrows for request and response, a start arrow for fetch(), a future-result placeholder for Promise, a function symbol for async, a pause symbol for await, structured data for JSON, and a loading indicator for loading feedback. Preserve realistic material detail rather than reducing the toolbox to a cartoon icon tray. Use "Request-shaped async concepts." in the takeaway band. Do not borrow unrelated plants, notebooks, slogans, or labels from the reference.
+
 Use restrained navy, teal, warm gold, white, and soft gray. Make labels large and readable.
 
 Avoid dense code, dark terminal imagery, robots, or advanced API architecture.
@@ -388,6 +424,8 @@ Avoid dense code, dark terminal imagery, robots, or advanced API architecture.
 
 ```text
 Create a clean instructional PowerPoint visual showing request and response as a simple web conversation.
+
+Produce a complete wide 16:9 instructional slide with the title "Request And Response". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show a browser card sending an arrow labeled "request" to a data source card. Show a returning arrow labeled "response" back to the browser card.
 
@@ -402,6 +440,8 @@ Avoid complex network stacks, server racks, dark screens, or cyber-security imag
 
 ```text
 Create a clean instructional PowerPoint visual showing that fetch starts a request but is not the final data.
+
+Produce a complete wide 16:9 instructional slide with the title "fetch Starts Request". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show a card labeled "fetch()" pressing a start button for a request arrow. At the end of the arrow, show a separate response card labeled "arrives later."
 
@@ -418,6 +458,8 @@ Avoid dense JavaScript syntax, dark terminal imagery, or making fetch look like 
 ```text
 Create a clean instructional PowerPoint visual showing a Promise as a future result.
 
+Produce a complete wide 16:9 instructional slide with the title "Promise Future Result". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
 Use a white or very light background. Show a sealed placeholder card labeled "Promise" on a timeline. Later on the timeline, show it becoming a result card labeled "future result."
 
 Add a small caption:
@@ -432,6 +474,8 @@ Avoid legal-contract imagery, complicated code chains, dark terminal imagery, or
 
 ```text
 Create a clean instructional PowerPoint visual showing async/await as readable waiting.
+
+Produce a complete wide 16:9 instructional slide with the title "async/await: Readable Waiting". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show a simple vertical checklist:
 
@@ -455,6 +499,8 @@ Avoid dense code, dark terminal imagery, or implying that waiting disappears.
 ```text
 Create a clean instructional PowerPoint visual showing JSON as structured data with shape.
 
+Produce a complete wide 16:9 instructional slide with the title "JSON Has Shape". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
 Use a white or very light background. Show three simple nested data containers:
 
 - object
@@ -476,6 +522,8 @@ Avoid dense JSON text, tiny punctuation, or complex data trees.
 ```text
 Create a clean instructional PowerPoint visual for a timing order demo.
 
+Produce a complete wide 16:9 instructional slide with the title "Timing Order Demo". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
 Use a white or very light background. Show a simple log list with three large entries:
 
 1. Start now
@@ -493,6 +541,8 @@ Avoid dense code, event-loop internals, dark terminal imagery, or tiny log text.
 
 ```text
 Create a clean instructional PowerPoint visual for a fetch timing shape demo.
+
+Produce a complete wide 16:9 instructional slide with the title "Fetch Timing Demo". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show a four-step path:
 
@@ -513,6 +563,8 @@ Avoid complex networking diagrams, readable code, dark terminal imagery, or API-
 ```text
 Create a clean instructional PowerPoint visual emphasizing that clean async syntax still involves waiting.
 
+Produce a complete wide 16:9 instructional slide with the title "Waiting Still Happens". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
+
 Use a white or very light background. Show a neat checklist on the left and a real timeline on the right. The checklist looks orderly, but the timeline shows a gap labeled "waiting happens here."
 
 Add a small caption:
@@ -527,6 +579,8 @@ Avoid dense code, dark terminal imagery, or confusing event-loop diagrams.
 
 ```text
 Create a clean instructional PowerPoint visual showing AI as an explainer for an async timeline.
+
+Produce a complete wide 16:9 instructional slide with the title "AI Explains Timeline". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show a student-created timeline with request, wait, response, and result markers. Beside it, show a subtle AI explanation panel pointing to the timeline with the labels:
 
@@ -543,6 +597,8 @@ Avoid robots, autonomous code generation, dark AI imagery, or the AI replacing s
 
 ```text
 Create a clean instructional PowerPoint visual showing a useful AI prompt pattern for explaining an async JavaScript timeline.
+
+Produce a complete wide 16:9 instructional slide with the title "Useful AI Prompt Pattern". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Make the visual look like a polished worksheet or form card, not a chatbot screenshot. Show five labeled sections:
 
@@ -564,6 +620,8 @@ Avoid robots, full-code generation visuals, magic imagery, dense code, or anythi
 
 ```text
 Create a clean instructional PowerPoint visual summarizing the beginner async mental model.
+
+Produce a complete wide 16:9 instructional slide with the title "Async Mental Model". Use a relevant title icon, a restrained gold rule, a clearly composed main illustration, and a takeaway band using an existing caption or label from this prompt. Use distinct title, label, and caption sizes, selective color emphasis, fine icon strokes, meaningful layering, subtle depth, and balanced information density. Match the visual treatment of the attached Week 7 reference, adapting all objects to this topic. Keep labels readable without oversized heavy pictograms. Do not copy unrelated reference objects or add wording, examples, or claims beyond the text specified here.
 
 Use a white or very light background. Show three connected cards:
 
