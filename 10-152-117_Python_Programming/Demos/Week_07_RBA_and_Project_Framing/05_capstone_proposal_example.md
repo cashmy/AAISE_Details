@@ -14,41 +14,50 @@ Create a Python console app that helps a student track small assignment tasks fo
 
 ## Main Features
 
-* add a task
-* list current tasks
-* mark a task complete
-* show total planned minutes
+- add a task
+- list current tasks
+- mark a task complete
+- show total planned minutes
+
+---
+
+## Proposed/Backlog Features
+
+- add a deadline for tasks
+- delete a task
+- edit a task
+- add a menu item for displaying help. This would be read into the program using a help text file.
 
 ---
 
 ## Inputs
 
-* course name
-* task name
-* estimated minutes
-* completion status
+- course name
+- task name
+- estimated minutes
+- completion status
 
 ---
 
 ## Outputs
 
-* readable task list
-* completion messages
-* total planned minutes
+- readable task list
+- completion messages
+- total planned minutes
 
 ---
 
 ## Likely Structure
 
-* list of dictionaries for task data
-* functions for add, display, complete, and summarize
+- list of dictionaries for task data
+- functions for add, display, complete, and summarize
 
 ---
 
 ## Risks
 
-* adding deadlines, files, and analytics may make the project too large
-* task deletion and editing could increase complexity if added too early
+- adding deadlines, files, and analytics may make the project too large
+- task deletion and editing could increase complexity if added too early
 
 ---
 
@@ -56,19 +65,18 @@ Create a Python console app that helps a student track small assignment tasks fo
 
 AI may be used to:
 
-* compare function organization
-* suggest validation checks
-* review output wording
+- compare function organization
+- suggest validation checks
+- review output wording
 
 AI will not choose:
 
-* project purpose
-* final scope
-* whether the code is correct without testing
+- project purpose
+- final scope
+- whether the code is correct without testing
 
 ---
 
 ## Why the Scope Is Realistic
 
 The project uses course concepts already covered, stays console-based, and can be explained clearly by the student.
-
