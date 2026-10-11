@@ -1,3 +1,11 @@
 *.mp4
 Code_Sample*.*
 tmp/
+
+# Generated runtime/build artifacts
+**/node_modules/
+**/outputs/
+**/scripts/
+**/legacy/
+**/__pycache__/
+~$*
