@@ -1,0 +1,19 @@
+# Instructor delivery notes stay local, including notes in future demo folders.
+**/notes.md
+
+# Python environment and runtime artifacts.
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.ruff_cache/
+
+# Generated evidence; keep committed expected examples in expected/ instead.
+**/output/
+**/outputs/
+
+# Local configuration.
+.env
+.env.*
+!.env.example
