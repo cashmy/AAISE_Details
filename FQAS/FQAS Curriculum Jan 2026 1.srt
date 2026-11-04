@@ -1,0 +1,6792 @@
+1
+00:00:00,000 --> 00:00:07,160
+All right, so sorry those of you online, I can't figure out how to see you while I'm
+
+2
+00:00:07,160 --> 00:00:11,320
+doing a PowerPoint, so bear with me on that.
+
+3
+00:00:11,320 --> 00:00:18,400
+Okay, so when you hear the term performance-based learning, what do you think of?
+
+4
+00:00:18,400 --> 00:00:21,720
+You think cars?
+
+5
+00:00:22,240 --> 00:00:34,080
+You think cars? Okay, I think just striving to get better, to perform
+
+6
+00:00:34,080 --> 00:00:40,800
+higher in the classroom. Okay, all right. Anybody else online want to say
+
+7
+00:00:40,800 --> 00:00:43,720
+something about performance-based learning, what they think of when they
+
+8
+00:00:43,720 --> 00:00:50,760
+hear that term? This is Marlene. I think of being active, doing something active.
+
+9
+00:00:51,520 --> 00:01:00,840
+Physically. Okay, active, doing something physically, good.
+
+10
+00:01:10,880 --> 00:01:18,080
+Okay, so performance-based learning typically includes activity, this is the
+
+11
+00:01:18,120 --> 00:01:22,720
+definition we're going to use, includes activities and tasks that are authentic
+
+12
+00:01:22,720 --> 00:01:26,800
+and meaningful to the students. Performance-based learning focuses on
+
+13
+00:01:26,800 --> 00:01:31,960
+how the content is taught and assessed, not on the specific information covered
+
+14
+00:01:31,960 --> 00:01:37,000
+in the course, so it can be applied across different content areas and
+
+15
+00:01:37,000 --> 00:01:43,480
+instructional levels, okay, really demonstrating something. Okay, so when you
+
+16
+00:01:43,480 --> 00:01:49,280
+think about being a technical college and what we teach here at the technical
+
+17
+00:01:49,280 --> 00:01:54,520
+college, we're teaching that performance-based learning, right? Lauren, I'm
+
+18
+00:01:54,520 --> 00:02:00,480
+looking at you right away, right, with Cosmo, like you have the salon down there,
+
+19
+00:02:00,480 --> 00:02:04,560
+the students are performing every day when they're practicing and you're
+
+20
+00:02:04,560 --> 00:02:11,640
+giving them pointers, right, on how to do nails or how to improve, so they're
+
+21
+00:02:12,440 --> 00:02:17,160
+getting that work and that hands-on and that performance-based every day.
+
+22
+00:02:17,160 --> 00:02:26,920
+So we're going to start by reviewing Maslow's hierarchy of needs. I'm hoping
+
+23
+00:02:26,920 --> 00:02:31,440
+that this, everyone has probably seen this a little bit, sometime in their life
+
+24
+00:02:31,440 --> 00:02:38,760
+they've been familiar with it, but understanding Maslow's pyramid
+
+25
+00:02:38,800 --> 00:02:45,000
+really helps us understand how we can help our students perform. So we're going
+
+26
+00:02:45,000 --> 00:02:50,440
+to start with a short two-minute video. Those of you online, I marked share sound,
+
+27
+00:02:50,440 --> 00:02:57,880
+so it should work. Give me, yell at me or something if it does it. So again, it's
+
+28
+00:02:57,880 --> 00:03:02,920
+about a two-minute video to introduce us to the concepts.
+
+29
+00:03:08,760 --> 00:03:23,600
+Maslow's hierarchy of needs is one of the best-known theories of motivation. It
+
+30
+00:03:23,600 --> 00:03:27,720
+was developed by humanistic psychologist Abraham Maslow in the mid 20th century.
+
+31
+00:03:27,720 --> 00:03:32,360
+This theory suggests people are motivated to fulfill basic needs before
+
+32
+00:03:32,360 --> 00:03:38,760
+moving on to more advanced needs. As a humanist, Maslow believed people are
+
+33
+00:03:38,760 --> 00:03:42,800
+born with a desire to be self-actualized, which in his own words may be loosely
+
+34
+00:03:42,800 --> 00:03:46,760
+described as the full use and exploitation of talents, capabilities, and
+
+35
+00:03:46,760 --> 00:03:51,520
+potentials. However, in order to achieve these ultimate goals, more basic needs
+
+36
+00:03:51,520 --> 00:03:56,960
+like food, safety, and self-esteem must be met. Maslow's hierarchy is often
+
+37
+00:03:56,960 --> 00:04:02,200
+displayed as a pyramid. At the base are the most basic psychological needs, food,
+
+38
+00:04:02,200 --> 00:04:08,880
+water, sleep, and warmth. At the second level, the needs for security and safety
+
+39
+00:04:08,880 --> 00:04:12,320
+become primary. This can include financial security, health and wellness,
+
+40
+00:04:12,320 --> 00:04:17,200
+and safety from injury. Progression up the pyramid deepens the significance of
+
+41
+00:04:17,200 --> 00:04:22,080
+social needs like love, friendship, and intimacy. The fourth level in Maslow's
+
+42
+00:04:22,080 --> 00:04:25,600
+hierarchy prioritizes the need for personal esteem and feelings of
+
+43
+00:04:25,600 --> 00:04:30,520
+accomplishment. At the very peak of Maslow's hierarchy are the self-actualization
+
+44
+00:04:30,520 --> 00:04:34,960
+needs. Here people are self-aware, concerned with personal growth, less
+
+45
+00:04:34,960 --> 00:04:38,120
+concerned with the opinions of others, and interested in fulfilling their
+
+46
+00:04:38,120 --> 00:04:43,320
+potential. Rather than focusing on a normal behavior and development, Maslow's
+
+47
+00:04:43,320 --> 00:04:46,960
+humanistic psychology takes a different approach, focusing on the development of
+
+48
+00:04:46,960 --> 00:04:50,920
+healthy individuals. And while there is relatively little research supporting
+
+49
+00:04:50,920 --> 00:04:54,480
+the theory, Maslow's hierarchy of needs represents an important shift in the
+
+50
+00:04:54,480 --> 00:04:57,480
+field of psychology.
+
+51
+00:05:00,520 --> 00:05:11,760
+Okay, so we have that pyramid there that shows us meeting the basic needs first
+
+52
+00:05:11,760 --> 00:05:18,200
+and then moving up to that self-actualization. If you think about it,
+
+53
+00:05:18,200 --> 00:05:24,080
+our students perform the best in the classroom when all these needs are met
+
+54
+00:05:24,320 --> 00:05:32,680
+first, right? And they perform better in the classroom when those needs are met,
+
+55
+00:05:32,680 --> 00:05:40,600
+which is why on campus we have Robin to help with mental health, we
+
+56
+00:05:40,600 --> 00:05:51,280
+have the food pantry, we have resources, we have the charger dream fund,
+
+57
+00:05:52,040 --> 00:05:59,560
+or grants that people can get gas cards, right? Because those of us that have been
+
+58
+00:05:59,560 --> 00:06:04,400
+in the classroom a while, or even maybe just a short time, we have seen, right?
+
+59
+00:06:04,400 --> 00:06:08,840
+Sometimes you see a student who's performing well, or all of a sudden
+
+60
+00:06:08,840 --> 00:06:12,800
+something happens, or they appear to be struggling, but like you know that they
+
+61
+00:06:12,800 --> 00:06:18,200
+can do it. And sometimes it's because they're focusing on meeting these needs
+
+62
+00:06:18,360 --> 00:06:24,240
+down here first before they can really perform well. You know, maybe they're
+
+63
+00:06:24,240 --> 00:06:30,920
+working a job outside of class 40 hours a week and trying to go full-time, raise
+
+64
+00:06:30,920 --> 00:06:37,040
+a family, okay? And so sometimes performing in the classroom might not be
+
+65
+00:06:37,040 --> 00:06:43,480
+their top priority. And so when we understand this, we can kind of
+
+66
+00:06:43,480 --> 00:06:50,400
+help plan our curriculum and our assessments to really aid in being
+
+67
+00:06:50,400 --> 00:06:56,320
+fulfilled, being creative, being spontaneous, right? Problem solving and
+
+68
+00:06:56,320 --> 00:07:05,560
+in doing that. Okay. This one is something else you probably have heard. In fact, I see
+
+69
+00:07:05,560 --> 00:07:08,800
+it sitting right here from another FQAS session, okay?
+
+70
+00:07:09,240 --> 00:07:16,120
+Bloom's Technology, okay? This is the hierarchical model that classifies
+
+71
+00:07:16,120 --> 00:07:22,840
+learning objectives into six skills, each representing a different
+
+72
+00:07:22,840 --> 00:07:29,120
+cognitive skill. And you can see that we start down here at remembering,
+
+73
+00:07:29,120 --> 00:07:34,760
+understanding, applying, analyzing, evaluating, and creating. And these are the
+
+74
+00:07:34,760 --> 00:07:43,800
+lower thinking skills, and these are the higher thinking skills. And when we talk
+
+75
+00:07:43,800 --> 00:07:47,320
+about curriculum development, specifically when we're writing
+
+76
+00:07:47,320 --> 00:07:53,760
+curriculum in WIDS, okay, and we're writing those course competencies, we
+
+77
+00:07:53,760 --> 00:08:00,600
+really want to focus on these higher order thinking skills, okay? And so we're
+
+78
+00:08:00,600 --> 00:08:03,640
+going to take some time here to see that, but we're going to look at competencies in
+
+79
+00:08:03,640 --> 00:08:12,040
+your class, and hopefully you see verbs associated with that. Okay, this slide is
+
+80
+00:08:12,040 --> 00:08:20,960
+actually in Schoology, in the class that you're in, so you can go out there and use it,
+
+81
+00:08:20,960 --> 00:08:29,480
+maybe print it off, but this is a slide that gives you verbs that you can use,
+
+82
+00:08:30,440 --> 00:08:38,400
+okay, on here to help you understand what you're asking the students to do at each
+
+83
+00:08:38,400 --> 00:08:44,000
+level, okay? And so you can see when we're talking about the lower level, we're
+
+84
+00:08:44,000 --> 00:08:49,640
+talking about asking students to do things like arrange, define, describe,
+
+85
+00:08:49,640 --> 00:08:58,120
+order, outline, very simplistic concepts. But when we get up here to things like
+
+86
+00:08:58,120 --> 00:09:04,640
+analysis, synthesis, evaluation, okay, we're looking at, we want them to do
+
+87
+00:09:04,640 --> 00:09:15,120
+things like conclude, evaluate, categorize, summarize, calculate, okay? We're
+
+88
+00:09:15,120 --> 00:09:22,600
+really looking at a higher level, higher level things that we're asking them to
+
+89
+00:09:22,600 --> 00:09:30,120
+do. And when we look at these higher level verbs up here, are these verbs more
+
+90
+00:09:30,120 --> 00:09:38,040
+performance-based verbs really performing something up here? Then we are down here,
+
+91
+00:09:38,040 --> 00:09:46,560
+right? Up here we can really see, like, assemble, okay? So I'm thinking automation
+
+92
+00:09:46,560 --> 00:09:53,880
+stuff, right? We're assembling stuff. Medical lab, right? Back there, what would
+
+93
+00:09:53,880 --> 00:09:58,440
+be a good one related to that? You're setting things up, right? Can you
+
+94
+00:09:58,440 --> 00:10:05,480
+specifically set it up? Cosmo, you know, what would be a good one for Cosmo?
+
+95
+00:10:05,480 --> 00:10:11,840
+Experimenting, right? You know, so you can see that there's definitely different
+
+96
+00:10:11,840 --> 00:10:19,200
+things associated with that. Another thing I want to show you and I
+
+97
+00:10:19,200 --> 00:10:27,380
+believe, here is another form, I think this one's on Schoology as well, as a way
+
+98
+00:10:27,380 --> 00:10:37,440
+to really think about those critical thinking skills and applying them to
+
+99
+00:10:37,480 --> 00:10:41,840
+two different verbs and questions to ask yourself as you're writing that
+
+100
+00:10:41,840 --> 00:10:51,400
+curriculum, as you're writing in those course competencies. So one thing I
+
+101
+00:10:51,400 --> 00:11:10,880
+do have is what I call my verb list. And I've had this verb list for a very long
+
+102
+00:11:10,880 --> 00:11:19,400
+time, since I took this course years ago, which things have changed how it was
+
+103
+00:11:19,400 --> 00:11:29,240
+there. But my verb list looks like this.
+
+104
+00:11:50,400 --> 00:11:56,480
+Anyways, I have a verb list that looks like this, okay? And it's supposed to be
+
+105
+00:11:56,480 --> 00:12:01,280
+on Schoology, I don't want to start working there. And you can see, again, it's based on the
+
+106
+00:12:01,280 --> 00:12:08,920
+lower to higher Bloom's technology. And one of the first things I do when I'm
+
+107
+00:12:08,920 --> 00:12:17,080
+writing course competencies is I dig out my verb list. And I start with my verb
+
+108
+00:12:17,080 --> 00:12:21,440
+list, because when you write those course competencies, that curriculum, you
+
+109
+00:12:21,440 --> 00:12:26,700
+want them to start with an action verb. And so I use this verb list to help
+
+110
+00:12:26,700 --> 00:12:35,480
+decide what we're going to physically ask the student to do. So just to give
+
+111
+00:12:35,480 --> 00:12:43,280
+you an example, we're going to go to WIDS now.
+
+112
+00:12:47,080 --> 00:13:00,960
+All right, so in WIDS, for those of you that don't know, WIDS is our curriculum
+
+113
+00:13:00,960 --> 00:13:06,720
+software program that we use, and that's what WTCS system use. Lisa Riley and Tina
+
+114
+00:13:06,720 --> 00:13:14,760
+Lees on campus are our WIDS people. So if you need help specifically like putting
+
+115
+00:13:14,760 --> 00:13:20,160
+stuff in there, or getting new classes in there, or you're having issues getting
+
+116
+00:13:20,160 --> 00:13:26,600
+in to change something, let them know. When it comes to using them, you can
+
+117
+00:13:26,600 --> 00:13:32,080
+reach out to me. We have WIDS coaches on campus through the curriculum committee.
+
+118
+00:13:32,080 --> 00:13:36,600
+I'm not sure who actually they all are. I know Joe Brandil is one, I think Chris
+
+119
+00:13:36,600 --> 00:13:44,320
+Scoville is one. You can reach out to them for help as well. But I want to show
+
+120
+00:13:44,320 --> 00:13:48,120
+you my favorite classes.
+
+121
+00:13:59,040 --> 00:14:03,880
+Okay, so this is a course that I teach. Actually, it's a course I've been teaching
+
+122
+00:14:03,880 --> 00:14:10,600
+for 17 years, and I have changed it a couple times as we've gone
+
+123
+00:14:10,600 --> 00:14:15,240
+through different curriculum changes. So when you log into WIDS, when you blend
+
+124
+00:14:15,240 --> 00:14:22,560
+your course, you're going to come to a page that looks like this. And here, you
+
+125
+00:14:22,560 --> 00:14:30,760
+will see things, you will see your course outcomes, right? The course competency. So
+
+126
+00:14:30,760 --> 00:14:37,800
+I want you to look through, as I show you this class, this particular class, you
+
+127
+00:14:37,840 --> 00:14:43,120
+will notice we have course competencies, and each competency has learning
+
+128
+00:14:43,120 --> 00:14:49,560
+objectives, okay? What I want you to pay attention to here is, as we, these course
+
+129
+00:14:49,560 --> 00:14:54,760
+competencies, are you seeing those higher level verbs associated with looms
+
+130
+00:14:54,760 --> 00:15:04,640
+technology here? Summarize, okay? So the main, the main competency should be those
+
+131
+00:15:04,640 --> 00:15:12,240
+higher level looms text, sexonomy verbs. You get down to these learning objectives, it's
+
+132
+00:15:12,240 --> 00:15:21,520
+okay to use some of those lower level verbs, like explain, discuss, because you
+
+133
+00:15:21,560 --> 00:15:29,840
+sometimes you have to do those lower level activities first in order to totally
+
+134
+00:15:29,840 --> 00:15:37,440
+be able to summarize, right? And so you can see those different things on here.
+
+135
+00:15:37,440 --> 00:15:42,320
+Here we have diagram. I think diagram might actually be a lower level one, but
+
+136
+00:15:42,320 --> 00:15:47,160
+for this particular thing, it works well, right? I want them to diagram. But then I
+
+137
+00:15:47,160 --> 00:16:01,160
+get down here, demonstrate, right? Evaluate, okay? Categorize, okay? So what I'm asking
+
+138
+00:16:01,160 --> 00:16:05,240
+students to do here, these are probably the three major ones, categorize,
+
+139
+00:16:05,240 --> 00:16:12,480
+evaluate, demonstrate, okay? Methods to test feed. You know, I, we're talking
+
+140
+00:16:12,480 --> 00:16:17,640
+about evaluating the feed test report. My students are physically given a feed
+
+141
+00:16:17,640 --> 00:16:23,640
+test report, and they have to look at it and tell me how is that going to impact
+
+142
+00:16:23,640 --> 00:16:30,800
+the energy level that the cow eats? How is it going to impact milk production?
+
+143
+00:16:30,800 --> 00:16:36,920
+How's it going to impact how that animal grows? Is it going to impact how well
+
+144
+00:16:36,920 --> 00:16:42,760
+they eat it, the digestibility and their intake? Okay, I'm not speaking Austin's
+
+145
+00:16:42,760 --> 00:16:47,720
+terms a little bit. I know this background, but you know, but those types
+
+146
+00:16:47,720 --> 00:16:54,840
+of things. And it's challenging for the students at first to really comprehend
+
+147
+00:16:54,840 --> 00:17:01,160
+and pull all that together, but through lots of practice, they're able to do
+
+148
+00:17:01,200 --> 00:17:09,520
+that, okay? And I'm able to actually, because I'm a dairy farmer myself, I use
+
+149
+00:17:09,520 --> 00:17:15,280
+our test report. So they're seeing real actual stuff that we use every day on our
+
+150
+00:17:15,280 --> 00:17:19,080
+farm. I actually work with my nutritionist too, and she doesn't like to
+
+151
+00:17:19,080 --> 00:17:25,840
+share with me, but I'll be like, Katie, I need some bad feed reports. And she's
+
+152
+00:17:25,840 --> 00:17:31,960
+like, oh, okay. So I can show what a bad corn silage is, or what a bad haylage is,
+
+153
+00:17:31,960 --> 00:17:37,600
+so they can see the difference in the numbers. And then how I totally assess
+
+154
+00:17:37,600 --> 00:17:47,400
+that one is they are given a stack of haylage reports, a stack of corn silage
+
+155
+00:17:47,400 --> 00:17:52,680
+reports, and a stack of dry hay reports, and they have to rate that. Which one do
+
+156
+00:17:52,680 --> 00:17:57,060
+they consider the best, and which one do they consider the worst, and why? And they
+
+157
+00:17:57,060 --> 00:18:05,120
+have to use the term digestibility, dry matter intake, okay, protein, energy. They
+
+158
+00:18:05,120 --> 00:18:10,960
+have to use all that to really show and demonstrate, and help show me that they
+
+159
+00:18:10,960 --> 00:18:20,240
+can evaluate a feed test report, okay? You will also see as you look through
+
+160
+00:18:20,280 --> 00:18:29,240
+with here, okay, they evaluate assessment strategies. We talked about the objectives,
+
+161
+00:18:29,240 --> 00:18:33,280
+those lower levels. We will also see under each one here in some assessment
+
+162
+00:18:33,280 --> 00:18:44,080
+strategies, how different ways that you could use to assess, and then how will the
+
+163
+00:18:44,080 --> 00:18:49,080
+student know when they are successful. So right here you can see write a report
+
+164
+00:18:49,120 --> 00:18:59,640
+explaining the details of the feed test report. And so those understanding, those
+
+165
+00:18:59,640 --> 00:19:03,680
+different types of assessments in this program. One thing I also like to do is I
+
+166
+00:19:03,680 --> 00:19:10,040
+like to do scenarios. In a lot of my advanced level classes, we'll give
+
+167
+00:19:10,040 --> 00:19:15,840
+them a scenario and tell them, especially when we're balancing rations, okay, what
+
+168
+00:19:15,840 --> 00:19:24,320
+are you going to do in this scenario? Demonstrations for this class. Like I said,
+
+169
+00:19:24,320 --> 00:19:34,080
+using the feed test reports, but I also take them out to the farm, and I make
+
+170
+00:19:34,080 --> 00:19:40,840
+them walk cows, okay? So when we're, with my farm being only five minutes from
+
+171
+00:19:40,840 --> 00:19:45,560
+campus, it gives quite a bit to the farm. But when we're talking about the
+
+172
+00:19:45,560 --> 00:19:50,840
+digestibility of feeds in cattle, we're talking about you got to analyze their
+
+173
+00:19:50,840 --> 00:19:57,040
+feces, their poop, okay? Comes with the game, all right? So I make them go up to
+
+174
+00:19:57,040 --> 00:20:04,480
+my farm and tell me my cows have good or bad poop, right? And it's, I think it's
+
+175
+00:20:04,480 --> 00:20:10,080
+one of the funnest labs. Some of them enjoy it. Some of them hate it. Some of
+
+176
+00:20:10,080 --> 00:20:13,160
+them definitely determine they do not want it. It's funny, they come into animal
+
+177
+00:20:13,160 --> 00:20:17,720
+nutrition class, and they want to work in animal nutrition. I know Austin's sister
+
+178
+00:20:17,720 --> 00:20:23,400
+does. And then they leave the class, I don't want anything to do with it. So
+
+179
+00:20:23,400 --> 00:20:28,160
+it's, so it's, so there's a lot of different ways that we have that we
+
+180
+00:20:28,160 --> 00:20:32,360
+demonstrate those performance-based learnings. So think about that. Any
+
+181
+00:20:32,360 --> 00:20:42,240
+questions on using this? Now, something I've added to this is, let's see if
+
+182
+00:20:42,240 --> 00:20:59,600
+we can get it. We have AI on campus, right? And we, we're promoting using it for
+
+183
+00:20:59,600 --> 00:21:07,000
+different things, right? So, you know, you could use AI to help you design
+
+184
+00:21:07,000 --> 00:21:11,560
+performance-based learning. So I'm going to go back here to WIDS. Let's just say I
+
+185
+00:21:11,680 --> 00:21:17,760
+have my course description, okay? I'm going to go ahead and I'm going to copy
+
+186
+00:21:17,760 --> 00:21:24,520
+that. Now, I'm not a Chad G. Kravitz either, okay? But we're going to try this. So I'm
+
+187
+00:21:24,520 --> 00:21:30,480
+going to paste it in here, and then I'm going to say, using this course
+
+188
+00:21:30,480 --> 00:21:45,160
+description, come up with a variety of performance-based learning activities
+
+189
+00:21:45,160 --> 00:22:01,560
+that could be done with a, be done in an animal nutrition course for associate
+
+190
+00:22:01,560 --> 00:22:10,600
+degree level students. And I've never done this before, so let's see what
+
+191
+00:22:10,600 --> 00:22:29,320
+happens here. Ration formulation, rationality, feed cost optimization, life
+
+192
+00:22:29,320 --> 00:22:35,520
+stage adjustment exercise, nutritional needs of different species. Notice they're
+
+193
+00:22:35,520 --> 00:22:39,560
+starting to give us tasks. Comparative nutrition setting. Let's just say I wish, I
+
+194
+00:22:39,800 --> 00:22:45,760
+wish I had this like 10 years ago, five years ago, right? When I was revising this.
+
+195
+00:22:45,760 --> 00:22:56,080
+Feedstuffs, okay? And as we look through this, notice we can, they've got sub verbs
+
+196
+00:22:56,080 --> 00:23:01,200
+in here, right? Performance evidence, identification, understanding. So we
+
+197
+00:23:01,200 --> 00:23:08,480
+could, you could take that advisory role. Oh, I like that. You could take that and
+
+198
+00:23:08,480 --> 00:23:15,040
+you can look at what they have and use that to get you started, okay? When it
+
+199
+00:23:15,040 --> 00:23:20,720
+comes to writing your competencies and objectives, okay? A few little tweaks that
+
+200
+00:23:20,720 --> 00:23:25,240
+need to be done. You know how many hours I spent trying to analyze this list to
+
+201
+00:23:25,240 --> 00:23:32,680
+figure out which verb I wanted to use, right? And so it comes quite a bit. Any
+
+202
+00:23:32,720 --> 00:23:40,760
+questions on anything? Any questions from those of you online? Okay, what I want you
+
+203
+00:23:40,760 --> 00:23:52,320
+to do right now is I want you to log into WIDS and I know there's a lot of
+
+204
+00:23:52,320 --> 00:23:58,680
+adult education instructors online. I don't know what your access is. If you
+
+205
+00:23:58,680 --> 00:24:06,600
+don't have access to WIDS, I did put in Schoology here some WIDS examples. I
+
+206
+00:24:06,600 --> 00:24:11,760
+threw some, I just randomly went out there and put some course outcome
+
+207
+00:24:11,760 --> 00:24:17,200
+summaries that have these competencies and stuff in there. So feel free to use
+
+208
+00:24:17,200 --> 00:24:21,360
+those. Those of you that are program instructors, I really would like you to
+
+209
+00:24:21,360 --> 00:24:30,240
+go into WIDS if you can. Miranda, I don't know if you have access to WIDS. Okay, so
+
+210
+00:24:30,240 --> 00:24:34,120
+hopefully you can get in. If not, I was gonna say you can share with Lauren, but
+
+211
+00:24:34,120 --> 00:24:40,880
+good. Get into WIDS. Ty, I can help you get in. Find a course that you teach and I
+
+212
+00:24:40,880 --> 00:24:46,520
+really want you to take about 10 minutes here and I want you to review and check
+
+213
+00:24:46,680 --> 00:24:54,360
+out those competencies and objectives and are you seeing terms
+
+214
+00:24:54,360 --> 00:25:01,560
+they're related to Bloom's? And then I want you to think of, as you'll see in
+
+215
+00:25:01,560 --> 00:25:06,920
+WIDS, we talked about there's examples there of things that you can do to
+
+216
+00:25:06,920 --> 00:25:11,400
+assess that performance, phase 30, but I want you to think, especially because
+
+217
+00:25:11,640 --> 00:25:18,040
+you're the ones teaching this class now, right? What would you do? What could you
+
+218
+00:25:18,040 --> 00:25:27,680
+do as a performance-based assessment to test, assess that competency? Is it
+
+219
+00:25:27,680 --> 00:25:32,440
+tweaking one you already use? Do you have another idea that's coming to mind
+
+220
+00:25:32,440 --> 00:25:38,320
+that could maybe be better of what was used by your predecessor, okay? So I want
+
+221
+00:25:38,680 --> 00:25:45,000
+to take some time now. Like I said, I'll start with about 10 minutes and really
+
+222
+00:25:45,000 --> 00:25:50,800
+work through that, see what you can find, see what you can come up with, and then
+
+223
+00:25:50,800 --> 00:25:56,480
+we'll come back and share. Those of you online, go ahead and do this. In about 10
+
+224
+00:25:56,480 --> 00:26:00,840
+minutes, I'm gonna actually put those of you in line into breakout groups so that
+
+225
+00:26:00,840 --> 00:26:06,240
+way you can share with each other what you came up with. Any questions on
+
+226
+00:26:06,720 --> 00:26:12,240
+that? Christine, this is Marlene Klein. I don't know if this is appropriate or
+
+227
+00:26:12,240 --> 00:26:19,520
+not. My curriculum, our all basic ed curriculum, we have it on the Wisconsin
+
+228
+00:26:19,520 --> 00:26:28,320
+Technical College site. How do we download? Does it automatically download?
+
+229
+00:26:29,760 --> 00:26:34,560
+All right, that's a question that I'm not aware. I can't help you with that question, Marlene.
+
+230
+00:26:34,640 --> 00:26:38,640
+All right, that's fine. Thank you. I don't know if maybe some of the other adult
+
+231
+00:26:38,640 --> 00:26:46,480
+education instructors can help you with that, but I'm, yeah, sorry. No, that's fine. I just
+
+232
+00:26:46,480 --> 00:26:52,880
+threw it out there because I can look at my thing on the Wisconsin Technical
+
+233
+00:26:52,880 --> 00:26:58,240
+College site, so that's not a problem. I just was curious to see if there was an easy way to download
+
+234
+00:26:58,240 --> 00:27:05,120
+into our WIDS. Yeah, that would be at least a Tina question. Those of you that are adult ed,
+
+235
+00:27:05,120 --> 00:27:08,640
+thank you for bringing that up, Marlene, that you have access to what you guys have to teach in
+
+236
+00:27:08,640 --> 00:27:13,760
+those competencies on the website. Feel free to go use that instead of WIDS and to look at your
+
+237
+00:27:13,760 --> 00:27:22,800
+guys' specific because I want you to really make this activity related to what you're doing
+
+238
+00:27:23,360 --> 00:27:29,120
+in the classes that you teach. So go do that. And like I said, in about 10 minutes,
+
+239
+00:27:29,840 --> 00:27:33,840
+I'll put online into breakout groups. You guys can share with each other.
+
+240
+00:27:38,800 --> 00:27:40,560
+Adult ed curriculum is also...
+
+241
+00:27:44,240 --> 00:27:49,760
+This stuff is going to be rewritten by the end of the year. Those of you online,
+
+242
+00:27:49,760 --> 00:27:53,840
+I am going to go ahead and mute the classroom right now, try to help me remember guys in here
+
+243
+00:27:53,840 --> 00:28:01,680
+that I'm meeting so you're not hearing the backfeed in us talk.
+
+244
+00:36:49,760 --> 00:36:57,120
+Okay, those of you online... Oh, I see a chat. Did I miss that?
+
+245
+00:37:02,400 --> 00:37:09,600
+I'm going to go ahead and break those of you online into, I think, three breakout groups.
+
+246
+00:37:10,400 --> 00:37:16,480
+And you guys can just share a little bit about the information that you found, the competencies,
+
+247
+00:37:17,040 --> 00:37:26,480
+and that you feedback virtual, shared neighbor feedbacks, share maybe the performance
+
+248
+00:37:26,480 --> 00:37:31,280
+assessment idea you came up with. And I'll give you a few minutes to that and then I'll bring you
+
+249
+00:37:31,280 --> 00:37:38,400
+back in. All right, breakout rooms. I'm going to put you into three and I'm just going to do
+
+250
+00:37:38,960 --> 00:37:44,320
+assign automatically and you'll just go. Here we go.
+
+251
+00:37:47,120 --> 00:37:54,320
+Okay, so those of you here face-to-face.
+
+252
+00:37:54,320 --> 00:38:02,160
+Okay, so those of you here face-to-face.
+
+253
+00:38:24,320 --> 00:38:30,160
+Okay, so those of you here face-to-face.
+
+254
+00:38:54,320 --> 00:39:00,160
+Okay, so those of you here face-to-face.
+
+255
+00:39:24,320 --> 00:39:30,160
+Okay, so those of you here face-to-face.
+
+256
+00:39:54,320 --> 00:40:00,160
+Okay, so those of you here face-to-face.
+
+257
+00:40:24,320 --> 00:40:30,160
+Okay, so those of you here face-to-face.
+
+258
+00:40:54,320 --> 00:41:00,160
+Okay, so those of you here face-to-face.
+
+259
+00:41:24,320 --> 00:41:30,160
+Okay, so those of you here face-to-face.
+
+260
+00:41:54,320 --> 00:42:00,160
+Okay, so those of you here face-to-face.
+
+261
+00:42:24,320 --> 00:42:30,160
+Okay, so those of you here face-to-face.
+
+262
+00:44:54,320 --> 00:45:00,160
+Okay, so those of you here face-to-face.
+
+263
+00:45:24,320 --> 00:45:30,160
+Okay, so those of you here face-to-face.
+
+264
+00:45:39,760 --> 00:45:45,200
+Megan, are you on virtual? Yeah, I just figured since all of the
+
+265
+00:45:45,200 --> 00:45:51,920
+adult ed people are in there, if I have questions for them.
+
+266
+00:45:51,920 --> 00:45:56,480
+Okay, if we, like when we, because we're trying to do this at the end, like
+
+267
+00:45:56,480 --> 00:45:58,720
+little things, if you want to like go up across the
+
+268
+00:45:58,720 --> 00:46:01,680
+hallway to a different room, like join their breakout room to discuss
+
+269
+00:46:01,680 --> 00:46:08,240
+some of them, I would be cool with that, okay?
+
+270
+00:46:08,240 --> 00:46:12,160
+All right, all right, all right.
+
+271
+00:46:12,720 --> 00:46:20,560
+Everybody back? I'm doing this. All right, is everybody
+
+272
+00:46:20,560 --> 00:46:23,840
+back? Good, I hope that those of you online
+
+273
+00:46:23,840 --> 00:46:31,520
+enjoyed some sharing with your groups about what the different
+
+274
+00:46:31,520 --> 00:46:37,600
+things that you learned. We're going to, we discussed
+
+275
+00:46:37,600 --> 00:46:40,560
+here in the class, and we're just, I want to go ahead and keep moving
+
+276
+00:46:40,560 --> 00:46:45,120
+on. If you need to step away from your computer for a minute or two,
+
+277
+00:46:45,120 --> 00:46:49,600
+feel free to, but because those of us on campus do have something else
+
+278
+00:46:49,600 --> 00:46:52,800
+at 12 30, I'm just going to go ahead and keep moving
+
+279
+00:46:52,800 --> 00:46:58,240
+and pushing through this right now. So, we're going to move on, let me get the
+
+280
+00:46:58,240 --> 00:47:02,480
+power point up. Okay,
+
+281
+00:47:02,480 --> 00:47:09,440
+I have them on there. Okay, activity time.
+
+282
+00:47:09,440 --> 00:47:13,920
+Okay, and I knew that. All right, so we're going to move on to
+
+283
+00:47:13,920 --> 00:47:21,600
+formative and summative assessment. Okay, so what is the difference
+
+284
+00:47:21,600 --> 00:47:29,840
+between formative and summative assessment? Formative assessment is
+
+285
+00:47:29,840 --> 00:47:34,720
+when we evaluate how someone is learning
+
+286
+00:47:34,720 --> 00:47:38,240
+material throughout a course. Okay, typically
+
+287
+00:47:38,240 --> 00:47:42,800
+it takes place during a course. You do it on a regular basis.
+
+288
+00:47:42,800 --> 00:47:48,480
+It's very flexible. It helps to keep students engaged.
+
+289
+00:47:48,480 --> 00:47:51,360
+This type of assessment does not necessarily
+
+290
+00:47:51,360 --> 00:47:58,320
+have to be be graded. Okay, so for example,
+
+291
+00:47:58,320 --> 00:48:02,000
+some formative assessments that I do when I'm
+
+292
+00:48:02,000 --> 00:48:06,240
+lecturing throughout a powerpoint, I might
+
+293
+00:48:06,240 --> 00:48:13,200
+every few slides, I'll say review and I'll pop up. We'll do two or three
+
+294
+00:48:13,200 --> 00:48:16,560
+like true false open-ended questions and I'll just have
+
+295
+00:48:16,560 --> 00:48:19,600
+students shout out the answers. Okay, and if
+
+296
+00:48:19,600 --> 00:48:25,120
+they're seeing lost or whatever, then I'll be like, okay, well let's go
+
+297
+00:48:25,120 --> 00:48:28,400
+back and talk. Or if nobody answers, okay, where are you confused?
+
+298
+00:48:28,400 --> 00:48:32,000
+So I can kind of assess that right there.
+
+299
+00:48:32,000 --> 00:48:38,640
+Sometimes I do table talks. All right, again, same thing every few
+
+300
+00:48:38,640 --> 00:48:42,160
+slides is I'll be like, table talk. Turn to your neighbor. Turn to your
+
+301
+00:48:42,160 --> 00:48:46,960
+people at the table and talk for a minute,
+
+302
+00:48:46,960 --> 00:48:50,240
+30 seconds, short time frame. Share what we just learned.
+
+303
+00:48:50,240 --> 00:48:55,840
+Repeat. Repeat that phrase, that acronym trying to get into your head. Say that to
+
+304
+00:48:55,840 --> 00:49:00,000
+each other. Okay, those are simple things that can be
+
+305
+00:49:00,000 --> 00:49:05,680
+done as you're going throughout the day.
+
+306
+00:49:05,760 --> 00:49:10,160
+Review questions beginning of class over what we talked about the day before.
+
+307
+00:49:10,160 --> 00:49:14,000
+Okay, and that's a pretty common one. Hey, we talked about this yesterday or
+
+308
+00:49:14,000 --> 00:49:17,600
+you know, last time we met. How do we go about doing that?
+
+309
+00:49:17,600 --> 00:49:23,440
+No card at the end of the week. I've tried this before. Some people
+
+310
+00:49:23,440 --> 00:49:28,000
+like do a no card or post it every class period. I did just at the end
+
+311
+00:49:28,000 --> 00:49:31,840
+of the week and I would have them. They couldn't leave class so they handed
+
+312
+00:49:31,840 --> 00:49:35,520
+me the no card and they could ask a question that they had
+
+313
+00:49:35,520 --> 00:49:40,000
+or something that they learned that week. I feel that when I do that
+
+314
+00:49:40,000 --> 00:49:45,840
+sometimes it gives those students that are a little hesitant to speak up in
+
+315
+00:49:45,840 --> 00:49:51,520
+class and say I'm confused about this. I don't really understand. They might
+
+316
+00:49:51,520 --> 00:49:53,760
+and they don't have to put their name on these no cards, okay?
+
+317
+00:49:53,760 --> 00:49:58,400
+But you learn you learn writing, right? So you know who's
+
+318
+00:49:58,400 --> 00:50:02,640
+after time. But you know and sometimes it gives them
+
+319
+00:50:02,640 --> 00:50:06,240
+a little confidence to say, hey, can you review this because I'm really not
+
+320
+00:50:06,240 --> 00:50:09,120
+understanding it? And so then you can come back and you
+
+321
+00:50:09,120 --> 00:50:15,360
+can do that in class. Okay, so formative. We're evaluating
+
+322
+00:50:15,360 --> 00:50:22,080
+as we're learning. Summative is to evaluate how much someone has learned
+
+323
+00:50:22,080 --> 00:50:26,480
+throughout the course. Typically this is going to be
+
+324
+00:50:26,480 --> 00:50:31,680
+some type of final evaluation at the end of a unit,
+
+325
+00:50:31,680 --> 00:50:36,160
+at the end of a course, and it's usually cumulative. It's going to
+
+326
+00:50:36,160 --> 00:50:42,160
+cover everything. The ultimate goal of this is to evaluate
+
+327
+00:50:42,160 --> 00:50:49,520
+the long-term retention of materials, okay? So examples of this
+
+328
+00:50:49,520 --> 00:50:57,040
+include unit test, final exam or project for a course,
+
+329
+00:50:57,040 --> 00:51:04,160
+capstone projects, an in-depth report or presentation, a personal reflection
+
+330
+00:51:04,160 --> 00:51:10,240
+paper. Here, right in the technical college system, and we're going to talk a
+
+331
+00:51:10,240 --> 00:51:14,240
+little bit about it towards later, but we rely on on TSA, right?
+
+332
+00:51:14,240 --> 00:51:19,360
+Technical skill attainment. How are we showing that our students
+
+333
+00:51:19,360 --> 00:51:23,760
+are demonstrating these technical skills that we say they're going to do?
+
+334
+00:51:23,760 --> 00:51:30,640
+Okay, and if you talk to Lisa, as she Lisa Riley, not Lisa P.
+
+335
+00:51:30,640 --> 00:51:35,120
+Riley, Lisa Riley, she will tell you that ideally you want
+
+336
+00:51:35,200 --> 00:51:42,640
+these TSAs to be at the end, right? The end of the
+
+337
+00:51:42,640 --> 00:51:48,800
+program. How can we test, see what these students have done? So for us,
+
+338
+00:51:48,800 --> 00:51:53,280
+in animal science, we have a capstone project, and they actually build that
+
+339
+00:51:53,280 --> 00:51:57,760
+capstone project pretty much their whole second year there on campus,
+
+340
+00:51:57,760 --> 00:52:02,480
+and they build different parts of it in various classes,
+
+341
+00:52:02,480 --> 00:52:07,840
+and then they combine it all together at the end. They have to do a do a report on
+
+342
+00:52:07,840 --> 00:52:12,720
+it, okay? So can they do that? Another
+
+343
+00:52:12,720 --> 00:52:19,040
+summative example that I do is, actually in the
+
+344
+00:52:19,040 --> 00:52:26,240
+animal science program, we'll do it, is we make them analyze a font.
+
+345
+00:52:26,240 --> 00:52:31,920
+In our dairy students, they actually participate in what's called
+
+346
+00:52:31,920 --> 00:52:36,640
+Midwest Dairy Challenge, where they have to go
+
+347
+00:52:36,640 --> 00:52:41,200
+and analyze a farm, all the data from the farm, and then they have to
+
+348
+00:52:41,200 --> 00:52:46,240
+on everything from health to reproduction to financials,
+
+349
+00:52:46,240 --> 00:52:51,920
+they go and they tour the farm, and they have to look at the buildings and
+
+350
+00:52:51,920 --> 00:52:55,360
+ventilation and all that stuff, and then they come back,
+
+351
+00:52:55,360 --> 00:52:58,960
+and they like to consult it. So they're taking everything they learned in all
+
+352
+00:52:58,960 --> 00:53:04,000
+their individual classes, okay, in their health class, in their
+
+353
+00:53:04,000 --> 00:53:07,840
+housing class, in their retro class, and they're applying it
+
+354
+00:53:07,840 --> 00:53:11,360
+to this farm and analyzing it and saying, okay, hey,
+
+355
+00:53:11,360 --> 00:53:15,120
+these are some strengths that you have, these are some opportunities, maybe you
+
+356
+00:53:15,120 --> 00:53:19,600
+can tweak this vaccination plan, maybe you should add some fans to do
+
+357
+00:53:19,600 --> 00:53:22,640
+that. So that's what the dairy students do, and they actually
+
+358
+00:53:22,640 --> 00:53:27,520
+do it with students from other colleges. I've applied it and tweaked that
+
+359
+00:53:27,680 --> 00:53:31,600
+we do it on the livestock side, and I do the exact same thing
+
+360
+00:53:31,600 --> 00:53:35,360
+with some beef farmers in the area. I have three different beef farmers that
+
+361
+00:53:35,360 --> 00:53:38,160
+I rotate through, so they only have to do it every three
+
+362
+00:53:38,160 --> 00:53:43,040
+once every three years. I don't ask the beef farmers for financials, we don't get
+
+363
+00:53:43,040 --> 00:53:46,480
+into that, but we do the exact same thing. They go out
+
+364
+00:53:46,480 --> 00:53:51,040
+end of their last semester, they analyze the farm, can they bring it all together?
+
+365
+00:53:51,040 --> 00:53:55,280
+Can they take everything we've done? So that's kind of our
+
+366
+00:53:55,680 --> 00:53:58,320
+summative assessment, are we bringing, can they,
+
+367
+00:53:58,320 --> 00:54:01,920
+have they taken everything that they learned and brought it together?
+
+368
+00:54:06,000 --> 00:54:10,800
+So I think I put this on Schoology, I don't know if I did, this is just
+
+369
+00:54:10,800 --> 00:54:17,280
+on half of the page, but this here is something I have hanging in my office,
+
+370
+00:54:17,600 --> 00:54:27,440
+and you can probably find these on Google too, or chat jpt to help you.
+
+371
+00:54:28,160 --> 00:54:34,080
+These are examples of learner-centered teaching to help them kind of teach
+
+372
+00:54:34,080 --> 00:54:37,600
+themselves learn. A lot of these make good informative
+
+373
+00:54:38,720 --> 00:54:42,080
+assessments as you're working through it, okay?
+
+374
+00:54:42,320 --> 00:54:51,440
+Cooperative learning, I think we're good at brainstorming, create media, discussion,
+
+375
+00:54:52,160 --> 00:54:59,360
+jigsaw, small groups. So again, these are just some ideas, I think this is on
+
+376
+00:54:59,360 --> 00:55:04,960
+Schoology. If it's not, I will put it on there. If anyone would like to see
+
+377
+00:55:06,320 --> 00:55:11,680
+a copy of this whole thing that I have hanging in my office, I'm more than willing
+
+378
+00:55:12,320 --> 00:55:29,120
+to do that. So again, we have the use of AI for this, so we could build on this
+
+379
+00:55:29,120 --> 00:55:37,920
+nutrition one. So we're going to say, I'm going to say take number one,
+
+380
+00:55:42,640 --> 00:55:46,960
+okay. You're showing a PowerPoint, we can't see it on the remote end.
+
+381
+00:55:47,760 --> 00:55:51,360
+No, I'm not showing a PowerPoint. I have chat jpt up. Do you see that?
+
+382
+00:55:53,920 --> 00:56:00,240
+No. You just stopped sharing your screen. Oh, I just stopped sharing instead of,
+
+383
+00:56:04,240 --> 00:56:08,880
+all right, hold on there with me. Thanks for letting me know. Okay, now do you see chat jpt?
+
+384
+00:56:12,320 --> 00:56:18,960
+Yes, okay. All right, good. So what I'm going to do here is I'm going to build on what we have here,
+
+385
+00:56:20,240 --> 00:56:24,560
+and I'm going to, I'm not, again, I'm not the expert, but I might be able to say something,
+
+386
+00:56:24,560 --> 00:56:32,800
+but I'm just going to go ahead and copy this first one here, and I'm going to put it back here,
+
+387
+00:56:33,760 --> 00:56:48,720
+paste it down here, and I'm going to ask it, say using the above, design some formative
+
+388
+00:56:53,520 --> 00:56:55,920
+and summative
+
+389
+00:56:56,240 --> 00:57:13,040
+assessments, okay. Let's see what they suggest, okay. Nutrient requirement identification
+
+390
+00:57:13,040 --> 00:57:20,480
+test check. Given a scenario, have them identify. So we're using a scenario situation here. Worksheet
+
+391
+00:57:20,480 --> 00:57:30,160
+or quiz. Using the Pearson square. You know what the Pearson square is? Cool, right? Having them
+
+392
+00:57:30,160 --> 00:57:41,760
+actually do that. Worksheet, okay. So you can see just using peer review and discussions, okay. So
+
+393
+00:57:41,760 --> 00:57:55,200
+you can see using chat jpt and AI can also help you analyze what you might do for
+
+394
+00:57:55,200 --> 00:57:58,640
+for
+
+395
+00:58:02,320 --> 00:58:15,760
+assessments. Back to my PowerPoint here. So in WIDS, when you do design your curriculum in WIDS
+
+396
+00:58:15,760 --> 00:58:23,440
+and you're choosing your assessment strategies, they will give you, they will give you some
+
+397
+00:58:23,440 --> 00:58:30,480
+options. So again, to kind of help with that brain freeze, that brain fog, what I want to do,
+
+398
+00:58:30,480 --> 00:58:35,680
+and I can't really show you because I don't have a course in like a work in progress to build on
+
+399
+00:58:35,680 --> 00:58:43,520
+assessment, but you can see they have, they give you ideas in WIDS. This is copied right from WIDS.
+
+400
+00:58:43,520 --> 00:58:51,600
+A case study, a written objective test, a scenario, identification, skill demonstration,
+
+401
+00:58:51,600 --> 00:58:57,120
+right? Wait, Cosmo, skill demonstration. It's a big one that's going to come up there. So those
+
+402
+00:58:57,120 --> 00:59:06,160
+are different ways that you can assess. And when you see, and when you look at, right, if we go back
+
+403
+00:59:06,160 --> 00:59:16,480
+to, right, we go back to, we go back to WIDS and your course outcome summary, right? We have examples
+
+404
+00:59:16,480 --> 00:59:21,920
+right here, assessment strategies. So all these assessment strategies that you're seeing here
+
+405
+00:59:22,800 --> 00:59:31,520
+came, most of them came from WIDS, okay? Sometimes because of specific classes that you
+
+406
+00:59:32,160 --> 00:59:40,640
+teach, okay? Awesome, I pick on you, right? You might say assessment track, assessment strategies
+
+407
+00:59:40,640 --> 00:59:47,280
+using, physically like using the robots in the classroom, right? Well, WIDS doesn't have using
+
+408
+00:59:47,280 --> 00:59:53,760
+robots in the classroom as an option, right? I believe you can like add that to it, okay? Or
+
+409
+00:59:53,760 --> 01:00:02,000
+you could just be, it could just be something as like using appropriate equipment for the thing,
+
+410
+01:00:02,000 --> 01:00:08,640
+right? So sometimes based on, these you can see are very, very generic, but sometimes based on
+
+411
+01:00:08,640 --> 01:00:14,720
+the specific program that you're teaching, your, or class that you're teaching, that assessment,
+
+412
+01:00:14,720 --> 01:00:22,160
+those assessment strategies could be, could be very specific. So what I want you to do right now
+
+413
+01:00:23,040 --> 01:00:32,800
+is you can, and it can be the, the class that you're using. I want you to think and don't
+
+414
+01:00:32,800 --> 01:00:39,680
+forget to use chat JPT to come up with, and you can look through what you have in WIDS, there might
+
+415
+01:00:39,680 --> 01:00:46,240
+be something there, come up with an example of a formative and summative assessment that you might
+
+416
+01:00:46,240 --> 01:00:51,200
+use in your class, okay? And then we're going to share that, and then you're going to share that
+
+417
+01:00:51,200 --> 01:00:56,720
+with, with the group. So online, think about the class that you were looking at, think about a
+
+418
+01:00:56,720 --> 01:01:03,920
+formative and summative assessment that you might use. And actually I'll have you guys share with,
+
+419
+01:01:03,920 --> 01:01:10,640
+with the, with the large group, a couple of you, when we come in a few minutes after you think
+
+420
+01:01:10,640 --> 01:01:23,600
+about that. I've got 10 minutes here on the slide, but I might cut it to like, I'm actually just got
+
+421
+01:01:23,600 --> 01:01:35,920
+my timer for eight. When I do things like this in the classroom, I do tend to set my timer on my book
+
+422
+01:01:35,920 --> 01:01:44,240
+or like I have a kitchen timer to help kind of. That's the reason why I have a smartwatch is to set
+
+423
+01:01:44,240 --> 01:01:44,560
+my timer on.
+
+424
+01:02:14,240 --> 01:02:38,480
+Thank you.
+
+425
+01:10:14,240 --> 01:10:36,000
+Okay, so I'm going to ask two people in the face-to-face group to share some, at least
+
+426
+01:10:36,000 --> 01:10:41,200
+one assessment, either formative or summative, that they came up with for their course.
+
+427
+01:10:41,200 --> 01:11:03,600
+And I'd like to have two people online share a couple of ideas that they came up with.
+
+428
+01:11:03,600 --> 01:11:10,520
+So how about we go one face-to-face, one online, one face-to-face, one online.
+
+429
+01:11:10,520 --> 01:11:14,600
+So is there someone in the classroom here that would like to share with everyone an
+
+430
+01:11:14,600 --> 01:11:22,560
+idea that they came up with for an formative or summative assessment?
+
+431
+01:11:22,560 --> 01:11:23,560
+Any volunteers?
+
+432
+01:11:23,560 --> 01:11:24,560
+Okay, go ahead.
+
+433
+01:11:24,560 --> 01:11:25,560
+Go ahead, Megan.
+
+434
+01:11:25,560 --> 01:11:30,560
+I just don't want to be the only one to volunteer.
+
+435
+01:11:30,560 --> 01:11:42,840
+Okay, so I was back in those communications slash RLA requirements on WIDS, and I was
+
+436
+01:11:42,840 --> 01:11:50,760
+looking at the standard is communicate effectively using current technology.
+
+437
+01:11:50,760 --> 01:12:02,800
+So for formative, I thought we could analyze different written and video news stories for
+
+438
+01:12:02,800 --> 01:12:10,920
+meaning, style of language, just because this is the last of the standards.
+
+439
+01:12:10,920 --> 01:12:15,960
+And before that, it's like determine bias, determine style of language, determine purpose
+
+440
+01:12:15,960 --> 01:12:20,160
+of the communication, whatever it is.
+
+441
+01:12:20,160 --> 01:12:24,040
+And so are they trying to convince you of something?
+
+442
+01:12:24,040 --> 01:12:26,200
+Do they have any bias in their language?
+
+443
+01:12:26,200 --> 01:12:31,000
+Is there information that's missing, how trustworthy are they, et cetera?
+
+444
+01:12:31,000 --> 01:12:35,600
+And then they can write an outline for a speech or paper based off of that.
+
+445
+01:12:35,600 --> 01:12:39,280
+So what is the thesis, what are the good ideas here?
+
+446
+01:12:39,280 --> 01:12:43,800
+And we can also look at a bunch of different styles of communication as well, just to tie
+
+447
+01:12:43,800 --> 01:12:45,560
+it to different subjects.
+
+448
+01:12:45,560 --> 01:12:53,200
+So one of the ways that I could tie it to social studies curriculum is, can we look
+
+449
+01:12:53,200 --> 01:12:59,440
+at, there have been several historical events through the United States history where the
+
+450
+01:12:59,440 --> 01:13:04,960
+president has come onto television and addressed the whole country.
+
+451
+01:13:04,960 --> 01:13:13,760
+I'm thinking FDR after the bombing of Pearl Harbor, George Bush after 9-11.
+
+452
+01:13:13,760 --> 01:13:18,560
+So what are the topics that they're talking about?
+
+453
+01:13:18,560 --> 01:13:20,640
+What is their goal?
+
+454
+01:13:20,640 --> 01:13:22,440
+What is their potential bias?
+
+455
+01:13:22,440 --> 01:13:23,440
+Can you outline?
+
+456
+01:13:23,440 --> 01:13:29,520
+So actually connecting two subject areas into one, very good.
+
+457
+01:13:29,520 --> 01:13:30,520
+Good idea.
+
+458
+01:13:30,520 --> 01:13:31,520
+Okay.
+
+459
+01:13:31,520 --> 01:13:37,320
+Can I have somebody online share a formative or summative assessment idea that they came
+
+460
+01:13:37,320 --> 01:13:46,040
+up with?
+
+461
+01:13:46,040 --> 01:13:47,040
+I can go.
+
+462
+01:13:47,040 --> 01:13:48,040
+All right.
+
+463
+01:13:48,040 --> 01:13:51,800
+I think this is it.
+
+464
+01:13:51,800 --> 01:13:55,880
+So I teach ESL, the very beginning of it.
+
+465
+01:13:55,880 --> 01:14:03,520
+So one of the first things we do is teach how to introduce themselves, say hello, ask
+
+466
+01:14:04,080 --> 01:14:09,800
+questions about what you do for work, where are you from type of things.
+
+467
+01:14:09,800 --> 01:14:15,880
+So what I do is I teach the concept first and we teach the language, they practice the
+
+468
+01:14:15,880 --> 01:14:24,520
+language and then toward the end of the class time, we'll take some time to tie it all together
+
+469
+01:14:24,520 --> 01:14:29,920
+and have a short conversation with them just to make sure that they are able to do that.
+
+470
+01:14:29,920 --> 01:14:31,440
+Is that kind of like what you mean?
+
+471
+01:14:31,440 --> 01:14:32,440
+Yep.
+
+472
+01:14:32,440 --> 01:14:33,440
+Good.
+
+473
+01:14:34,360 --> 01:14:37,120
+Definitely reach out and having them conversate first with each other.
+
+474
+01:14:37,120 --> 01:14:38,120
+That's great.
+
+475
+01:14:38,120 --> 01:14:39,120
+Okay.
+
+476
+01:14:39,120 --> 01:14:40,120
+Thank you for sharing, Jennifer.
+
+477
+01:14:40,120 --> 01:14:46,080
+And Ty is in the classroom face-to-face here and he's going to go ahead and share an idea
+
+478
+01:14:46,080 --> 01:14:47,080
+he came up with.
+
+479
+01:14:47,080 --> 01:14:48,080
+Go ahead, Ty.
+
+480
+01:14:48,080 --> 01:14:54,280
+So for course competency, the competency reads the learner identifies proper personal protective
+
+481
+01:14:54,280 --> 01:14:55,280
+equipment.
+
+482
+01:14:55,280 --> 01:15:01,400
+So idea for a formative project would be to print it out in different scenarios and workplace
+
+483
+01:15:01,400 --> 01:15:08,720
+throughout the agriculture setting and having these working groups come up identifying what
+
+484
+01:15:08,720 --> 01:15:15,160
+potential hazards there are, what PPE should be used and why each item is necessary for
+
+485
+01:15:15,160 --> 01:15:16,160
+the PPE.
+
+486
+01:15:16,160 --> 01:15:22,840
+And then another competency that goes hand in hand with that being the learner performs
+
+487
+01:15:22,840 --> 01:15:23,840
+proper safety habits.
+
+488
+01:15:24,280 --> 01:15:32,640
+So that could actually be a summative in person that they identify a safety hazard that is
+
+489
+01:15:32,640 --> 01:15:38,080
+present and they demonstrate wearing proper PPE while they're doing a task.
+
+490
+01:15:38,080 --> 01:15:39,080
+All right.
+
+491
+01:15:39,080 --> 01:15:40,080
+Excellent.
+
+492
+01:15:40,080 --> 01:15:41,080
+That's a good way.
+
+493
+01:15:41,080 --> 01:15:42,080
+Thank you.
+
+494
+01:15:42,080 --> 01:15:43,080
+All right.
+
+495
+01:15:43,080 --> 01:15:44,080
+And one more from somebody online.
+
+496
+01:15:44,080 --> 01:15:45,080
+Somebody online.
+
+497
+01:15:45,080 --> 01:15:46,080
+Stacey, did you want to talk?
+
+498
+01:15:46,080 --> 01:15:47,080
+I see you're unmuted.
+
+499
+01:15:47,080 --> 01:15:48,080
+Yes.
+
+500
+01:15:48,320 --> 01:15:55,560
+Yes, I'm actually working on curriculum for the technical colleges for personal finance.
+
+501
+01:15:55,560 --> 01:16:00,440
+That's going to be required in a few years for the GED students.
+
+502
+01:16:00,440 --> 01:16:05,840
+But I taught the class and an example of a summative would be like budgeting, you know,
+
+503
+01:16:05,840 --> 01:16:08,740
+learning how to budget your money and things like that.
+
+504
+01:16:08,740 --> 01:16:15,640
+And there's a free program where you can go and you have to figure out how to get a magician
+
+505
+01:16:15,640 --> 01:16:20,400
+to Las Vegas so he can perform there and you have to budget your money.
+
+506
+01:16:20,400 --> 01:16:26,000
+And it's just a fun game, but it shows them how to budget because things come up like
+
+507
+01:16:26,000 --> 01:16:29,160
+the magician gets a flat tire.
+
+508
+01:16:29,160 --> 01:16:36,360
+He has to you have to choose what kind of tricks for him to do at the shows that he's
+
+509
+01:16:36,360 --> 01:16:37,640
+leading up to Vegas.
+
+510
+01:16:37,640 --> 01:16:43,120
+So it's just something that they can figure out budgeting and they have to try and get
+
+511
+01:16:43,120 --> 01:16:44,120
+him to Vegas.
+
+512
+01:16:44,200 --> 01:16:48,560
+They don't always make it to Vegas and they can, you know, review what should I have done
+
+513
+01:16:48,560 --> 01:16:49,560
+differently.
+
+514
+01:16:51,560 --> 01:16:54,280
+That sounds fun.
+
+515
+01:16:54,280 --> 01:16:55,280
+That sounds fun.
+
+516
+01:16:55,280 --> 01:17:00,640
+So definitely a different way to make a way to get them to to apply and learn.
+
+517
+01:17:00,640 --> 01:17:04,880
+And you can maybe then take it one step further and I'll be like, OK, now that you did this
+
+518
+01:17:04,880 --> 01:17:08,360
+game with this magician, you're planning your own trip.
+
+519
+01:17:08,360 --> 01:17:12,960
+What type of budget do you have to have for your own trip to kind of do and stuff?
+
+520
+01:17:13,000 --> 01:17:16,000
+So thank you very much, Stacey, for sharing.
+
+521
+01:17:17,000 --> 01:17:19,000
+OK, now I've got to share.
+
+522
+01:17:22,000 --> 01:17:23,000
+All right.
+
+523
+01:17:23,000 --> 01:17:31,000
+So we're going to go back to the PowerPoint and we're going to talk a little bit about
+
+524
+01:17:31,000 --> 01:17:32,000
+rubrics.
+
+525
+01:17:33,000 --> 01:17:39,000
+OK, we have a couple of videos to start out here to help us understand what a rubric is
+
+526
+01:17:39,000 --> 01:17:42,000
+and the benefits of of using rubrics.
+
+527
+01:17:43,000 --> 01:17:51,000
+Hey, everyone, welcome to our YouTube video on the benefits of using rubrics to assess
+
+528
+01:17:51,000 --> 01:17:52,480
+student learning.
+
+529
+01:17:52,480 --> 01:17:56,960
+In this video, we'll discuss the importance of rubrics, their benefits and how they can
+
+530
+01:17:56,960 --> 01:17:59,760
+improve student learning outcomes.
+
+531
+01:17:59,760 --> 01:18:04,080
+Rubrics are a powerful tool that helps teachers to evaluate and grade student work.
+
+532
+01:18:04,080 --> 01:18:08,520
+They provide a clear set of criteria for measuring student performance and help to ensure that
+
+533
+01:18:08,520 --> 01:18:11,800
+grading is consistent, objective and fair.
+
+534
+01:18:12,640 --> 01:18:16,640
+Here are some of the key benefits of using rubrics to assess student learning.
+
+535
+01:18:16,640 --> 01:18:21,640
+Improved clarity rubrics provide clear and specific criteria for measuring student performance.
+
+536
+01:18:21,640 --> 01:18:26,640
+This clarity helps students understand what is expected of them, which can lead to increased
+
+537
+01:18:26,640 --> 01:18:28,640
+engagement and motivation.
+
+538
+01:18:28,640 --> 01:18:32,640
+When students know what they need to do to succeed, they are more likely to take ownership
+
+539
+01:18:32,640 --> 01:18:35,640
+of their learning and work towards achieving their goals.
+
+540
+01:18:35,640 --> 01:18:40,640
+Additionally, rubrics can help teachers communicate their expectations to students more effectively,
+
+541
+01:18:41,480 --> 01:18:43,480
+reducing confusion and misunderstandings.
+
+542
+01:18:43,480 --> 01:18:48,480
+Better feedback rubrics provide detailed feedback to students on their performance in specific
+
+543
+01:18:48,480 --> 01:18:50,480
+areas of an assignment.
+
+544
+01:18:50,480 --> 01:18:55,480
+This feedback helps students understand where they excelled and where they need to improve.
+
+545
+01:18:55,480 --> 01:18:59,480
+When students receive feedback that is detailed and specific, they are more likely to take
+
+546
+01:18:59,480 --> 01:19:02,480
+that feedback into account when revising their work.
+
+547
+01:19:02,480 --> 01:19:06,480
+Additionally, rubrics can help teachers provide feedback in a more efficient and effective
+
+548
+01:19:06,480 --> 01:19:07,480
+manner.
+
+549
+01:19:08,320 --> 01:19:12,320
+With a well-designed rubric, teachers can quickly identify areas where students need
+
+550
+01:19:12,320 --> 01:19:16,320
+improvement and provide feedback that is targeted to those areas.
+
+551
+01:19:16,320 --> 01:19:20,320
+Objective and consistent grading rubrics are designed to be objective and consistent, which
+
+552
+01:19:20,320 --> 01:19:23,320
+ensures that grading is fair and unbiased.
+
+553
+01:19:23,320 --> 01:19:28,320
+When teachers use rubrics to grade assignments, they are less likely to be influenced by personal
+
+554
+01:19:28,320 --> 01:19:30,320
+biases or preferences.
+
+555
+01:19:30,320 --> 01:19:34,320
+This means that all students are graded fairly and consistently based on their performance
+
+556
+01:19:34,320 --> 01:19:36,320
+against the rubric criteria.
+
+557
+01:19:37,160 --> 01:19:41,160
+Rubrics can help teachers ensure that they are assessing all students on the same criteria,
+
+558
+01:19:41,160 --> 01:19:44,160
+which can help to eliminate discrepancies in grading.
+
+559
+01:19:44,160 --> 01:19:49,160
+Improved learning outcomes rubrics can help improve student learning outcomes by providing
+
+560
+01:19:49,160 --> 01:19:52,160
+students with a clear understanding of what is expected of them.
+
+561
+01:19:52,160 --> 01:19:56,160
+When students understand what they need to do to succeed, they are more likely to engage
+
+562
+01:19:56,160 --> 01:19:59,160
+with the material and work towards achieving their goals.
+
+563
+01:19:59,160 --> 01:20:04,160
+Additionally, rubrics can help students focus their efforts on specific areas of an assignment
+
+564
+01:20:04,160 --> 01:20:06,160
+that they need to improve on.
+
+565
+01:20:07,000 --> 01:20:10,000
+When students receive feedback that is targeted to their specific needs, they are more likely
+
+566
+01:20:10,000 --> 01:20:15,000
+to take that feedback into account and work towards improving their skills and knowledge.
+
+567
+01:20:15,000 --> 01:20:19,000
+Overall, rubrics are an effective tool for assessing student learning.
+
+568
+01:20:19,000 --> 01:20:25,000
+They provide clarity, feedback, and consistency, which can help to improve student engagement,
+
+569
+01:20:25,000 --> 01:20:27,000
+motivation, and learning outcomes.
+
+570
+01:20:27,000 --> 01:20:31,000
+If you're a teacher, consider using rubrics in your classroom to assess student work and
+
+571
+01:20:31,000 --> 01:20:34,000
+help your students achieve their full potential.
+
+572
+01:20:37,000 --> 01:20:51,000
+So that gives you some ideas on what a rubric is and the benefits of using it.
+
+573
+01:20:51,000 --> 01:20:53,000
+This is the next short video.
+
+574
+01:20:53,000 --> 01:20:55,000
+This one's like 30 seconds.
+
+575
+01:20:55,000 --> 01:20:59,000
+For me, the rubric should be telling the student, am I on the right track?
+
+576
+01:20:59,000 --> 01:21:03,000
+The student should be able to refer to the rubric and just say, not, here's what you
+
+577
+01:21:03,840 --> 01:21:06,840
+next, because that's definitely going to improve the work, but not improve the learner.
+
+578
+01:21:06,840 --> 01:21:11,840
+But I think the rubric can be helpful in reassuring the student, you're on the right track, or
+
+579
+01:21:11,840 --> 01:21:16,840
+actually, you've forgotten an important element that you need to do to support your argument
+
+580
+01:21:16,840 --> 01:21:18,840
+in this history essay, for example.
+
+581
+01:21:20,840 --> 01:21:28,840
+So that was a short, sweet one, really talking about how rubrics can help the individuals.
+
+582
+01:21:29,680 --> 01:21:39,680
+So rubrics are not only used for assessment purposes, but I feel that rubrics help with
+
+583
+01:21:39,680 --> 01:21:41,680
+communication.
+
+584
+01:21:41,680 --> 01:21:49,680
+It helps create the clear communication to the student what you're looking for.
+
+585
+01:21:50,520 --> 01:21:58,520
+And so what we've got here is examples of some rubrics that I use in my classroom.
+
+586
+01:21:58,520 --> 01:22:04,520
+The top one here is a very, I call it a very generic rubric.
+
+587
+01:22:04,520 --> 01:22:12,520
+It's a short answer rubric that I use pretty much all my short answer questions on my unit
+
+588
+01:22:12,520 --> 01:22:14,520
+exams.
+
+589
+01:22:15,360 --> 01:22:21,360
+And you can see it's just length, terms from class, and isn't understandable.
+
+590
+01:22:21,360 --> 01:22:28,360
+Because a lot of times I'll throw on a scenario question, like in my plant and soil science
+
+591
+01:22:28,360 --> 01:22:35,360
+class, an example of a simple essay question I have on there is you work in an agronomy
+
+592
+01:22:35,360 --> 01:22:36,360
+center.
+
+593
+01:22:36,360 --> 01:22:42,560
+A new person to the area who's never farmed before walks in, wants advice on their soil
+
+594
+01:22:42,600 --> 01:22:46,600
+type, on how to properly grow their crops.
+
+595
+01:22:46,600 --> 01:22:50,600
+And they bring in a sample with them, and you can tell right away that they have a very
+
+596
+01:22:50,600 --> 01:22:51,600
+high sandy soil.
+
+597
+01:22:51,600 --> 01:22:56,600
+What are you going to tell them about sandy soil and growing their crops?
+
+598
+01:22:56,600 --> 01:23:03,600
+And so I say length, because length oftentimes, and I have found that even just using the
+
+599
+01:23:03,600 --> 01:23:08,600
+words, like the more details the better, doesn't always work.
+
+600
+01:23:08,640 --> 01:23:14,640
+Because Kylie might think that in her mind, two sentences is plenty of details, and Lauren's
+
+601
+01:23:14,640 --> 01:23:17,640
+going to write ten, right?
+
+602
+01:23:17,640 --> 01:23:21,640
+So sometimes you need to make clear exactly what I'm saying.
+
+603
+01:23:21,640 --> 01:23:23,640
+So you can see very simple here.
+
+604
+01:23:23,640 --> 01:23:26,640
+I want, give me a minimum of four sentences.
+
+605
+01:23:26,640 --> 01:23:29,640
+Notice that I have sentences or bullet points.
+
+606
+01:23:29,640 --> 01:23:36,640
+Because for me, when I look at my students, okay, sometimes they're not going to be the
+
+607
+01:23:36,680 --> 01:23:39,680
+strong English communicators.
+
+608
+01:23:39,680 --> 01:23:44,680
+They're not going to write very well or have struggled for me.
+
+609
+01:23:44,680 --> 01:23:45,680
+Do I want to form a sentence?
+
+610
+01:23:45,680 --> 01:23:46,680
+Yes.
+
+611
+01:23:46,680 --> 01:23:47,680
+But they might struggle.
+
+612
+01:23:47,680 --> 01:23:52,680
+But are they more comfortable and more confident explaining that in a bullet point versus a
+
+613
+01:23:52,680 --> 01:23:53,680
+complete sentence?
+
+614
+01:23:53,680 --> 01:23:56,680
+For the classes that I teach, I'm okay with that.
+
+615
+01:23:56,680 --> 01:23:57,680
+Right?
+
+616
+01:23:57,680 --> 01:24:00,680
+And again, that's kind of giving them some choice.
+
+617
+01:24:00,680 --> 01:24:05,680
+So minimum of four sentences, and then I'm like, okay, are you using terms from the class?
+
+618
+01:24:05,720 --> 01:24:08,720
+Are they talking about leech?
+
+619
+01:24:08,720 --> 01:24:09,720
+Sand likes to leech.
+
+620
+01:24:09,720 --> 01:24:11,720
+Sand's not going to hold water.
+
+621
+01:24:11,720 --> 01:24:12,720
+It's very granular.
+
+622
+01:24:12,720 --> 01:24:17,720
+You're going to have, are they using the specific terms that we talked about?
+
+623
+01:24:17,720 --> 01:24:20,720
+And then are the thoughts organized?
+
+624
+01:24:20,720 --> 01:24:21,720
+Understandable.
+
+625
+01:24:21,720 --> 01:24:22,720
+Do they make sense?
+
+626
+01:24:22,720 --> 01:24:24,720
+Or do they leave me asking questions?
+
+627
+01:24:24,720 --> 01:24:25,720
+Okay.
+
+628
+01:24:25,720 --> 01:24:27,720
+So that's a very simple rubric.
+
+629
+01:24:27,720 --> 01:24:34,720
+But I use this for grading, for grading essay contests or essay contests.
+
+630
+01:24:34,760 --> 01:24:37,760
+Essay questions on the test.
+
+631
+01:24:37,760 --> 01:24:40,760
+And, you know, the students can see the rubric.
+
+632
+01:24:40,760 --> 01:24:46,760
+I have learned in school that when I do do essay questions in the essay question itself,
+
+633
+01:24:46,760 --> 01:24:52,760
+I'll be like, make sure to look at the rubric before you answer this, because you can tell
+
+634
+01:24:52,760 --> 01:24:54,760
+who doesn't look at the rubric.
+
+635
+01:24:54,760 --> 01:24:55,760
+Right?
+
+636
+01:24:55,760 --> 01:24:58,760
+Because you can just speak just with how they answer it.
+
+637
+01:24:58,800 --> 01:25:06,800
+This discussion board rubric, I believe this is the discussion, the general template
+
+638
+01:25:06,800 --> 01:25:15,800
+discussion board rubric that was put together a number of years ago in Schoology for discussion.
+
+639
+01:25:15,800 --> 01:25:19,800
+You can see it's three pretty areas.
+
+640
+01:25:19,800 --> 01:25:26,800
+The initial, post timing and relevance, replying and clarity mechanics and references.
+
+641
+01:25:26,840 --> 01:25:29,840
+So that one, that is that one.
+
+642
+01:25:29,840 --> 01:25:31,840
+Those are cooler stuff.
+
+643
+01:25:31,840 --> 01:25:39,840
+A couple examples here of some other rubrics I use.
+
+644
+01:25:39,840 --> 01:25:43,840
+This is the rubric that I use in rubrics.
+
+645
+01:25:43,840 --> 01:25:47,840
+There's not like one size fits all.
+
+646
+01:25:47,840 --> 01:25:48,840
+Okay.
+
+647
+01:25:48,840 --> 01:25:52,840
+You can design the rubric based for your assignment, based for your class of what you want.
+
+648
+01:25:52,880 --> 01:26:00,880
+So the one on the left here is the rubric that I use for the final project in my quality
+
+649
+01:26:00,880 --> 01:26:01,880
+class.
+
+650
+01:26:01,880 --> 01:26:02,880
+Okay.
+
+651
+01:26:02,880 --> 01:26:08,880
+There are the students have to research a niche market in the livestock, the meat industry,
+
+652
+01:26:08,880 --> 01:26:09,880
+such as like that.
+
+653
+01:26:09,880 --> 01:26:14,880
+Oh, well, example, somebody might do like organic pork or certified.
+
+654
+01:26:14,880 --> 01:26:15,880
+Okay.
+
+655
+01:26:15,880 --> 01:26:20,880
+And so you can see those are the question that they have to do.
+
+656
+01:26:20,920 --> 01:26:23,920
+And they know right away, especially when it's timing.
+
+657
+01:26:23,920 --> 01:26:24,920
+Okay.
+
+658
+01:26:24,920 --> 01:26:26,920
+You're supposed to talk up to six minutes.
+
+659
+01:26:26,920 --> 01:26:27,920
+You can't talk.
+
+660
+01:26:27,920 --> 01:26:31,920
+If you decide you're only going to talk less than four minutes, you're only going to get
+
+661
+01:26:31,920 --> 01:26:32,920
+one point.
+
+662
+01:26:32,920 --> 01:26:33,920
+Okay.
+
+663
+01:26:33,920 --> 01:26:35,920
+So I break it out like that.
+
+664
+01:26:35,920 --> 01:26:40,920
+And sometimes it is okay just to even if you have like a scale like three, two, one, zero
+
+665
+01:26:40,920 --> 01:26:42,920
+where you're not given an option.
+
+666
+01:26:42,920 --> 01:26:44,920
+It's either you get all your points or you don't.
+
+667
+01:26:44,920 --> 01:26:45,920
+Okay.
+
+668
+01:26:45,920 --> 01:26:46,920
+Do you list your sources?
+
+669
+01:26:46,920 --> 01:26:47,920
+Well, either you did or you don't.
+
+670
+01:26:47,920 --> 01:26:48,920
+Right.
+
+671
+01:26:48,920 --> 01:26:49,920
+You're either going to get three points or you're going to get zero.
+
+672
+01:26:49,960 --> 01:26:50,960
+There's no in between.
+
+673
+01:26:50,960 --> 01:26:51,960
+Okay.
+
+674
+01:26:51,960 --> 01:26:54,960
+So it's okay to use to use that.
+
+675
+01:26:54,960 --> 01:26:56,960
+And so again, that one dries out.
+
+676
+01:26:56,960 --> 01:27:01,960
+And then the other one is one that is built in Schoology.
+
+677
+01:27:01,960 --> 01:27:03,960
+You can tell the way that was there.
+
+678
+01:27:03,960 --> 01:27:09,960
+But this is again, I think I told a little bit about the final where they have to look
+
+679
+01:27:09,960 --> 01:27:11,960
+at each of these.
+
+680
+01:27:11,960 --> 01:27:13,960
+So look again.
+
+681
+01:27:13,960 --> 01:27:14,960
+Okay.
+
+682
+01:27:14,960 --> 01:27:18,960
+I'm looking at the length, the terminology and the reasoning.
+
+683
+01:27:19,000 --> 01:27:20,000
+Okay.
+
+684
+01:27:20,000 --> 01:27:23,000
+Are you explaining four sentences or bullet points?
+
+685
+01:27:23,000 --> 01:27:27,000
+Are you using nutrition terms in each sentence?
+
+686
+01:27:27,000 --> 01:27:28,000
+Okay.
+
+687
+01:27:28,000 --> 01:27:32,000
+Are you showing in depth thought and understanding of nutrition and forage reports?
+
+688
+01:27:32,000 --> 01:27:33,000
+And so I do that.
+
+689
+01:27:33,000 --> 01:27:37,000
+You can see I do that for the best, one of the worst, the best, the worst.
+
+690
+01:27:37,000 --> 01:27:45,000
+And so that's an example of some rubrics that I have here as well.
+
+691
+01:27:45,040 --> 01:27:50,040
+If you can design rubrics in Schoology.
+
+692
+01:28:10,040 --> 01:28:13,040
+So if you are in Schoology.
+
+693
+01:28:15,040 --> 01:28:24,040
+If you go in and you add a new assignment.
+
+694
+01:28:28,040 --> 01:28:33,040
+You can when you choose your scale or rubric down here.
+
+695
+01:28:33,040 --> 01:28:39,040
+If you have one that's already created, it will be listed or you just do create new.
+
+696
+01:28:39,040 --> 01:28:43,040
+And you can see here this is how what it looks like.
+
+697
+01:28:43,080 --> 01:28:45,080
+And you can give it a title.
+
+698
+01:28:45,080 --> 01:28:52,080
+So like, you know, and once you create it, you can link it to all your courses.
+
+699
+01:28:52,080 --> 01:28:54,080
+Like that short answer one I have.
+
+700
+01:28:54,080 --> 01:28:56,080
+I use that in all my courses.
+
+701
+01:28:56,080 --> 01:29:01,080
+And then your criteria, you know, so this is where I have that like length.
+
+702
+01:29:01,080 --> 01:29:05,080
+If you want a description a little bit more, you can.
+
+703
+01:29:05,080 --> 01:29:08,080
+But let's say I just want to do three, two, one.
+
+704
+01:29:08,120 --> 01:29:13,120
+I can just, you saw that I just hit the X and I got rid of that.
+
+705
+01:29:13,120 --> 01:29:16,120
+And then you can come in here and you can change it.
+
+706
+01:29:16,120 --> 01:29:20,120
+If I want to add a new one, I just add criteria.
+
+707
+01:29:20,120 --> 01:29:32,120
+And so you can make this if I wanted to change this and make this like 10, 10, 8, 6, you can.
+
+708
+01:29:32,160 --> 01:29:39,160
+So you can create rubrics right in in Schoology for certain assignments.
+
+709
+01:29:39,160 --> 01:29:51,160
+Other thing to take into consideration is I have heard people using ChapGPT for making rubrics.
+
+710
+01:29:51,160 --> 01:29:58,160
+All right. So you can put in like all the specifications for your assignment.
+
+711
+01:29:58,200 --> 01:30:07,200
+And then you can tell ChapGPT create a Likert scale rubric starting at five and going to zero.
+
+712
+01:30:07,200 --> 01:30:14,200
+Here are the categories to use to to assess this assignment.
+
+713
+01:30:14,200 --> 01:30:23,200
+And so when you do that, it will spit it out and give you a starting place, right?
+
+714
+01:30:23,200 --> 01:30:27,200
+You could you can definitely tweak that and then put it into work.
+
+715
+01:30:27,240 --> 01:30:37,240
+So I'm taking I want you to take about I'll give you about seven minutes right now.
+
+716
+01:30:37,240 --> 01:30:47,240
+And I want you to think of an assignment that you currently have that you maybe could introduce a rubric to.
+
+717
+01:30:47,240 --> 01:30:52,240
+OK. Or maybe you have a rubric for an assignment that you're like, I want to tweak this.
+
+718
+01:30:52,280 --> 01:30:54,280
+So take about seven minutes right now.
+
+719
+01:30:54,280 --> 01:31:01,280
+Think about that rubric and draw out, sketch out on paper or word, whatever.
+
+720
+01:31:01,280 --> 01:31:08,280
+Use ChapGPT. What a rough rubric like that might look like.
+
+721
+01:31:08,320 --> 01:31:23,320
+OK. So take a take seven minutes and reflect on making a rubric for for a class or an assignment or an assignment that you would do.
+
+722
+01:31:23,320 --> 01:31:28,320
+Any questions online what you're doing?
+
+723
+01:31:28,320 --> 01:31:33,320
+All right. Give you a seven minute work time.
+
+724
+01:31:38,280 --> 01:31:39,320
+Thank you.
+
+725
+01:32:08,280 --> 01:32:09,320
+Thank you.
+
+726
+01:32:38,280 --> 01:32:39,320
+Thank you.
+
+727
+01:33:08,280 --> 01:33:09,320
+Thank you.
+
+728
+01:33:38,280 --> 01:33:39,320
+Thank you.
+
+729
+01:34:08,280 --> 01:34:09,320
+Thank you.
+
+730
+01:34:38,280 --> 01:34:39,320
+Thank you.
+
+731
+01:35:08,280 --> 01:35:09,320
+Thank you.
+
+732
+01:35:38,280 --> 01:35:39,320
+Thank you.
+
+733
+01:36:08,280 --> 01:36:09,320
+Thank you.
+
+734
+01:36:38,280 --> 01:36:39,320
+Thank you.
+
+735
+01:37:08,280 --> 01:37:09,320
+Thank you.
+
+736
+01:37:38,280 --> 01:37:39,320
+Thank you.
+
+737
+01:38:08,320 --> 01:38:09,320
+Thank you.
+
+738
+01:38:34,320 --> 01:38:35,320
+All right.
+
+739
+01:38:35,360 --> 01:38:37,360
+Welcome back.
+
+740
+01:38:37,360 --> 01:38:40,360
+My seven minute timer went off.
+
+741
+01:38:40,360 --> 01:38:54,360
+I hope that you enjoyed working on on your rubrics and got some ideas on how you can use them moving forward.
+
+742
+01:38:54,360 --> 01:38:56,360
+We are going to go ahead and take a break now.
+
+743
+01:38:56,360 --> 01:38:58,360
+So let's take about 10 minutes.
+
+744
+01:38:58,400 --> 01:38:59,400
+I've got 1025.
+
+745
+01:38:59,400 --> 01:39:06,400
+So at 1035, we'll come back and we'll pick up with communicating feedback to students.
+
+746
+01:39:06,400 --> 01:39:07,400
+All right.
+
+747
+01:39:07,400 --> 01:39:08,400
+So go ahead.
+
+748
+01:39:08,400 --> 01:39:09,400
+Take 10 minutes.
+
+749
+01:39:09,400 --> 01:39:10,400
+Thank you.
+
+750
+01:39:28,360 --> 01:39:29,400
+Thank you.
+
+751
+01:39:58,360 --> 01:39:59,400
+Thank you.
+
+752
+01:40:28,360 --> 01:40:29,400
+Thank you.
+
+753
+01:40:58,360 --> 01:40:59,400
+Thank you.
+
+754
+01:41:28,360 --> 01:41:29,400
+Thank you.
+
+755
+01:41:58,360 --> 01:41:59,400
+Thank you.
+
+756
+01:42:28,360 --> 01:42:29,400
+Thank you.
+
+757
+01:42:58,360 --> 01:42:59,400
+Thank you.
+
+758
+01:43:28,360 --> 01:43:29,400
+Thank you.
+
+759
+01:43:58,360 --> 01:43:59,400
+Thank you.
+
+760
+01:44:28,360 --> 01:44:29,400
+Thank you.
+
+761
+01:44:58,360 --> 01:44:59,400
+Thank you.
+
+762
+01:45:28,360 --> 01:45:29,400
+Thank you.
+
+763
+01:45:58,360 --> 01:45:59,400
+Thank you.
+
+764
+01:46:28,360 --> 01:46:29,400
+Thank you.
+
+765
+01:46:58,360 --> 01:46:59,400
+Thank you.
+
+766
+01:47:28,360 --> 01:47:29,400
+Thank you.
+
+767
+01:47:58,360 --> 01:47:59,400
+Thank you.
+
+768
+01:48:28,360 --> 01:48:29,400
+Thank you.
+
+769
+01:48:58,360 --> 01:48:59,400
+Thank you.
+
+770
+01:49:28,360 --> 01:49:29,400
+Thank you.
+
+771
+01:49:58,400 --> 01:49:59,400
+Thank you.
+
+772
+01:50:10,400 --> 01:50:11,400
+Okay.
+
+773
+01:50:11,400 --> 01:50:17,400
+Hopefully those of you that are online are working your way back to your computers and can hear me.
+
+774
+01:50:17,400 --> 01:50:23,400
+I know Megan should be right back, but we're going to go ahead and keep moving.
+
+775
+01:50:23,440 --> 01:50:28,440
+I hope that you aren't getting something out of the session today.
+
+776
+01:50:28,440 --> 01:50:38,440
+I'm trying to make it educational and useful so you can apply it to what you're actually doing.
+
+777
+01:50:38,440 --> 01:50:39,440
+All right.
+
+778
+01:50:39,440 --> 01:50:42,440
+So we're going to you're done with rubrics.
+
+779
+01:50:42,440 --> 01:50:47,440
+We're going to move on to this feedback.
+
+780
+01:50:47,440 --> 01:50:50,440
+Feedback, feedback, feedback.
+
+781
+01:50:50,440 --> 01:50:51,440
+Okay.
+
+782
+01:50:51,480 --> 01:51:00,480
+I want you guys to think about for a moment the time in your life, and it doesn't have to be education.
+
+783
+01:51:00,480 --> 01:51:08,480
+It can just be any time in your life when feedback was valuable to them.
+
+784
+01:51:08,480 --> 01:51:13,480
+And how did you use that feedback to improve?
+
+785
+01:51:13,480 --> 01:51:14,480
+Okay.
+
+786
+01:51:14,520 --> 01:51:19,520
+So in your personal life or in your careers, it could be another career.
+
+787
+01:51:19,520 --> 01:51:26,520
+Think about a time when feedback was valuable and how you use that feedback to improve to yourself.
+
+788
+01:51:26,520 --> 01:51:40,520
+Now, I'm not going to ask you to share, but I'm sure we all have a time or two where even if it wasn't positive feedback,
+
+789
+01:51:40,560 --> 01:51:49,560
+if it was given in the right way that we were able to improve and to become better from that.
+
+790
+01:51:49,560 --> 01:51:50,560
+Right.
+
+791
+01:51:50,560 --> 01:51:56,560
+So when you think about feedback, it should be timely and specific.
+
+792
+01:51:56,560 --> 01:51:57,560
+All right.
+
+793
+01:51:57,560 --> 01:52:02,560
+So, you know, you don't want to write it.
+
+794
+01:52:02,600 --> 01:52:13,600
+If something happened last semester, hopefully your supervisor here on campus addressed it shortly after it happened.
+
+795
+01:52:13,600 --> 01:52:14,600
+Right.
+
+796
+01:52:14,600 --> 01:52:15,600
+Or positive or negative.
+
+797
+01:52:15,600 --> 01:52:24,600
+If they are coming to you next week, the first week of school and being like, hey, I want to talk to you about XYZ that happened back in October.
+
+798
+01:52:24,600 --> 01:52:27,600
+That's not really timely feedback.
+
+799
+01:52:27,640 --> 01:52:28,640
+Right.
+
+800
+01:52:28,640 --> 01:52:35,640
+But I mean, that could also be situational for some reason, if it was something dealing with a student and the student just came forward.
+
+801
+01:52:35,640 --> 01:52:37,640
+Well, then maybe it is considered timely.
+
+802
+01:52:37,640 --> 01:52:38,640
+Right.
+
+803
+01:52:38,640 --> 01:52:43,640
+But you really want it to be timely, constructive and encouraging.
+
+804
+01:52:43,640 --> 01:52:44,640
+Okay.
+
+805
+01:52:44,640 --> 01:52:49,640
+So, yeah, you know, here, this is encouraging.
+
+806
+01:52:49,680 --> 01:52:54,680
+Encourage them to do good, but yet be constructive at the same time, helping them to improve.
+
+807
+01:52:54,680 --> 01:52:59,680
+I know when I, it's funny how you learn things and you don't, you're not trying to learn things to apply to your life.
+
+808
+01:52:59,680 --> 01:53:10,680
+When I was working on my master's degree, one thing I picked up in the first year of high school was that I didn't know how to write.
+
+809
+01:53:10,720 --> 01:53:15,720
+One thing I picked up in the feedback from instructors on assignments and stuff was they always tended to start the feedback with something positive.
+
+810
+01:53:24,720 --> 01:53:25,720
+Okay.
+
+811
+01:53:25,720 --> 01:53:29,720
+And so, I and so and so that, that stuck with me.
+
+812
+01:53:29,720 --> 01:53:30,720
+Okay.
+
+813
+01:53:30,720 --> 01:53:34,720
+You know, about the assignment or whatever, they always talked about the good things first.
+
+814
+01:53:34,720 --> 01:53:40,320
+the assignment or whatever. They always talked about the good things first. And so when I'm giving
+
+815
+01:53:40,320 --> 01:53:46,960
+feedback to students on assignments, I kind of have switched my mindset. I've tried to be very
+
+816
+01:53:46,960 --> 01:53:57,040
+conscious about saying something positive first, okay? Because think about it, right? If you hear
+
+817
+01:53:57,040 --> 01:54:04,000
+something negative yourself first, what happens? Or you read something negative, right? Your
+
+818
+01:54:04,000 --> 01:54:08,560
+self-esteem goes down, your emotions go down. You're going to take the rest of the feedback.
+
+819
+01:54:10,160 --> 01:54:18,560
+Who knows how, right? But if you hear something positive first, you know, and then be like,
+
+820
+01:54:18,560 --> 01:54:24,080
+hey, I'm going to pick a good chasm, okay? To your side manners or whatever. You know, you can be
+
+821
+01:54:24,080 --> 01:54:31,280
+like, hey, you know, you started out great. You did good. You welcomed the client. You called them
+
+822
+01:54:31,280 --> 01:54:37,520
+by their name. You greeted them, shook their hand, whatever. But then as I was, and then as
+
+823
+01:54:37,520 --> 01:54:43,600
+you were going through it, you kind of got quiet, right? Maybe you focused a little bit too much,
+
+824
+01:54:43,600 --> 01:54:48,640
+which they probably do at first, on focused on the task at hand and getting the hairs done or
+
+825
+01:54:48,640 --> 01:54:53,680
+getting the nails done. You know, maybe in the future, maybe try asking a couple of questions
+
+826
+01:54:53,680 --> 01:54:59,520
+and learning about. Do you think that student's going to take that feedback a little different
+
+827
+01:54:59,520 --> 01:55:04,320
+than just saying, you didn't do a good job. You need to ask, talk and ask more questions.
+
+828
+01:55:04,960 --> 01:55:11,360
+You're probably going to take it differently, right? So just think about how you can do that.
+
+829
+01:55:12,480 --> 01:55:20,160
+Clear goals and expectations, try to personalize it. Again, this constructive criticism,
+
+830
+01:55:20,960 --> 01:55:28,160
+balance that critique and praise, okay? So even if it's something that is really, really bad,
+
+831
+01:55:28,800 --> 01:55:36,480
+and this is challenging sometimes, you try to find that little positive, that little praise in
+
+832
+01:55:36,480 --> 01:55:42,720
+there when we're giving feedback, right? Because we all know that you want that praise. You want
+
+833
+01:55:42,720 --> 01:55:49,360
+that pat on the back somehow. Actionable and specific steps, non-comparative opportunities
+
+834
+01:55:49,360 --> 01:55:55,680
+for self-assessment, continuous improvement, respectful and supportive. You know, when we
+
+835
+01:55:55,680 --> 01:56:01,840
+talk about like actionable and specific steps, one thing could be like the next time you do this,
+
+836
+01:56:01,840 --> 01:56:11,920
+try X, Y, Z, right? Here's steps that you can try to do that. And then work your way through that.
+
+837
+01:56:11,920 --> 01:56:28,800
+Okay. I want you to pause for a moment. Just take about, when you design,
+
+838
+01:56:31,680 --> 01:56:36,240
+when you design, we're going to come back to this in a second. I think I got more talking points on
+
+839
+01:56:36,240 --> 01:56:42,240
+my sheet here. When designing assignments, it is important to be clear what you are looking for to
+
+840
+01:56:42,240 --> 01:56:47,680
+aid you in providing your feedback. So think about, we just talked about rubrics, right?
+
+841
+01:56:47,680 --> 01:56:55,120
+And improving using rubrics, and they can help you with that feedback. If you're saying, okay,
+
+842
+01:56:56,160 --> 01:57:00,960
+if you have a specific, and this could work with medical lab tech too, if they're dealing with
+
+843
+01:57:00,960 --> 01:57:07,200
+customers, right? Did you introduce the talk, you know, welcome them by name first?
+
+844
+01:57:08,080 --> 01:57:12,800
+That could be on the rubric question. Did you ask them a couple of questions to try to learn about
+
+845
+01:57:12,800 --> 01:57:18,080
+them, right? Well, if that's specifically on the rubric, you know, you can say, no, you didn't do
+
+846
+01:57:18,080 --> 01:57:25,200
+this, you know, so here's, do that. And maybe give, maybe in class, you guys could brainstorm,
+
+847
+01:57:25,200 --> 01:57:30,560
+what are some questions you might ask clients to learn more about them,
+
+848
+01:57:31,600 --> 01:57:36,480
+okay? And have them come up with a list of questions, and then they could have that maybe
+
+849
+01:57:36,480 --> 01:57:44,720
+in their background. So as we're planning for feedback and using rubrics for that,
+
+850
+01:57:46,080 --> 01:57:54,080
+it's important to know, just keep that in mind. And it's when you're laying out those
+
+851
+01:57:54,160 --> 01:58:01,120
+assignments to make sure, sure that you're clear. I find that attaching the rubric to the assignment
+
+852
+01:58:01,120 --> 01:58:09,120
+using bullet points on assignments to say, this is what I'm looking for, instead of like paragraph
+
+853
+01:58:09,120 --> 01:58:15,120
+form tends to work very well with clear communication and provide that feedback, because
+
+854
+01:58:15,120 --> 01:58:20,320
+the student can kind of use it like a checklist, and they can work their way down. This is what I
+
+855
+01:58:20,320 --> 01:58:29,280
+need to do on this assignment. And so that can become pretty, pretty useful. I do have some
+
+856
+01:58:29,280 --> 01:58:42,560
+resources on Schoology for you on feedback, in the feedback section here. So there's different,
+
+857
+01:58:42,560 --> 01:58:50,400
+these are just different ways, articles that you can read on your own, to talk about
+
+858
+01:58:51,120 --> 01:59:00,400
+ways to provide feedback, and how to do it. And those are just for you to read on your own.
+
+859
+01:59:00,400 --> 01:59:10,160
+So what I want you to do right now is, I want you to think of some ways you want to improve
+
+860
+01:59:10,160 --> 01:59:16,880
+your feedback to your students. How can you improve feedback to students when you're talking
+
+861
+01:59:16,880 --> 01:59:24,480
+with them? I'll give you about, take about three, take just a couple minutes to think about that.
+
+862
+01:59:24,480 --> 01:59:31,680
+And then I want you to share with your neighbor and talk about feedback, how you can bounce ideas
+
+863
+01:59:31,680 --> 01:59:36,080
+off each other with sharing feedback. Those of you online, I'm going to put you into
+
+864
+01:59:36,480 --> 01:59:47,920
+breakout rooms again, to allow you to chat, talk about ways that you can
+
+865
+01:59:49,600 --> 01:59:54,800
+use feedback in the classroom in different things, and share ideas back and forth.
+
+866
+01:59:54,800 --> 02:00:00,640
+So I'll put you in breakout rooms again, and we'll do this for about six, seven minutes.
+
+867
+02:01:36,320 --> 02:01:40,000
+When you're ready, Ty, if you want to come sit over here, you could chat with
+
+868
+02:01:40,800 --> 02:01:44,480
+Austin and Megan about feedback. And Kylie, you can talk with
+
+869
+02:01:46,720 --> 02:01:52,080
+household ladies. Learn to take advantage of their services. Yeah.
+
+870
+02:01:52,640 --> 02:01:56,800
+I don't know if you got any big ideas. Did they have any special questions?
+
+871
+02:01:56,800 --> 02:01:57,760
+No, they haven't. They have.
+
+872
+02:01:57,760 --> 02:02:01,520
+Can I hear something that could be very good? Or what's going to work for them?
+
+873
+02:02:03,120 --> 02:02:05,040
+Very reasonable questions.
+
+874
+02:02:05,040 --> 02:02:05,540
+Yes.
+
+875
+02:02:22,160 --> 02:02:30,560
+If it's about the time that you get to teaching, then it would be timely for an attorney.
+
+876
+02:02:30,560 --> 02:02:33,280
+It would be timely for them to improve.
+
+877
+02:02:36,640 --> 02:02:40,800
+Especially since we all need to do a lot of other stuff, and we need to regulate
+
+878
+02:02:41,040 --> 02:02:51,040
+the time.
+
+879
+02:03:01,840 --> 02:03:05,360
+I guess that would help. But for me, one of the things,
+
+880
+02:03:05,360 --> 02:03:11,120
+you need to do is coordinate times and space.
+
+881
+02:03:35,360 --> 02:03:37,420
+you
+
+882
+02:04:05,360 --> 02:04:07,420
+you
+
+883
+02:04:35,360 --> 02:04:38,420
+you
+
+884
+02:05:05,360 --> 02:05:08,420
+you
+
+885
+02:05:35,360 --> 02:05:38,420
+you
+
+886
+02:06:05,360 --> 02:06:08,420
+you
+
+887
+02:06:35,360 --> 02:06:38,420
+you
+
+888
+02:07:05,360 --> 02:07:08,420
+you
+
+889
+02:07:35,360 --> 02:07:37,360
+you
+
+890
+02:08:05,360 --> 02:08:08,420
+you
+
+891
+02:08:35,360 --> 02:08:37,360
+you
+
+892
+02:08:37,360 --> 02:08:39,360
+you
+
+893
+02:08:39,360 --> 02:08:41,360
+you
+
+894
+02:08:41,360 --> 02:08:43,360
+you
+
+895
+02:09:04,360 --> 02:09:06,360
+you
+
+896
+02:09:06,360 --> 02:09:11,600
+oh my gosh ladies and gentlemen online I'm so sorry I just remembered I was muted
+
+897
+02:09:11,600 --> 02:09:16,960
+all right so now you can hear me all right so I'm going to repeat I hope you
+
+898
+02:09:16,960 --> 02:09:24,640
+enjoyed sharing with with each other about learning feedback birthday September
+
+899
+02:09:24,640 --> 02:09:28,480
+and talk about universal design for learning when you think about
+
+900
+02:09:28,480 --> 02:09:35,120
+universal design the concept really first came to mind when people think of
+
+901
+02:09:35,120 --> 02:09:43,640
+universal design regarding like facilities okay making sure that people
+
+902
+02:09:43,640 --> 02:09:48,720
+in wheelchairs can get into the building people have in wheelchair with
+
+903
+02:09:48,720 --> 02:09:55,440
+disabilities can get up and down stairs okay but when we it can also be applied
+
+904
+02:09:55,440 --> 02:10:03,600
+to learning into curriculum design into assessment and so a few years ago the
+
+905
+02:10:03,640 --> 02:10:09,160
+the the college really embraced and embarked on this idea of including
+
+906
+02:10:09,160 --> 02:10:15,680
+universal design for learning into our our teaching and learning here in campus
+
+907
+02:10:15,680 --> 02:10:22,800
+so we're gonna start by watching a video to learn exactly what UD universal
+
+908
+02:10:22,800 --> 02:10:26,680
+design at the college level means
+
+909
+02:10:26,680 --> 02:10:28,720
+you
+
+910
+02:10:31,720 --> 02:10:34,720
+learning is really
+
+911
+02:10:56,680 --> 02:10:58,720
+you
+
+912
+02:11:15,520 --> 02:11:19,520
+we can't hear your video
+
+913
+02:11:26,680 --> 02:11:38,000
+repeat say that we're not able to hear your video you can't hear the video okay
+
+914
+02:11:38,000 --> 02:11:42,000
+thank you
+
+915
+02:11:57,280 --> 02:12:03,400
+there's stuff is hiding behind okay
+
+916
+02:12:05,880 --> 02:12:09,120
+well it's shared
+
+917
+02:12:11,360 --> 02:12:20,200
+hey all right it's saying that the sound is shared so let's try this again
+
+918
+02:12:20,320 --> 02:12:23,680
+well maybe I'll just stop shared
+
+919
+02:12:25,240 --> 02:12:27,860
+hey
+
+920
+02:12:34,160 --> 02:12:36,600
+Martin
+
+921
+02:12:50,200 --> 02:12:56,120
+Learning is really a lifelong journey and when students come to post-secondary
+
+922
+02:12:56,120 --> 02:13:00,640
+they're incredibly different. They have a wide range of strengths and weaknesses and
+
+923
+02:13:00,640 --> 02:13:06,600
+UDL is really about how to make that learning journey tractable for as many
+
+924
+02:13:06,600 --> 02:13:08,760
+of those learners as possible.
+
+925
+02:13:08,760 --> 02:13:14,320
+I think UDL is important because of the variability that we have across learners.
+
+926
+02:13:14,320 --> 02:13:18,120
+We often think about individuals with disabilities as individuals at the
+
+927
+02:13:18,120 --> 02:13:24,200
+margins and that if we can develop or create learning environments for those
+
+928
+02:13:24,200 --> 02:13:28,600
+individuals at either end of the bell curve we go a long way towards addressing
+
+929
+02:13:28,600 --> 02:13:30,920
+the needs of everyone else in between.
+
+930
+02:13:30,920 --> 02:13:36,280
+We've seen an enormous growth in interest in using UDL ranging from
+
+931
+02:13:36,280 --> 02:13:40,200
+individual faculty members wanting to use it to whole departments to sometimes
+
+932
+02:13:40,200 --> 02:13:45,280
+whole institutions wanting to adopt it as an approach to really better serving
+
+933
+02:13:45,280 --> 02:13:47,760
+the broad range of students that are on campus.
+
+934
+02:13:47,800 --> 02:13:55,080
+It is not about faculty being the experts or administrators being the experts
+
+935
+02:13:55,080 --> 02:13:58,080
+but the ethos of we're all in this together.
+
+936
+02:13:59,080 --> 02:14:04,800
+In a UDL classroom I felt like I wasn't you know feeling bad because you know I
+
+937
+02:14:04,800 --> 02:14:09,640
+didn't participate like another student. I was more so looking at myself and
+
+938
+02:14:09,640 --> 02:14:11,560
+trying to be my best learner.
+
+939
+02:14:11,560 --> 02:14:15,920
+I think this is really made my learning deeper. It's different to me than
+
+940
+02:14:15,920 --> 02:14:19,840
+lecture-based courses where I sort of hear information think it's really
+
+941
+02:14:19,840 --> 02:14:23,120
+interesting but then end up forgetting it down the line.
+
+942
+02:14:23,120 --> 02:14:27,040
+UDL is really critical for helping faculty feel like they can teach all
+
+943
+02:14:27,040 --> 02:14:30,640
+students because it's about designing for all students from the outside.
+
+944
+02:14:30,640 --> 02:14:36,720
+UDL is really about bringing flexibility and options into the environment by
+
+945
+02:14:36,720 --> 02:14:42,360
+design so that students will have the resources that they need to make
+
+946
+02:14:42,360 --> 02:14:45,360
+learning tractable in post-secondary environments.
+
+947
+02:14:46,920 --> 02:14:47,920
+Okay.
+
+948
+02:14:57,920 --> 02:15:05,920
+So that gives you a little bit about universal design and on the hub there is
+
+949
+02:15:05,920 --> 02:15:13,920
+a whole page on the hub design focus on the universal design.
+
+950
+02:15:13,920 --> 02:15:21,920
+So that way you can go out there and get resources to help you incorporate
+
+951
+02:15:21,920 --> 02:15:30,920
+some of these activities into your teaching and learning.
+
+952
+02:15:30,920 --> 02:15:35,920
+A lot of it as we look right here focuses on understanding executive
+
+953
+02:15:35,920 --> 02:15:41,920
+function and cognitive flow in the minds of our students and that brain development.
+
+954
+02:15:41,920 --> 02:15:47,920
+They're all coming in at difference and can definitely handle different amounts
+
+955
+02:15:47,920 --> 02:15:52,920
+of executive function and just understanding how different things look.
+
+956
+02:15:52,920 --> 02:15:56,920
+So I encourage you to spend some time focusing on that.
+
+957
+02:15:56,920 --> 02:16:03,920
+And there's a lot of fancy things out there regarding universal design but you
+
+958
+02:16:03,920 --> 02:16:09,920
+don't have to take and do a lot. Sometimes it can just be something simple.
+
+959
+02:16:09,920 --> 02:16:14,920
+So, for example, one way that we've incorporated universal design in
+
+960
+02:16:14,920 --> 02:16:20,920
+agriculture is that every single instructor lays Schoology out the same way.
+
+961
+02:16:20,920 --> 02:16:22,920
+So what do I mean by that?
+
+962
+02:16:22,920 --> 02:16:27,920
+So I'm going to go in here to my last semester.
+
+963
+02:16:27,920 --> 02:16:29,920
+So I don't have the semester set up.
+
+964
+02:16:32,920 --> 02:16:36,920
+So I go to my Plant and Soil Science class.
+
+965
+02:16:36,920 --> 02:16:40,920
+Okay, we all have, when I say layout statement, we all lay the coursework
+
+966
+02:16:40,920 --> 02:16:42,920
+folder out the same way.
+
+967
+02:16:42,920 --> 02:16:46,920
+We all lay the coursework folder out by week like this.
+
+968
+02:16:46,920 --> 02:16:52,920
+So that way when students, because the students have all of us as instructors.
+
+969
+02:16:52,920 --> 02:16:56,920
+They have me, they have Ryan, they have Andrew, they have Kaylee.
+
+970
+02:16:56,920 --> 02:17:00,920
+So that way as they're bouncing around between instructors, they know that
+
+971
+02:17:00,920 --> 02:17:05,920
+they're going to find everything for that week for that instructor in that
+
+972
+02:17:05,920 --> 02:17:06,920
+folder.
+
+973
+02:17:06,920 --> 02:17:11,920
+What we were seeing before we did this is that some instructors like in
+
+974
+02:17:11,920 --> 02:17:14,920
+under coursework, they had like a folder for tests.
+
+975
+02:17:14,920 --> 02:17:17,920
+They had a folder for assignments, like in-class assignments.
+
+976
+02:17:17,920 --> 02:17:20,920
+They had a folder for out-of-class assignments.
+
+977
+02:17:20,920 --> 02:17:25,920
+And so students were just very confused because they would find it in one place
+
+978
+02:17:25,920 --> 02:17:27,920
+on somebody's Schoology page.
+
+979
+02:17:27,920 --> 02:17:32,920
+They would find it, they could find it on another instructor's Schoology page.
+
+980
+02:17:32,920 --> 02:17:38,920
+So we found that by incorporating a simple layout like this amongst all
+
+981
+02:17:38,920 --> 02:17:42,920
+instructors that it really helps with that cognitive load.
+
+982
+02:17:42,920 --> 02:17:47,920
+And we're not dealing with in-class certain things as they're trying to
+
+983
+02:17:47,920 --> 02:17:49,920
+monitor between instructors.
+
+984
+02:17:49,920 --> 02:17:55,920
+And in fact, when we do this, when we bring an adjunct on, right, Ty, we tell
+
+985
+02:17:56,920 --> 02:18:02,920
+our adjuncts, we want you to lay out your course in Schoology this way.
+
+986
+02:18:02,920 --> 02:18:08,920
+And it's a simple universal design factor, but it really has helped our students
+
+987
+02:18:08,920 --> 02:18:11,920
+comprehend, okay, that's why I put the dates there.
+
+988
+02:18:11,920 --> 02:18:16,920
+Hey, I missed September, I missed a class this week.
+
+989
+02:18:16,920 --> 02:18:20,920
+Well, they can just go in and go right to this folder with this date and see what
+
+990
+02:18:20,920 --> 02:18:21,920
+they, right.
+
+991
+02:18:21,920 --> 02:18:26,920
+I don't have to specifically as an instructor say, you know, this PowerPoint,
+
+992
+02:18:26,920 --> 02:18:29,920
+find this PowerPoint, find this whatever in the PowerPoint folder or this
+
+993
+02:18:29,920 --> 02:18:30,920
+assignment here.
+
+994
+02:18:30,920 --> 02:18:31,920
+It's right there.
+
+995
+02:18:31,920 --> 02:18:35,920
+And so that is an example of something we've done.
+
+996
+02:18:35,920 --> 02:18:45,920
+Believe it or not, the use of rubrics is a universal design for learning that you
+
+997
+02:18:45,920 --> 02:18:46,920
+can use.
+
+998
+02:18:47,920 --> 02:18:52,920
+And part of that is it details directions.
+
+999
+02:18:52,920 --> 02:18:53,920
+Okay.
+
+1000
+02:18:53,920 --> 02:19:00,920
+The more to the students of reducing that cognitive load by having detailed
+
+1001
+02:19:00,920 --> 02:19:03,920
+directions out there.
+
+1002
+02:19:03,920 --> 02:19:10,920
+Some other things, a couple years ago, there's a, we partnered with a college
+
+1003
+02:19:11,920 --> 02:19:17,920
+called Landmark College out in Vermont that specifically deals, focuses on
+
+1004
+02:19:17,920 --> 02:19:23,920
+training people across the country on this topic of universal design.
+
+1005
+02:19:23,920 --> 02:19:28,920
+And they are a special needs college designed for special needs students.
+
+1006
+02:19:28,920 --> 02:19:34,920
+And they implement this universal design learn throughout their curriculum.
+
+1007
+02:19:34,920 --> 02:19:39,920
+And a group of us from campus actually got to go to their conference during the
+
+1008
+02:19:39,920 --> 02:19:44,920
+summer out in Vermont to really learn about universal design.
+
+1009
+02:19:44,920 --> 02:19:50,920
+And it was really instrumental in kind of changing as the way I think about do
+
+1010
+02:19:50,920 --> 02:19:52,920
+some things in the classroom.
+
+1011
+02:19:52,920 --> 02:19:55,920
+How many of you have, I'm going to get the room number wrong, but that room in
+
+1012
+02:19:55,920 --> 02:19:59,920
+200 was like the tables where you can stand where we had speed of trust.
+
+1013
+02:19:59,920 --> 02:20:02,920
+Tables you can stand has other comfortable chairs.
+
+1014
+02:20:02,920 --> 02:20:03,920
+Okay.
+
+1015
+02:20:03,920 --> 02:20:09,920
+That room was a, is a universal designed room to help make students more
+
+1016
+02:20:09,920 --> 02:20:10,920
+comfortable.
+
+1017
+02:20:10,920 --> 02:20:11,920
+Okay.
+
+1018
+02:20:11,920 --> 02:20:17,920
+Get in a, get in a situation, get in a, a mode sitting where you're
+
+1019
+02:20:17,920 --> 02:20:18,920
+comfortable.
+
+1020
+02:20:18,920 --> 02:20:21,920
+I especially like the stand up tables in that room.
+
+1021
+02:20:21,920 --> 02:20:24,920
+Now I think we should have some of the higher stand up tables.
+
+1022
+02:20:24,920 --> 02:20:28,920
+I don't know so much about the lazy boy type chairs, but you sat in one of
+
+1023
+02:20:28,920 --> 02:20:29,920
+those.
+
+1024
+02:20:29,920 --> 02:20:30,920
+You were comfy.
+
+1025
+02:20:30,920 --> 02:20:31,920
+Megan did.
+
+1026
+02:20:31,920 --> 02:20:32,920
+Megan did.
+
+1027
+02:20:32,920 --> 02:20:38,920
+But, you know, I, you know, so that doing something like that is universal
+
+1028
+02:20:38,920 --> 02:20:39,920
+design.
+
+1029
+02:20:39,920 --> 02:20:42,920
+Fidget toys.
+
+1030
+02:20:42,920 --> 02:20:43,920
+Okay.
+
+1031
+02:20:43,920 --> 02:20:49,920
+I have fidget toys on my desk or on my tables in my classroom.
+
+1032
+02:20:49,920 --> 02:20:50,920
+Okay.
+
+1033
+02:20:50,920 --> 02:20:52,920
+I teach farm kids.
+
+1034
+02:20:52,920 --> 02:20:53,920
+Okay.
+
+1035
+02:20:53,920 --> 02:20:55,920
+They don't sit still.
+
+1036
+02:20:55,920 --> 02:20:56,920
+Okay.
+
+1037
+02:20:56,920 --> 02:20:57,920
+Okay.
+
+1038
+02:20:57,920 --> 02:21:02,920
+I find that by providing some simple fidget toys, this is another universal
+
+1039
+02:21:02,920 --> 02:21:05,920
+design thing, for them to play with.
+
+1040
+02:21:05,920 --> 02:21:06,920
+Guess what?
+
+1041
+02:21:06,920 --> 02:21:09,920
+They're not playing.
+
+1042
+02:21:09,920 --> 02:21:11,920
+Their phone.
+
+1043
+02:21:11,920 --> 02:21:12,920
+Okay.
+
+1044
+02:21:12,920 --> 02:21:17,920
+So I provide fidget toys for them to, to sit there and fidget with while
+
+1045
+02:21:17,920 --> 02:21:22,920
+they are, while they're listening to lectures and doing stuff.
+
+1046
+02:21:22,920 --> 02:21:25,920
+And I actually do find that at times.
+
+1047
+02:21:25,920 --> 02:21:30,920
+The only thing else I do is I feed them.
+
+1048
+02:21:30,920 --> 02:21:32,920
+What do I mean by I feed them?
+
+1049
+02:21:32,920 --> 02:21:34,920
+I use Jolly Ranchers.
+
+1050
+02:21:34,920 --> 02:21:37,920
+My coworker, Ryan, he uses Dumb Dumb Suckers.
+
+1051
+02:21:37,920 --> 02:21:42,920
+But when my personal children were in elementary school, I remember one of my
+
+1052
+02:21:42,920 --> 02:21:47,920
+kids coming home one day talking about state testing since they were giving
+
+1053
+02:21:47,920 --> 02:21:51,920
+them like either gum to chew or like candy to suck on while they were doing
+
+1054
+02:21:51,920 --> 02:21:54,920
+their state testing to help them focus.
+
+1055
+02:21:54,920 --> 02:22:01,920
+But if they're doing this with elementary school kids and it works, what
+
+1056
+02:22:01,920 --> 02:22:03,920
+about college students?
+
+1057
+02:22:03,920 --> 02:22:04,920
+Right?
+
+1058
+02:22:04,920 --> 02:22:09,920
+So I buy Jolly Ranchers, buy the bulk off of the Amazon, and I keep
+
+1059
+02:22:09,920 --> 02:22:13,920
+handfuls of Jolly Ranchers with the fidget toys on the tables.
+
+1060
+02:22:13,920 --> 02:22:14,920
+So same thing.
+
+1061
+02:22:14,920 --> 02:22:18,920
+If they want something to suck on, help them focus or whatever, they can come
+
+1062
+02:22:18,920 --> 02:22:22,920
+in and they can have a Jolly Rancher or they can get a Dumb Dumb from Ryan.
+
+1063
+02:22:22,920 --> 02:22:26,920
+I know it kind of sounds silly, but you'd be amazed.
+
+1064
+02:22:26,920 --> 02:22:28,920
+No, no it doesn't.
+
+1065
+02:22:28,920 --> 02:22:34,920
+I had a middle school teacher that did something similar in social studies class
+
+1066
+02:22:34,920 --> 02:22:41,920
+except she would give us notes when we did reviews for tests and then again when
+
+1067
+02:22:41,920 --> 02:22:46,920
+we did the actual test and there is a link between taste and remembering things
+
+1068
+02:22:46,920 --> 02:22:48,920
+very strongly.
+
+1069
+02:22:48,920 --> 02:22:53,920
+If you have that, it's just like a very good trigger.
+
+1070
+02:22:53,920 --> 02:22:55,920
+So I used to miss it.
+
+1071
+02:22:55,920 --> 02:22:56,920
+Yeah.
+
+1072
+02:22:56,920 --> 02:23:01,920
+So I mean, I know those little things work, right?
+
+1073
+02:23:01,920 --> 02:23:08,920
+I know as an adult, I've been to some bigger sessions for organizations or
+
+1074
+02:23:08,920 --> 02:23:14,920
+different things I've been involved with and they provided adult fidget toys to
+
+1075
+02:23:14,920 --> 02:23:17,920
+help concentrate and stuff.
+
+1076
+02:23:17,920 --> 02:23:23,920
+So it's again, just little things to think about that you can do that really
+
+1077
+02:23:23,920 --> 02:23:27,920
+sometimes helps those students focus.
+
+1078
+02:23:27,920 --> 02:23:31,920
+Now, I don't know, maybe medical lab tech, you might not want food because maybe
+
+1079
+02:23:31,920 --> 02:23:35,920
+they can't have food in the lab and stuff, but I mean are there certain other
+
+1080
+02:23:35,920 --> 02:23:38,920
+things that you can do to really help those students focus?
+
+1081
+02:23:38,920 --> 02:23:41,920
+And that's what universal design is really about.
+
+1082
+02:23:41,920 --> 02:23:46,920
+Focusing on cognitive load, helping, working on communication.
+
+1083
+02:23:46,920 --> 02:23:52,920
+Sometimes in Landmark, they talked about how basically they talk to their
+
+1084
+02:23:52,920 --> 02:23:58,920
+students that it's okay to walk out of a classroom.
+
+1085
+02:23:58,920 --> 02:24:04,920
+Like if a student is feeling overwhelmed, they need to kind of reset their mind,
+
+1086
+02:24:04,920 --> 02:24:08,920
+reset their cognitive load, the student needs to stand up and walk out of class
+
+1087
+02:24:08,920 --> 02:24:12,920
+and kind of gather themselves and then come back, like that's okay.
+
+1088
+02:24:12,920 --> 02:24:19,920
+And so I encourage you, those of you that are new, as you're building your
+
+1089
+02:24:19,920 --> 02:24:24,920
+professional development plans and stuff for next year and the future, I really
+
+1090
+02:24:24,920 --> 02:24:30,920
+encourage you to maybe do some studying, some learning about universal design.
+
+1091
+02:24:30,920 --> 02:24:40,920
+Chris Bowers on campus in the Knox is our go-to person about UDL, but Betsy
+
+1092
+02:24:40,920 --> 02:24:46,920
+Tollefson, I think this is supposed to be Betsy Tollefson, was also one of the
+
+1093
+02:24:46,920 --> 02:24:50,920
+core people when the college really did this.
+
+1094
+02:24:50,920 --> 02:24:57,920
+And so you will see all these resources here regarding universal design.
+
+1095
+02:24:58,920 --> 02:25:05,920
+Okay, any questions on universal design or anything?
+
+1096
+02:25:05,920 --> 02:25:14,920
+All right, I'm going to go ahead and move right into sometimes, where's my color?
+
+1097
+02:25:14,920 --> 02:25:20,920
+Okay, so I want you to think, I'm not going to have you share again just because
+
+1098
+02:25:20,920 --> 02:25:26,920
+I'm trying to push here today, really think about is there one little thing
+
+1099
+02:25:26,920 --> 02:25:30,920
+that you can do this semester from the universal design aspect to incorporate
+
+1100
+02:25:30,920 --> 02:25:35,920
+it into your classroom, whether it be fidget toys, maybe it's you're going to
+
+1101
+02:25:35,920 --> 02:25:39,920
+switch the layout of your school to be more clear.
+
+1102
+02:25:39,920 --> 02:25:45,920
+Maybe it's just something as simple as using a rubric or two on there to really
+
+1103
+02:25:45,920 --> 02:25:48,920
+try to figure things out, okay?
+
+1104
+02:25:48,920 --> 02:25:54,920
+Any questions or comments on universal design?
+
+1105
+02:25:54,920 --> 02:25:57,920
+Okay, we're going to push through.
+
+1106
+02:25:57,920 --> 02:26:06,920
+We're going to get into the last area for this morning, and that is using data to
+
+1107
+02:26:06,920 --> 02:26:18,920
+inform decision making, using data to inform decision making about the teaching
+
+1108
+02:26:18,920 --> 02:26:21,920
+and learning processes, okay?
+
+1109
+02:26:21,920 --> 02:26:27,920
+So, data drives the decisions the college makes.
+
+1110
+02:26:27,920 --> 02:26:33,920
+Everything we do here at the college goes back to some type of data, and
+
+1111
+02:26:33,920 --> 02:26:38,920
+hopefully those of you that have been adjuncts really aren't involved in IVP and
+
+1112
+02:26:38,920 --> 02:26:44,920
+don't always see the data side as much as full-time instructors, but I know
+
+1113
+02:26:44,920 --> 02:26:50,920
+Lauren has been involved with this, and Kylie, you're going to get involved, and
+
+1114
+02:26:50,920 --> 02:26:55,920
+Austin, you've been involved a little bit, Megan, you're tweaking on it on how
+
+1115
+02:26:55,920 --> 02:26:57,920
+we use this data.
+
+1116
+02:26:57,920 --> 02:27:04,920
+And so, the data that we get should have an impact on the changes you make to
+
+1117
+02:27:04,920 --> 02:27:07,920
+your programs and to your courses, okay?
+
+1118
+02:27:07,920 --> 02:27:15,920
+So, really when we're analyzing assessment, well, everyone did horrible on
+
+1119
+02:27:15,920 --> 02:27:17,920
+that assessment, okay?
+
+1120
+02:27:17,920 --> 02:27:23,920
+Well, yeah, I've got the data here to show that they averaged 60%, right?
+
+1121
+02:27:23,920 --> 02:27:24,920
+That's bad, right?
+
+1122
+02:27:24,920 --> 02:27:25,920
+We obviously don't want that.
+
+1123
+02:27:25,920 --> 02:27:28,920
+You know, so what am I going to do to change that?
+
+1124
+02:27:28,920 --> 02:27:32,920
+And so, then you reflect and you implement and you make changes, and we have a
+
+1125
+02:27:32,920 --> 02:27:37,920
+system designed here on campus to really help that.
+
+1126
+02:27:37,920 --> 02:27:41,920
+So, as you can see here, this is, you will see this on the assessment page on the
+
+1127
+02:27:41,920 --> 02:27:42,920
+hub.
+
+1128
+02:27:42,920 --> 02:27:48,920
+You'll see this hanging in various offices, but this is our culture of assessment
+
+1129
+02:27:48,920 --> 02:27:55,920
+here on campus, and as you can see when you look at these, it impacts, we assess
+
+1130
+02:27:55,920 --> 02:28:00,920
+the co-curriculars and the knowledge core abilities.
+
+1131
+02:28:00,920 --> 02:28:07,920
+I believe that's, we do that through assessing our student employees on campus
+
+1132
+02:28:07,920 --> 02:28:12,920
+and working with students that are assessing students at clubs.
+
+1133
+02:28:12,920 --> 02:28:17,920
+The student level, we assess what's going on inside the classroom.
+
+1134
+02:28:17,920 --> 02:28:24,920
+Faculty level, we have a support day in January to help you.
+
+1135
+02:28:24,920 --> 02:28:27,920
+Course level, these are the course assessments.
+
+1136
+02:28:27,920 --> 02:28:30,920
+We're going to talk a little bit about that and how to do that.
+
+1137
+02:28:30,920 --> 02:28:34,920
+Those are the ones that need to be done with your syllabus and grades.
+
+1138
+02:28:34,920 --> 02:28:41,920
+Program level, that's what we've worked on on Monday, okay, and the IBP
+
+1139
+02:28:41,920 --> 02:28:46,920
+instructional vitality process when we set our TAP plans, and then also at the
+
+1140
+02:28:46,920 --> 02:28:52,920
+college level, the institutional level, we make the advisors, financial aid
+
+1141
+02:28:52,920 --> 02:28:55,920
+office, everyone works through that.
+
+1142
+02:28:55,920 --> 02:29:01,920
+I need to update this slide because I know that one in October and stuff.
+
+1143
+02:29:01,920 --> 02:29:04,920
+So that's the culture of assessment on there.
+
+1144
+02:29:04,920 --> 02:29:12,920
+We also have our culture of, as you see here, these are two very similar cycles,
+
+1145
+02:29:12,920 --> 02:29:13,920
+and they kind of fit together.
+
+1146
+02:29:13,920 --> 02:29:19,920
+That's the culture of learning and the assessment cycle.
+
+1147
+02:29:19,920 --> 02:29:24,920
+So typically when we have learning, okay, we have our health TAP form.
+
+1148
+02:29:24,920 --> 02:29:27,920
+We're going to set our goals from those.
+
+1149
+02:29:27,920 --> 02:29:28,920
+We're going to carry out the plan.
+
+1150
+02:29:28,920 --> 02:29:30,920
+We're going to say did it work?
+
+1151
+02:29:30,920 --> 02:29:31,920
+We're going to use the results.
+
+1152
+02:29:31,920 --> 02:29:34,920
+We're going to keep doing this year after year.
+
+1153
+02:29:34,920 --> 02:29:40,920
+We're going to document it, which is if you take those words and actually
+
+1154
+02:29:40,920 --> 02:29:44,920
+replace them with assessment words, you're going to see that we start by
+
+1155
+02:29:44,920 --> 02:29:47,920
+we establish criteria for success.
+
+1156
+02:29:47,920 --> 02:29:51,920
+We're going to provide the programs and services.
+
+1157
+02:29:51,920 --> 02:29:53,920
+We're going to determine their effectiveness.
+
+1158
+02:29:53,920 --> 02:29:58,920
+We're going to use those results for improvement, and we're going to document it.
+
+1159
+02:29:58,920 --> 02:29:59,920
+Okay.
+
+1160
+02:29:59,920 --> 02:30:05,920
+Now, ultimately, this all, why do we do this?
+
+1161
+02:30:05,920 --> 02:30:10,920
+We do this for the idea of continual improvement.
+
+1162
+02:30:10,920 --> 02:30:13,920
+We want to improve and get better.
+
+1163
+02:30:13,920 --> 02:30:18,920
+And some people ask, well, why do we have to document it the way that we have to document it?
+
+1164
+02:30:18,920 --> 02:30:27,920
+And we have to document it the way that we do because HLC tells us to, right?
+
+1165
+02:30:27,920 --> 02:30:37,920
+We have to prove to HLC that we are assessing, that we are using the data
+
+1166
+02:30:37,920 --> 02:30:42,920
+from those assessment processes to make changes, to improve.
+
+1167
+02:30:42,920 --> 02:30:48,920
+Now, the way that we do it here on Southwest Campus is how we choose to do it.
+
+1168
+02:30:48,920 --> 02:30:51,920
+A different college is going to assess in different ways.
+
+1169
+02:30:51,920 --> 02:30:54,920
+If you came from a different college, you know that.
+
+1170
+02:30:54,920 --> 02:30:57,920
+Or if you go to work for a different college, you will see that.
+
+1171
+02:30:57,920 --> 02:30:58,920
+Okay.
+
+1172
+02:30:58,920 --> 02:31:05,920
+But overall, HLC tells us you have to prove to us that you're assessing your students.
+
+1173
+02:31:05,920 --> 02:31:08,920
+Okay.
+
+1174
+02:31:08,920 --> 02:31:14,920
+And so that's why we do these things.
+
+1175
+02:31:14,920 --> 02:31:26,920
+And a lot of this, what we have in place today is a result of the not good review we had 10 years ago.
+
+1176
+02:31:26,920 --> 02:31:27,920
+Okay.
+
+1177
+02:31:27,920 --> 02:31:38,920
+And so we went from a not good review 10 years ago to where now we get asked to talk about our assessment processes at college conferences.
+
+1178
+02:31:38,920 --> 02:31:41,920
+And people want to know what we're doing because it works.
+
+1179
+02:31:41,920 --> 02:31:42,920
+Okay.
+
+1180
+02:31:42,920 --> 02:31:45,920
+So where do you find the data?
+
+1181
+02:31:45,920 --> 02:31:46,920
+All right.
+
+1182
+02:31:46,920 --> 02:31:49,920
+So get your computers out.
+
+1183
+02:31:49,920 --> 02:31:51,920
+Those of you online, you can play along too.
+
+1184
+02:31:51,920 --> 02:31:58,920
+But some of you, this is going to be familiar because we just did some of this on Monday, the IVP day.
+
+1185
+02:31:58,920 --> 02:31:59,920
+The IVP day.
+
+1186
+02:31:59,920 --> 02:32:16,920
+But the one place to do it is actually, just remember, is on the hub.
+
+1187
+02:32:16,920 --> 02:32:19,920
+On the hub, you go to college effectiveness.
+
+1188
+02:32:19,920 --> 02:32:20,920
+Okay.
+
+1189
+02:32:20,920 --> 02:32:23,920
+Any time you think of data, think of college effectiveness.
+
+1190
+02:32:23,920 --> 02:32:26,920
+Anything data related to college effectiveness.
+
+1191
+02:32:26,920 --> 02:32:28,920
+You can go to college effectiveness.
+
+1192
+02:32:28,920 --> 02:32:36,920
+And a couple different places.
+
+1193
+02:32:36,920 --> 02:32:38,920
+Okay.
+
+1194
+02:32:38,920 --> 02:32:42,920
+First place to start is you're going to go to the data store.
+
+1195
+02:32:42,920 --> 02:32:52,920
+In the data store, this is where in adult education, I'm not quite sure how this works for you guys.
+
+1196
+02:32:52,920 --> 02:32:57,920
+And on the data store, you will see a list of programs.
+
+1197
+02:32:57,920 --> 02:33:07,920
+So, Austin probably played with like Electromech programs, so I don't think the automation has one yet.
+
+1198
+02:33:07,920 --> 02:33:12,920
+So if you just click on your program, you can see it's by school year.
+
+1199
+02:33:12,920 --> 02:33:15,920
+So definitely here we have three years.
+
+1200
+02:33:15,920 --> 02:33:26,920
+And in there, you're going to see what's called your program review report, your PRR.
+
+1201
+02:33:26,920 --> 02:33:39,920
+And that is your PRR, your program review report.
+
+1202
+02:33:39,920 --> 02:33:46,920
+And in this program review report, what we do is in August.
+
+1203
+02:33:46,920 --> 02:33:49,920
+So I know, were you here in August?
+
+1204
+02:33:49,920 --> 02:33:50,920
+Yes.
+
+1205
+02:33:50,920 --> 02:33:51,920
+Okay.
+
+1206
+02:33:51,920 --> 02:33:54,920
+And I know Lauren's been through two of them.
+
+1207
+02:33:54,920 --> 02:33:57,920
+And Kylie, you will go through your first one next August.
+
+1208
+02:33:57,920 --> 02:33:58,920
+Okay.
+
+1209
+02:33:58,920 --> 02:34:08,920
+So in August, the program faculty get together and they review all this data.
+
+1210
+02:34:08,920 --> 02:34:10,920
+And it's put together.
+
+1211
+02:34:10,920 --> 02:34:13,920
+And you can see it's broken down here.
+
+1212
+02:34:28,920 --> 02:34:39,920
+It's broken down into different areas.
+
+1213
+02:34:39,920 --> 02:34:40,920
+Okay.
+
+1214
+02:34:40,920 --> 02:34:50,920
+And you can use the information from here to provide, to answer questions about your program.
+
+1215
+02:34:50,920 --> 02:35:09,920
+So this is important.
+
+1216
+02:35:09,920 --> 02:35:13,920
+I'm going to show you what they used to look like.
+
+1217
+02:35:13,920 --> 02:35:17,920
+So they used to look like this.
+
+1218
+02:35:17,920 --> 02:35:21,920
+The data used to be specifically built into the program report.
+
+1219
+02:35:21,920 --> 02:35:24,920
+So you could see this was last year's, right?
+
+1220
+02:35:24,920 --> 02:35:25,920
+The data comes out.
+
+1221
+02:35:25,920 --> 02:35:28,920
+We look right at our FTEs.
+
+1222
+02:35:28,920 --> 02:35:32,920
+We look at our race, race and ethnicity.
+
+1223
+02:35:32,920 --> 02:35:33,920
+And it goes all the way down.
+
+1224
+02:35:33,920 --> 02:35:38,920
+It even breaks things down by program courses.
+
+1225
+02:35:38,920 --> 02:35:41,920
+We see here program courses.
+
+1226
+02:35:41,920 --> 02:35:45,920
+One thing I like about this is it's color coded.
+
+1227
+02:35:45,920 --> 02:35:46,920
+Okay.
+
+1228
+02:35:46,920 --> 02:35:51,920
+Which makes it, I think, very user friendly.
+
+1229
+02:35:51,920 --> 02:35:52,920
+Okay.
+
+1230
+02:35:52,920 --> 02:35:58,920
+Because if you see anything in red, that means, right?
+
+1231
+02:35:58,920 --> 02:35:59,920
+Okay.
+
+1232
+02:35:59,920 --> 02:36:02,920
+So you can see anything in red.
+
+1233
+02:36:02,920 --> 02:36:08,920
+You know, we didn't have very well-studied performance in those courses.
+
+1234
+02:36:08,920 --> 02:36:14,920
+And so we can look and then typically you want to look and see, okay, maybe classes where students
+
+1235
+02:36:14,920 --> 02:36:19,920
+and students performed poorly, red or yellow, not very good.
+
+1236
+02:36:19,920 --> 02:36:23,920
+What can we do to improve those scores?
+
+1237
+02:36:23,920 --> 02:36:29,920
+So this is our program review report and it has all kinds of good stuff in it.
+
+1238
+02:36:29,920 --> 02:36:34,920
+However, things have changed a little bit.
+
+1239
+02:36:34,920 --> 02:36:41,920
+And now instead of all coming in the program review report,
+
+1240
+02:36:41,920 --> 02:36:48,920
+it is actually on the dashboard.
+
+1241
+02:36:48,920 --> 02:36:54,920
+So again, here in the college effectiveness dashboard,
+
+1242
+02:36:54,920 --> 02:37:03,920
+the information that used to be in the program review report is out here on the dashboard.
+
+1243
+02:37:03,920 --> 02:37:06,920
+So you can go and you can look for it yourself.
+
+1244
+02:37:06,920 --> 02:37:08,920
+And you're going to have to do some building.
+
+1245
+02:37:08,920 --> 02:37:12,920
+So let's, for example, focus on course completion rate.
+
+1246
+02:37:12,920 --> 02:37:17,920
+So I'm going to click on course completion.
+
+1247
+02:37:17,920 --> 02:37:39,920
+Should have permission to view it.
+
+1248
+02:37:39,920 --> 02:37:49,920
+Okay, so it's asking us on me.
+
+1249
+02:37:49,920 --> 02:37:58,920
+So what through Power BI, you have, if anyone can get in, great.
+
+1250
+02:37:58,920 --> 02:38:01,920
+Because obviously I, are you nodding your head?
+
+1251
+02:38:01,920 --> 02:38:03,920
+You're having issues too.
+
+1252
+02:38:03,920 --> 02:38:16,920
+Okay.
+
+1253
+02:38:16,920 --> 02:38:26,920
+So anyways, if you go to the college effectiveness dashboard on there,
+
+1254
+02:38:26,920 --> 02:38:31,920
+you will see a lot of those categories that are in the program review report.
+
+1255
+02:38:31,920 --> 02:38:41,920
+So if I go back to.
+
+1256
+02:38:41,920 --> 02:38:45,920
+I go back to the program review report here.
+
+1257
+02:38:45,920 --> 02:38:51,920
+In this section, right, where it talks about labor market,
+
+1258
+02:38:51,920 --> 02:38:55,920
+like where it goes on here and talks about labor market data.
+
+1259
+02:38:55,920 --> 02:38:59,920
+You can all that data is found on the dashboard.
+
+1260
+02:38:59,920 --> 02:39:02,920
+Okay.
+
+1261
+02:39:02,920 --> 02:39:04,920
+Program review data.
+
+1262
+02:39:04,920 --> 02:39:09,920
+We review gender retention and graduation rates.
+
+1263
+02:39:09,920 --> 02:39:13,920
+All those are on the dashboard.
+
+1264
+02:39:13,920 --> 02:39:19,920
+So you can go out to the dashboard and you can find that information.
+
+1265
+02:39:19,920 --> 02:39:23,920
+And we fill this out in August.
+
+1266
+02:39:23,920 --> 02:39:29,920
+And we do this as a college and on your, your teams.
+
+1267
+02:39:29,920 --> 02:39:31,920
+Okay. And we kind of guide you through it.
+
+1268
+02:39:31,920 --> 02:39:33,920
+And we really want you to take the time.
+
+1269
+02:39:33,920 --> 02:39:36,920
+This is what we call, we talked about it on Wednesday.
+
+1270
+02:39:36,920 --> 02:39:40,920
+This is part of our program review process on campus.
+
+1271
+02:39:40,920 --> 02:39:41,920
+Okay.
+
+1272
+02:39:41,920 --> 02:39:45,920
+How do we know that our programs are doing good?
+
+1273
+02:39:45,920 --> 02:39:48,920
+Where do I need to make changes?
+
+1274
+02:39:48,920 --> 02:39:49,920
+Okay.
+
+1275
+02:39:49,920 --> 02:39:54,920
+And so until this is where, so this is what we do.
+
+1276
+02:39:54,920 --> 02:39:59,920
+And from here, we typically set a tap clean.
+
+1277
+02:39:59,920 --> 02:40:06,920
+And one of those tab plans every year will always be associated with strengthen student learning.
+
+1278
+02:40:06,920 --> 02:40:11,920
+We really want to.
+
+1279
+02:40:11,920 --> 02:40:16,920
+We really want to, how are we going to strengthen student learning here on campus?
+
+1280
+02:40:16,920 --> 02:40:20,920
+And in our program, what are we going to do to make those students better?
+
+1281
+02:40:20,920 --> 02:40:25,920
+And so that's why in the assessment.
+
+1282
+02:40:25,920 --> 02:40:30,920
+You can, here's mine.
+
+1283
+02:40:30,920 --> 02:40:33,920
+Strengthen student learning.
+
+1284
+02:40:33,920 --> 02:40:37,920
+This is the strength and started learning.
+
+1285
+02:40:37,920 --> 02:40:41,920
+This is our agribusiness one.
+
+1286
+02:40:41,920 --> 02:40:44,920
+This year, we're really focusing on trends and topics.
+
+1287
+02:40:44,920 --> 02:40:49,920
+The program outcome of trends and topics and understanding what's going on.
+
+1288
+02:40:49,920 --> 02:40:54,920
+So you can see here all this data that we have came from the dashboard.
+
+1289
+02:40:54,920 --> 02:41:00,920
+And focusing on what we're going to do, the action and improvement.
+
+1290
+02:41:00,920 --> 02:41:07,920
+And they're going to have the specific what is going to be titled and how we're going to work through it.
+
+1291
+02:41:07,920 --> 02:41:13,920
+So all this decision on how to focus on that came from the program dashboard.
+
+1292
+02:41:13,920 --> 02:41:21,920
+Does anyone have any questions so far?
+
+1293
+02:41:21,920 --> 02:41:25,920
+So that's program review report.
+
+1294
+02:41:25,920 --> 02:41:28,920
+You also have to assess your courses.
+
+1295
+02:41:28,920 --> 02:41:34,920
+So when you're in here and you're going to do your course assessments, this is what we're focusing on right now.
+
+1296
+02:41:34,920 --> 02:41:53,920
+How do you determine in each individual course what you're going to maybe.
+
+1297
+02:41:54,920 --> 02:42:00,920
+Does anybody have any questions on how to find their program review report and we're looking through it.
+
+1298
+02:42:00,920 --> 02:42:08,920
+So the college effectiveness team gets that dashboard updated, gets those reports ready for us to look through.
+
+1299
+02:42:08,920 --> 02:42:10,920
+That's what they're doing during the summer.
+
+1300
+02:42:10,920 --> 02:42:13,920
+And then we come back and we look through it.
+
+1301
+02:42:13,920 --> 02:42:18,920
+So where do you find data on Schoology?
+
+1302
+02:42:18,920 --> 02:42:23,920
+I'm going to kind of show you this before I walk into Schoology and do this.
+
+1303
+02:42:23,920 --> 02:42:27,920
+But there's a couple different ways to view the statistics.
+
+1304
+02:42:27,920 --> 02:42:33,920
+And this is what I use when I'm putting in my course assessment.
+
+1305
+02:42:33,920 --> 02:42:39,920
+I can look here and I can say, OK, I know what the average score was.
+
+1306
+02:42:39,920 --> 02:42:41,920
+It calculates it right for me.
+
+1307
+02:42:41,920 --> 02:42:45,920
+So I know that I want to work on raising that average score maybe.
+
+1308
+02:42:45,920 --> 02:42:56,920
+Sometimes if I'm saying the students need to, a specific number of students reached toward 70 percent or better, then I have to calculate that.
+
+1309
+02:42:56,920 --> 02:43:05,920
+So on Schoology to find that.
+
+1310
+02:43:05,920 --> 02:43:09,920
+I'm going to go back to our course.
+
+1311
+02:43:09,920 --> 02:43:17,920
+There's a couple different ways to do this.
+
+1312
+02:43:17,920 --> 02:43:30,920
+So, first of all, if you go to the grade book and you have like the sample assignment here,
+
+1313
+02:43:30,920 --> 02:43:37,920
+if I click the three dots next to that and scroll down, one of the options there is to view statistics.
+
+1314
+02:43:37,920 --> 02:43:40,920
+That's where this box will pop up.
+
+1315
+02:43:40,920 --> 02:43:47,920
+And that will tell you what the highest grade was, what the lowest grade was, what the average was.
+
+1316
+02:43:47,920 --> 02:43:52,920
+So that's one way to get there.
+
+1317
+02:43:52,920 --> 02:44:14,920
+The other way is if you have the sample assignment itself open, you will notice these icons in the upper right hand corner, there's the little graph one.
+
+1318
+02:44:14,920 --> 02:44:23,920
+If you click on that, that view stats, that brings the same screen up.
+
+1319
+02:44:23,920 --> 02:44:48,920
+If you are in a test, the same thing, you have stats, you can view that and it will give you the same score there.
+
+1320
+02:44:48,920 --> 02:44:55,920
+So that's how you can easily view view stats for course assessments.
+
+1321
+02:44:55,920 --> 02:45:05,920
+So if we go back to the hub assessment and you're doing your course assessment,
+
+1322
+02:45:05,920 --> 02:45:14,920
+this is what, if you click to my course assessment, you're going to come to a screen that says instructor view.
+
+1323
+02:45:14,920 --> 02:45:19,920
+Send email out earlier in the week right now, you probably aren't seeing your classes there.
+
+1324
+02:45:19,920 --> 02:45:21,920
+You'll have to find them under all items.
+
+1325
+02:45:21,920 --> 02:45:33,920
+But if you want to look back, specifically new instructors who are teaching a class for the first time on campus, you're like, what did a person do before?
+
+1326
+02:45:33,920 --> 02:45:40,920
+If you're in this course assessment area and you click on all items, notice what do you see?
+
+1327
+02:45:40,920 --> 02:45:42,920
+All kinds of things.
+
+1328
+02:45:42,920 --> 02:45:50,920
+So you can go back to the term and you can filter by all the way back to fall 24, 25 to bring up.
+
+1329
+02:45:50,920 --> 02:46:00,920
+So Kylie, you could filter back to last spring and see what the instructors taught the class last spring had in there regarding their course assessment.
+
+1330
+02:46:01,920 --> 02:46:08,920
+So I'm going to go ahead and I'm going to fall 25, 26.
+
+1331
+02:46:17,920 --> 02:46:22,920
+So here's my plant and soil science from the fall.
+
+1332
+02:46:22,920 --> 02:46:28,920
+So once you find it and you open it, it will look like this.
+
+1333
+02:46:28,920 --> 02:46:33,920
+And you have to click edit item to actually edit.
+
+1334
+02:46:33,920 --> 02:46:39,920
+This page here should be filled in for you on the course information.
+
+1335
+02:46:39,920 --> 02:46:50,920
+When you get to the assessment page, what you're going to do here is you're going to, again, when you're in the edit mode,
+
+1336
+02:46:50,920 --> 02:46:54,920
+notice when you're in the edit mode, it says beginning of semester and end of semester.
+
+1337
+02:46:54,920 --> 02:46:58,920
+This tab you're going to do when you create your syllabuses.
+
+1338
+02:46:58,920 --> 02:47:02,920
+This tab you're going to do when you submit your grades.
+
+1339
+02:47:02,920 --> 02:47:06,920
+Does that make sense?
+
+1340
+02:47:06,920 --> 02:47:10,920
+Can you help me monitor the chat?
+
+1341
+02:47:10,920 --> 02:47:15,920
+Just see if anybody puts anything in there because I'm like in my group here.
+
+1342
+02:47:16,920 --> 02:47:26,920
+So the beginning semester tab, one thing to notice, and this is dealing with the whole thing, is this plain text.
+
+1343
+02:47:26,920 --> 02:47:29,920
+So try not to, if you're copying and pasting, be careful.
+
+1344
+02:47:29,920 --> 02:47:35,920
+Assessed by, you can put your name in there, date assessed.
+
+1345
+02:47:35,920 --> 02:47:39,920
+This can be the actual physical date that you do the assessment.
+
+1346
+02:47:39,920 --> 02:47:42,920
+This can be the last day of the semester.
+
+1347
+02:47:42,920 --> 02:47:45,920
+It can go either way.
+
+1348
+02:47:45,920 --> 02:47:50,920
+And then how are you going to assess it, which is the class.
+
+1349
+02:47:50,920 --> 02:47:51,920
+All right.
+
+1350
+02:47:51,920 --> 02:47:56,920
+So what was my assessment activity?
+
+1351
+02:47:56,920 --> 02:48:00,920
+So the assessment activity was the plant structures test.
+
+1352
+02:48:00,920 --> 02:48:03,920
+How did I determine I want to work on plant structures?
+
+1353
+02:48:03,920 --> 02:48:09,920
+Well, when reviewing the scores on the assessment, students seem to be struggling.
+
+1354
+02:48:09,920 --> 02:48:10,920
+Okay.
+
+1355
+02:48:10,920 --> 02:48:11,920
+Here's the average.
+
+1356
+02:48:11,920 --> 02:48:17,920
+Here are the average scores of the three sections I taught that class in.
+
+1357
+02:48:17,920 --> 02:48:19,920
+Kind of a wide range.
+
+1358
+02:48:19,920 --> 02:48:20,920
+Right.
+
+1359
+02:48:20,920 --> 02:48:24,920
+So I want to do something to prove that.
+
+1360
+02:48:24,920 --> 02:48:27,920
+Okay.
+
+1361
+02:48:27,920 --> 02:48:32,920
+And that the structures are related to the course competency.
+
+1362
+02:48:32,920 --> 02:48:34,920
+Explain nutrient and water.
+
+1363
+02:48:34,920 --> 02:48:38,920
+You will notice here that it does give you the option to choose a core ability.
+
+1364
+02:48:38,920 --> 02:48:39,920
+Okay.
+
+1365
+02:48:39,920 --> 02:48:42,920
+For course assessments, do not choose a core ability.
+
+1366
+02:48:42,920 --> 02:48:43,920
+Okay.
+
+1367
+02:48:43,920 --> 02:48:46,920
+Choose a course competency.
+
+1368
+02:48:46,920 --> 02:48:51,920
+You're going to pull this course competency from your syllabus, from the course outcome
+
+1369
+02:48:51,920 --> 02:48:52,920
+summary in WIDS.
+
+1370
+02:48:52,920 --> 02:48:53,920
+Okay.
+
+1371
+02:48:53,920 --> 02:49:03,920
+The reason you want to assess a course competency over a core ability is the purpose of these
+
+1372
+02:49:03,920 --> 02:49:12,920
+courses are to determine if the students are learning and mastering those course competencies.
+
+1373
+02:49:12,920 --> 02:49:13,920
+Okay.
+
+1374
+02:49:13,920 --> 02:49:15,920
+Are core abilities important?
+
+1375
+02:49:15,920 --> 02:49:16,920
+Yeah.
+
+1376
+02:49:16,920 --> 02:49:18,920
+We can assess them different ways.
+
+1377
+02:49:18,920 --> 02:49:19,920
+Okay.
+
+1378
+02:49:19,920 --> 02:49:26,920
+But if we're assessing a core ability in a course, is that really helping us determine
+
+1379
+02:49:26,920 --> 02:49:28,920
+if they're meeting that course competency?
+
+1380
+02:49:28,920 --> 02:49:29,920
+No.
+
+1381
+02:49:29,920 --> 02:49:30,920
+Lauren's like no.
+
+1382
+02:49:30,920 --> 02:49:31,920
+Right.
+
+1383
+02:49:31,920 --> 02:49:34,920
+The point is we want them to meet a course competency.
+
+1384
+02:49:34,920 --> 02:49:37,920
+You want to make sure that you're filling a course competency out.
+
+1385
+02:49:37,920 --> 02:49:43,920
+So this one is related to explain nutrient and water movement and plans.
+
+1386
+02:49:43,920 --> 02:49:47,920
+I'm going to, I set the score, I want them to get at least 80.
+
+1387
+02:49:47,920 --> 02:49:51,920
+When you say the standard for student success, you want them to get, I'm saying I want my
+
+1388
+02:49:51,920 --> 02:49:54,920
+students to score at least 80%.
+
+1389
+02:49:54,920 --> 02:50:01,920
+The cohort quality objective is I want 85% of my students to meet that.
+
+1390
+02:50:01,920 --> 02:50:02,920
+How am I going to do that?
+
+1391
+02:50:02,920 --> 02:50:05,920
+I was going to have students draw and label more parts.
+
+1392
+02:50:05,920 --> 02:50:10,920
+I was going to review and practice using the models that we have.
+
+1393
+02:50:10,920 --> 02:50:11,920
+Okay.
+
+1394
+02:50:11,920 --> 02:50:18,920
+Then when I go over to follow up, notice that some things transfer from the beginning of
+
+1395
+02:50:18,920 --> 02:50:22,920
+semester tab to the end of semester tab so you don't have to go back and forth.
+
+1396
+02:50:22,920 --> 02:50:23,920
+What was I going to do?
+
+1397
+02:50:23,920 --> 02:50:24,920
+It's there.
+
+1398
+02:50:24,920 --> 02:50:27,920
+I was going to use the test.
+
+1399
+02:50:27,920 --> 02:50:29,920
+What were my scores?
+
+1400
+02:50:29,920 --> 02:50:30,920
+Okay.
+
+1401
+02:50:30,920 --> 02:50:32,920
+So this is what I put in here.
+
+1402
+02:50:32,920 --> 02:50:33,920
+Okay.
+
+1403
+02:50:33,920 --> 02:50:41,920
+I said that 10 out of 17 or 59% met the goal, 4 out of 17 students failed the test.
+
+1404
+02:50:41,920 --> 02:50:42,920
+I did horrible.
+
+1405
+02:50:42,920 --> 02:50:43,920
+Right.
+
+1406
+02:50:43,920 --> 02:50:44,920
+I didn't meet my goal.
+
+1407
+02:50:44,920 --> 02:50:45,920
+You know what?
+
+1408
+02:50:45,920 --> 02:50:48,920
+It's okay.
+
+1409
+02:50:48,920 --> 02:50:53,920
+This don't feel like this goal has to be met.
+
+1410
+02:50:53,920 --> 02:50:54,920
+Okay.
+
+1411
+02:50:54,920 --> 02:50:57,920
+Because every group of students is different.
+
+1412
+02:50:57,920 --> 02:51:06,920
+Things might happen and sometimes it just doesn't work out and you learn from that.
+
+1413
+02:51:06,920 --> 02:51:08,920
+You're going to continue to improve.
+
+1414
+02:51:08,920 --> 02:51:11,920
+So it's okay to not meet the goal here.
+
+1415
+02:51:11,920 --> 02:51:17,920
+And sometimes if you have extenuating circumstances that really cause these numbers to be low.
+
+1416
+02:51:17,920 --> 02:51:21,920
+So let's say I heard Kylie say she had a class of six.
+
+1417
+02:51:21,920 --> 02:51:22,920
+Right.
+
+1418
+02:51:22,920 --> 02:51:23,920
+Okay.
+
+1419
+02:51:23,920 --> 02:51:24,920
+So she has a class of six.
+
+1420
+02:51:24,920 --> 02:51:25,920
+Okay.
+
+1421
+02:51:25,920 --> 02:51:32,920
+If for some reason let's say two of them pretty much stopped coming to class and she has four
+
+1422
+02:51:32,920 --> 02:51:39,920
+that ultimately are successful but they have you have two that end up like quote unquote
+
+1423
+02:51:39,920 --> 02:51:44,920
+family assessment because they stopped coming to class but they didn't officially draft
+
+1424
+02:51:44,920 --> 02:51:45,920
+the class.
+
+1425
+02:51:45,920 --> 02:51:47,920
+Her number is going to look really bad.
+
+1426
+02:51:47,920 --> 02:51:48,920
+Yes.
+
+1427
+02:51:48,920 --> 02:51:53,920
+So what you could do then in that circumstance and I have done that is you could say results.
+
+1428
+02:51:53,920 --> 02:51:54,920
+Okay.
+
+1429
+02:51:54,920 --> 02:51:57,920
+This is the number of students in the class.
+
+1430
+02:51:57,920 --> 02:52:01,920
+However two students stopped coming to class.
+
+1431
+02:52:01,920 --> 02:52:08,920
+So of the four that took the assignment I had a hundred percent meet my goal.
+
+1432
+02:52:08,920 --> 02:52:09,920
+Okay.
+
+1433
+02:52:10,920 --> 02:52:19,920
+So it's okay to explain extenuating circumstances here because it helps understand that yeah
+
+1434
+02:52:19,920 --> 02:52:25,920
+okay maybe the numbers look poor based on the true data set but when you actually look
+
+1435
+02:52:25,920 --> 02:52:31,920
+at truly took the assessment you can adjust that.
+
+1436
+02:52:31,920 --> 02:52:34,920
+Follow up.
+
+1437
+02:52:34,920 --> 02:52:36,920
+Class structures continue to be a struggle.
+
+1438
+02:52:36,920 --> 02:52:37,920
+I will work on this again next year.
+
+1439
+02:52:37,920 --> 02:52:40,920
+Something different type of assessment.
+
+1440
+02:52:40,920 --> 02:52:44,920
+So I know I have the data up here to use next year.
+
+1441
+02:52:44,920 --> 02:52:53,920
+Something else I tend to do.
+
+1442
+02:52:53,920 --> 02:52:54,920
+I find this help.
+
+1443
+02:52:54,920 --> 02:52:59,920
+This really helps me out.
+
+1444
+02:52:59,920 --> 02:53:00,920
+Okay.
+
+1445
+02:53:00,920 --> 02:53:01,920
+So right here.
+
+1446
+02:53:01,920 --> 02:53:04,920
+This is my meet quality class from this fall.
+
+1447
+02:53:04,920 --> 02:53:06,920
+Okay.
+
+1448
+02:53:06,920 --> 02:53:17,920
+To avoid having to go back and look at Schoology data in August to determine what I want to
+
+1449
+02:53:17,920 --> 02:53:23,920
+work on for course assessment I look at it and kind of make that decision when I'm closing
+
+1450
+02:53:23,920 --> 02:53:28,920
+out this year and I put that information down here in the follow up.
+
+1451
+02:53:28,920 --> 02:53:34,920
+So I say here I say calculating strength was an error that students were weak on this year.
+
+1452
+02:53:34,920 --> 02:53:39,920
+Average score on this string worksheet was eighty one point ninety four percent.
+
+1453
+02:53:39,920 --> 02:53:40,920
+Okay.
+
+1454
+02:53:40,920 --> 02:53:45,920
+So now come August all I'm going to do I'm not going to go back into Schoology try to
+
+1455
+02:53:45,920 --> 02:53:48,920
+figure out my data and which what I want to work on.
+
+1456
+02:53:48,920 --> 02:53:51,920
+I already know I want to work on a string.
+
+1457
+02:53:51,920 --> 02:53:55,920
+I already know the data that I want to improve.
+
+1458
+02:53:55,920 --> 02:53:59,920
+I can just pull it from this and put it in that one.
+
+1459
+02:53:59,920 --> 02:54:00,920
+Okay.
+
+1460
+02:54:00,920 --> 02:54:02,920
+And so that makes it very easy.
+
+1461
+02:54:02,920 --> 02:54:18,920
+So for example clothes we go back to I go back to last spring spring of twenty four
+
+1462
+02:54:18,920 --> 02:54:25,920
+twenty five and I look at ration balancing and recursion.
+
+1463
+02:54:25,920 --> 02:54:28,920
+I look in the follow up.
+
+1464
+02:54:28,920 --> 02:54:29,920
+Okay.
+
+1465
+02:54:29,920 --> 02:54:34,920
+Right here is what I'm going to use to put in my course assessment this afternoon or
+
+1466
+02:54:34,920 --> 02:54:37,920
+Monday morning for that class.
+
+1467
+02:54:37,920 --> 02:54:38,920
+Okay.
+
+1468
+02:54:38,920 --> 02:54:40,920
+I already got it figured out.
+
+1469
+02:54:40,920 --> 02:54:41,920
+Okay.
+
+1470
+02:54:41,920 --> 02:54:45,920
+Struggle with we continue to struggle with speed ID.
+
+1471
+02:54:45,920 --> 02:54:48,920
+The average score was ninety.
+
+1472
+02:54:48,920 --> 02:54:57,920
+And I want to get that up to ninety five.
+
+1473
+02:54:57,920 --> 02:54:59,920
+So right here is my data.
+
+1474
+02:54:59,920 --> 02:55:02,920
+I already got what I'm going to do for next year.
+
+1475
+02:55:02,920 --> 02:55:03,920
+Okay.
+
+1476
+02:55:03,920 --> 02:55:06,920
+So this is again this is what I do to make it easier.
+
+1477
+02:55:06,920 --> 02:55:08,920
+You don't have to do that.
+
+1478
+02:55:08,920 --> 02:55:12,920
+You might find your own unique way to do that.
+
+1479
+02:55:12,920 --> 02:55:13,920
+Okay.
+
+1480
+02:55:13,920 --> 02:55:16,920
+Questions on on that.
+
+1481
+02:55:16,920 --> 02:55:17,920
+Okay.
+
+1482
+02:55:17,920 --> 02:55:23,920
+Any questions from people online.
+
+1483
+02:55:23,920 --> 02:55:32,920
+Next thing I want to talk about is technical skill attainment.
+
+1484
+02:55:32,920 --> 02:55:33,920
+Okay.
+
+1485
+02:55:33,920 --> 02:55:43,920
+And technical skill attainment is something is this is what the technical college system
+
+1486
+02:55:43,920 --> 02:55:50,920
+is to determine if our students have met the skills that we need that we want them
+
+1487
+02:55:50,920 --> 02:55:51,920
+to.
+
+1488
+02:55:51,920 --> 02:55:52,920
+Okay.
+
+1489
+02:55:52,920 --> 02:55:56,920
+And this is what I say when we want this to be assessed as near the end of the program
+
+1490
+02:55:56,920 --> 02:55:58,920
+as possible.
+
+1491
+02:55:58,920 --> 02:56:02,920
+And we do this through the mastery bridges.
+
+1492
+02:56:02,920 --> 02:56:05,920
+You heard Lisa talk about this on Tuesday.
+
+1493
+02:56:05,920 --> 02:56:09,920
+Some of you have been meeting with adjuncts.
+
+1494
+02:56:10,920 --> 02:56:16,920
+The main program instructors do this but they may be working with you on this if a skill
+
+1495
+02:56:16,920 --> 02:56:19,920
+is tied to your class.
+
+1496
+02:56:19,920 --> 02:56:27,920
+And so so lately we do this thing as we call building bridges between schoology to help
+
+1497
+02:56:27,920 --> 02:56:28,920
+us track.
+
+1498
+02:56:28,920 --> 02:56:32,920
+So I was telling you we had those capstone classes.
+
+1499
+02:56:32,920 --> 02:56:36,920
+So here's the capstone project for animal science.
+
+1500
+02:56:36,920 --> 02:56:41,920
+And this is the mastery bridge kind of rubric what it ultimately looks like in schoology
+
+1501
+02:56:41,920 --> 02:56:42,920
+for animal science.
+
+1502
+02:56:42,920 --> 02:56:48,920
+And you can see all the all the program outcomes are up there.
+
+1503
+02:56:54,920 --> 02:56:55,920
+Okay.
+
+1504
+02:56:55,920 --> 02:57:03,920
+Um are tied up here.
+
+1505
+02:57:03,920 --> 02:57:14,920
+We've got a tie to the to the rubric and the capstone to our right into the right into
+
+1506
+02:57:14,920 --> 02:57:16,920
+the schoology assignment.
+
+1507
+02:57:16,920 --> 02:57:24,920
+And then ultimately when you put it in there this is what you see in schoology.
+
+1508
+02:57:24,920 --> 02:57:26,920
+When you see the results.
+
+1509
+02:57:26,920 --> 02:57:32,920
+But you can see we have the course competencies course objectives across the top.
+
+1510
+02:57:32,920 --> 02:57:40,920
+And then you can see how the students did in each one of those those areas.
+
+1511
+02:57:40,920 --> 02:57:47,920
+One thing we have I have noticed I mean you can see we got a couple of couple of these.
+
+1512
+02:57:47,920 --> 02:57:56,920
+One thing I have noticed is that if for some reason a student and their capstone project
+
+1513
+02:57:56,920 --> 02:58:03,920
+tends to leaves out a section in the they just decide they're not going to do for us
+
+1514
+02:58:03,920 --> 02:58:11,920
+we have a section that's tied to some of our outcomes related to like professional development
+
+1515
+02:58:11,920 --> 02:58:16,920
+and they have to like write their like career like their next five year goals like choose
+
+1516
+02:58:16,920 --> 02:58:21,920
+a or an agricultural organization like Farm Bureau o'cadamons that they're going to get
+
+1517
+02:58:21,920 --> 02:58:22,920
+involved in.
+
+1518
+02:58:22,920 --> 02:58:25,920
+But for some reason they tend to blow that off.
+
+1519
+02:58:25,920 --> 02:58:26,920
+Okay.
+
+1520
+02:58:26,920 --> 02:58:29,920
+And they get they get a poor score on that.
+
+1521
+02:58:29,920 --> 02:58:34,920
+It's going to show that they didn't beat that that that TSA.
+
+1522
+02:58:34,920 --> 02:58:38,920
+But you know that's just how how it works.
+
+1523
+02:58:38,920 --> 02:58:44,920
+We kind of know in our head maybe the student did in some of those areas depending on how
+
+1524
+02:58:44,920 --> 02:58:45,920
+they did that.
+
+1525
+02:58:45,920 --> 02:58:49,920
+But you can see there kind of how the performance was.
+
+1526
+02:58:49,920 --> 02:58:53,920
+And so again this is all what is reported then to the state.
+
+1527
+02:58:53,920 --> 02:58:55,920
+And there's another question.
+
+1528
+02:59:08,920 --> 02:59:19,920
+So so that's kind of what it looks like.
+
+1529
+02:59:19,920 --> 02:59:34,920
+So ultimately let me see.
+
+1530
+02:59:34,920 --> 02:59:54,920
+So here's that capstone project.
+
+1531
+02:59:54,920 --> 02:59:59,920
+So when I look it up here's here's the rubric that we've worked with.
+
+1532
+02:59:59,920 --> 03:00:06,920
+Lisa and Tyler's the gentleman that was here before Tyler to put this rubric together.
+
+1533
+03:00:06,920 --> 03:00:09,920
+And it's a three to one just the TSA score.
+
+1534
+03:00:09,920 --> 03:00:18,920
+And here we can see all our program outcomes and objectives and how and then we tie them
+
+1535
+03:00:18,920 --> 03:00:21,920
+to our to our capstone project.
+
+1536
+03:00:21,920 --> 03:00:24,920
+And then that puts together I'm not going to click on this because I don't want to things
+
+1537
+03:00:24,920 --> 03:00:26,920
+to potentially pop up.
+
+1538
+03:00:26,920 --> 03:00:32,920
+But then that will give us from that completing that you eventually will get something that
+
+1539
+03:00:32,920 --> 03:00:36,920
+works looks like this down here to show that.
+
+1540
+03:00:36,920 --> 03:00:37,920
+Right.
+
+1541
+03:00:37,920 --> 03:00:39,920
+Any questions on TSA.
+
+1542
+03:00:39,920 --> 03:00:44,920
+This is usually done in May at the end of the academic year.
+
+1543
+03:00:44,920 --> 03:00:49,920
+And Lisa Riley in the same way as person she's the one that handles that.
+
+1544
+03:00:49,920 --> 03:01:00,920
+So direct anything related to TSA to questions on any of that stuff.
+
+1545
+03:01:00,920 --> 03:01:07,920
+As you are working through course assessments for the first time or even not the first time.
+
+1546
+03:01:07,920 --> 03:01:13,920
+And if you're struggling with them if you're lost please reach out to your mentor please
+
+1547
+03:01:13,920 --> 03:01:18,920
+reach out to other people in your department to see if they can help you or reach out to me.
+
+1548
+03:01:18,920 --> 03:01:19,920
+OK.
+
+1549
+03:01:19,920 --> 03:01:25,920
+I'm willing to sit down with you one on one and walk you through and help you get comfortable
+
+1550
+03:01:25,920 --> 03:01:28,920
+and filling out those course assessments.
+
+1551
+03:01:28,920 --> 03:01:29,920
+OK.
+
+1552
+03:01:29,920 --> 03:01:32,920
+So if you want help with them and you're not going to have them done by Monday you know
+
+1553
+03:01:32,920 --> 03:01:34,920
+what.
+
+1554
+03:01:34,920 --> 03:01:35,920
+OK.
+
+1555
+03:01:35,920 --> 03:01:36,920
+Say Christina I need help.
+
+1556
+03:01:36,920 --> 03:01:39,920
+I want to make sure that these are done right.
+
+1557
+03:01:39,920 --> 03:01:42,920
+We'll schedule some time in the next couple of weeks and we'll get it done.
+
+1558
+03:01:42,920 --> 03:01:43,920
+OK.
+
+1559
+03:01:43,920 --> 03:01:45,920
+And if you're on the naughty list it'll be fine.
+
+1560
+03:01:45,920 --> 03:01:46,920
+OK.
+
+1561
+03:01:46,920 --> 03:01:49,920
+Because you can say hey I definitely was proceeding a little work.
+
+1562
+03:01:49,920 --> 03:01:53,920
+I'm probably going to be the one that pulls the list anyway.
+
+1563
+03:01:53,920 --> 03:01:54,920
+OK.
+
+1564
+03:01:54,920 --> 03:01:59,920
+So so know that that is is an option.
+
+1565
+03:01:59,920 --> 03:02:01,920
+All right.
+
+1566
+03:02:01,920 --> 03:02:04,920
+Any questions on anything.
+
+1567
+03:02:04,920 --> 03:02:07,920
+We went through a lot.
+
+1568
+03:02:07,920 --> 03:02:08,920
+Quite a lot.
+
+1569
+03:02:08,920 --> 03:02:12,920
+So we're going to work on wrapping up here.
+
+1570
+03:02:12,920 --> 03:02:15,920
+OK.
+
+1571
+03:02:15,920 --> 03:02:25,920
+So what I want you to do is so we really focus on performance based curriculum to guide learning
+
+1572
+03:02:25,920 --> 03:02:32,920
+formative and summative assessments decision making using data and communicating.
+
+1573
+03:02:32,920 --> 03:02:33,920
+OK.
+
+1574
+03:02:33,920 --> 03:02:37,920
+We could easily go more in depth on any of those.
+
+1575
+03:02:38,920 --> 03:02:43,920
+Again these are all great ideas to work on forming or finding information and doing
+
+1576
+03:02:43,920 --> 03:02:45,920
+professional development.
+
+1577
+03:02:45,920 --> 03:02:56,920
+So what I want you to do now as we get ready to as we wrap up here is in that in strategy
+
+1578
+03:02:56,920 --> 03:02:59,920
+and everyone should have access to it.
+
+1579
+03:02:59,920 --> 03:03:03,920
+This course survey here you need to take that that's for HR purposes.
+
+1580
+03:03:03,920 --> 03:03:08,920
+But in the coursework section at the very end there's something that says end of course
+
+1581
+03:03:08,920 --> 03:03:09,920
+take away.
+
+1582
+03:03:09,920 --> 03:03:16,920
+So what I want you to do some people put comments in.
+
+1583
+03:03:16,920 --> 03:03:19,920
+So you can do you can don't try not to use the comments part.
+
+1584
+03:03:19,920 --> 03:03:23,920
+You should be going to have submissions.
+
+1585
+03:03:23,920 --> 03:03:25,920
+Right.
+
+1586
+03:03:25,920 --> 03:03:30,920
+You should be able to submit just type in the submission section like you were like you
+
+1587
+03:03:30,920 --> 03:03:40,920
+were our student and just put in there the what's what's one take away from today.
+
+1588
+03:03:40,920 --> 03:03:42,920
+What is something that you learn today.
+
+1589
+03:03:42,920 --> 03:03:48,920
+This is how I'm assessing your learning day making it a very simple assessment.
+
+1590
+03:03:48,920 --> 03:03:54,920
+What is one thing you learn today that you're going to implement or that you want to learn
+
+1591
+03:03:54,920 --> 03:03:59,920
+more about or that's going to that you're going to you're going to put to work.
+
+1592
+03:03:59,920 --> 03:04:00,920
+OK.
+
+1593
+03:04:00,920 --> 03:04:02,920
+And so with that I'm doing good.
+
+1594
+03:04:02,920 --> 03:04:05,920
+I said I said mental gold noon.
+
+1595
+03:04:05,920 --> 03:04:06,920
+I got everybody out here.
+
+1596
+03:04:06,920 --> 03:04:13,920
+I need to get you throw something in your stomach and you'll meet people at 1230.
+
+1597
+03:04:13,920 --> 03:04:14,920
+Right.
+
+1598
+03:04:14,920 --> 03:04:18,920
+So stop sharing.
+
+1599
+03:04:18,920 --> 03:04:22,920
+Those of you online any questions as to what you're doing.
+
+1600
+03:04:22,920 --> 03:04:28,920
+So once you if you have any questions online just feel free to ask otherwise go into Schoology
+
+1601
+03:04:28,920 --> 03:04:33,920
+submit your tell me what you're going to what you learn what you're going to work on.
+
+1602
+03:04:33,920 --> 03:04:39,920
+And thank you all for listening joining us online today.
+
+1603
+03:04:39,920 --> 03:04:45,920
+And as you finish up submission you can you can log off.
+
+1604
+03:04:45,920 --> 03:04:51,920
+Reach out to me at any time if you have questions.
+
+1605
+03:04:51,920 --> 03:04:57,920
+Same.
+
+1606
+03:04:57,920 --> 03:05:13,920
+Of course that assessment.
+
+1607
+03:05:13,920 --> 03:05:17,920
+Did you say you wanted us to add it as a comment or not.
+
+1608
+03:05:17,920 --> 03:05:18,920
+I'm sorry.
+
+1609
+03:05:18,920 --> 03:05:21,920
+On the coursework.
+
+1610
+03:05:21,920 --> 03:05:27,920
+Don't use don't use the comment section you just use it a submission like you would an assignment like you were a student.
+
+1611
+03:05:27,920 --> 03:05:28,920
+OK.
+
+1612
+03:05:28,920 --> 03:05:29,920
+All right.
+
+1613
+03:05:29,920 --> 03:05:30,920
+Thank you.
+
+1614
+03:05:30,920 --> 03:05:34,920
+Yeah.
+
+1615
+03:05:34,920 --> 03:05:36,920
+I'm sorry.
+
+1616
+03:05:36,920 --> 03:05:37,920
+I don't know how to do that.
+
+1617
+03:05:37,920 --> 03:05:38,920
+I don't know how to do that.
+
+1618
+03:05:38,920 --> 03:05:46,920
+How do I submit us assignment on Schoology.
+
+1619
+03:05:46,920 --> 03:05:47,920
+One second Jennifer.
+
+1620
+03:05:47,920 --> 03:05:48,920
+OK.
+
+1621
+03:05:48,920 --> 03:05:51,920
+Thank you.
+
+1622
+03:05:51,920 --> 03:05:57,920
+It's making me I want to just submit an assignment you just have to put it into a word deck or something.
+
+1623
+03:05:57,920 --> 03:06:11,920
+OK.
+
+1624
+03:06:11,920 --> 03:06:22,920
+So in Schoology and and this is you know those ones that are looking for new are looking at new somewhere over here.
+
+1625
+03:06:22,920 --> 03:06:26,920
+You should say it should be like create submission or whatever.
+
+1626
+03:06:26,920 --> 03:06:27,920
+Submit assignment.
+
+1627
+03:06:27,920 --> 03:06:31,920
+It says if you click on that.
+
+1628
+03:06:31,920 --> 03:06:41,920
+You will have the option to you can either upload a Word document or there should be like an area in there that you can just type.
+
+1629
+03:06:41,920 --> 03:06:45,920
+This is what some as I've been watching some of the new LMS is on campus this week.
+
+1630
+03:06:45,920 --> 03:06:52,920
+We have the option to you can make it a U.S. student so that I can show you specifically what it looks like.
+
+1631
+03:06:52,920 --> 03:06:54,920
+Does that help you.
+
+1632
+03:06:54,920 --> 03:06:55,920
+I think so.
+
+1633
+03:06:55,920 --> 03:06:58,920
+I'm looking now.
+
+1634
+03:06:58,920 --> 03:07:03,920
+If you click the middle box you can type in your response and then submit it.
+
+1635
+03:07:03,920 --> 03:07:07,920
+If you try and do it the first box it doesn't work so well.
+
+1636
+03:07:07,920 --> 03:07:08,920
+All right.
+
+1637
+03:07:08,920 --> 03:07:10,920
+Going to create instead of upload.
+
+1638
+03:07:10,920 --> 03:07:11,920
+Yeah.
+
+1639
+03:07:11,920 --> 03:07:12,920
+Go to create.
+
+1640
+03:07:12,920 --> 03:07:13,920
+OK.
+
+1641
+03:07:13,920 --> 03:07:14,920
+That's what it's called.
+
+1642
+03:07:15,920 --> 03:07:31,920
+I could show you the student view.
+
+1643
+03:07:31,920 --> 03:07:37,920
+And those of you online once you've submitted something you can't hear more than welcome to log off.
+
+1644
+03:07:37,920 --> 03:07:48,920
+So I want to make sure all your work.
+
+1645
+03:07:48,920 --> 03:07:55,920
+Well I hope you guys enjoy training.
+
+1646
+03:07:55,920 --> 03:08:02,920
+Bye.
+
+1647
+03:08:02,920 --> 03:08:09,920
+Christina.
+
+1648
+03:08:09,920 --> 03:08:11,920
+Yes Stacey.
+
+1649
+03:08:11,920 --> 03:08:16,920
+It does say our assignments are late because it had a due date of twenty twenty five.
+
+1650
+03:08:16,920 --> 03:08:17,920
+Just to let you know.
+
+1651
+03:08:17,920 --> 03:08:19,920
+Yeah I don't care.
+
+1652
+03:08:19,920 --> 03:08:22,920
+I know when I thought I know when I did it.
+
+1653
+03:08:22,920 --> 03:08:23,920
+OK.
+
+1654
+03:08:23,920 --> 03:08:25,920
+Thanks for letting me know.
+
+1655
+03:08:25,920 --> 03:08:31,920
+You see I'm not perfect.
+
+1656
+03:08:31,920 --> 03:08:47,920
+Actually I didn't even realize.
+
+1657
+03:08:47,920 --> 03:08:53,920
+So do we need to resubmit where it says resubmit assignment because assignments late.
+
+1658
+03:08:53,920 --> 03:08:55,920
+No.
+
+1659
+03:08:55,920 --> 03:08:56,920
+OK.
+
+1660
+03:08:56,920 --> 03:08:58,920
+So how do we know that it went through.
+
+1661
+03:08:58,920 --> 03:09:00,920
+I know I can see it on my end.
+
+1662
+03:09:00,920 --> 03:09:01,920
+All is good on my end.
+
+1663
+03:09:01,920 --> 03:09:02,920
+OK.
+
+1664
+03:09:02,920 --> 03:09:03,920
+Thank you.
+
+1665
+03:09:03,920 --> 03:09:07,920
+Yeah.
+
+1666
+03:09:07,920 --> 03:09:16,920
+Nine nine nine nine.
+
+1667
+03:09:16,920 --> 03:09:17,920
+And I change.
+
+1668
+03:09:17,920 --> 03:09:18,920
+I change the due date.
+
+1669
+03:09:18,920 --> 03:09:19,920
+So now it says all on.
+
+1670
+03:14:16,920 --> 03:14:17,920
+Alright.
+
+1671
+03:14:17,920 --> 03:14:18,920
+Thank you.
+
+1672
+03:14:18,920 --> 03:14:19,920
+OK.
+
+1673
+03:14:19,920 --> 03:14:20,920
+We're closed.
+
+1674
+03:14:20,920 --> 03:14:21,920
+No other questions.
+
+1675
+03:14:21,920 --> 03:14:22,920
+Thanks for taking the time to join us today.
+
+1676
+03:14:22,920 --> 03:14:23,920
+We're closed.
+
+1677
+03:14:23,920 --> 03:14:24,920
+Thank you.
+
+1678
+03:14:24,920 --> 03:14:25,920
+Bye.
+
+1679
+03:14:25,920 --> 03:14:26,920
+Bye.
+
+1680
+03:14:26,920 --> 03:14:27,920
+Bye.
+
+1681
+03:14:27,920 --> 03:14:28,920
+Bye.
+
+1682
+03:14:28,920 --> 03:14:29,920
+Bye.
+
+1683
+03:14:29,920 --> 03:14:30,920
+Bye.
+
+1684
+03:14:30,920 --> 03:14:31,920
+Bye.
+
+1685
+03:14:31,920 --> 03:14:32,920
+Bye.
+
+1686
+03:14:32,920 --> 03:14:33,920
+Bye.
+
+1687
+03:14:33,920 --> 03:14:34,920
+Bye.
+
+1688
+03:14:34,920 --> 03:14:35,920
+Thank you.
+
+1689
+03:14:35,920 --> 03:14:36,920
+Thank you.
+
+1690
+03:14:36,920 --> 03:14:37,920
+Bye.
+
+1691
+03:14:37,920 --> 03:14:38,920
+Bye.
+
+1692
+03:14:38,920 --> 03:14:39,920
+Bye.
+
+1693
+03:14:39,920 --> 03:14:40,920
+Bye.
+
+1694
+03:14:40,920 --> 03:14:41,920
+Bye.
+
+1695
+03:14:41,920 --> 03:14:42,920
+Bye.
+
+1696
+03:14:42,920 --> 03:14:43,920
+Bye.
+
+1697
+03:14:43,920 --> 03:14:44,920
+Bye.
+
+1698
+03:14:44,920 --> 03:14:45,920
+Bye.
+

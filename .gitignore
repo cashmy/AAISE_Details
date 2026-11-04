@@ -1,0 +1,20 @@
+*.mp4
+*.pptx
+Code_Sample*.*
+tmp/
+
+# Generated runtime/build artifacts
+**/node_modules/
+**/outputs/
+**/scripts/
+**/legacy/
+**/Videos/
+**/__pycache__/
+**/.venv/
+**/venv/
+**/.pytest_cache/
+**/.mypy_cache/
+**/.ruff_cache/
+**/.tox/
+*.py[cod]
+~$*

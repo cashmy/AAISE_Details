@@ -1,0 +1,10 @@
+Month,Academic 12-Month Cycle,Academic 24-Month Cycle,Tech 6-Month Shift Cycle,Tech 4-Month Shift Cycle
+0,0,0,0,0
+6,0,0,1,1
+12,1,0,2,3
+18,1,0,3,4
+24,2,1,4,6
+30,2,1,5,7
+36,3,1,6,9
+42,3,1,7,10
+48,4,2,8,12
